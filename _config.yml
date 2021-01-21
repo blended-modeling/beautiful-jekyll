@@ -14,7 +14,7 @@ author: The BUMBLE Project Consortium
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About BUMBLE: ""
+  About BUMBLE: "index"
   Partners: "partners"
 
 # --- Logo --- #
