@@ -7,3 +7,11 @@
 .inline-image {
 	height: 1em;
 }
+
+table tr {
+	border-top: 0px;
+}
+
+table tr td {
+	border: 0px;
+}

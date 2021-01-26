@@ -1,9 +1,11 @@
 ---
 ---
 
-# Partners
+# Partners 
 
-## ![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} Sweden
+| ![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} [Sweden](#Sweden) | ![Dutch Flag](../assets/img/flag_netherlands.png){:class="inline-image"} [Netherlands](#Netherlands) | ![Austrian Flag](../assets/img/flag_austria.png){:class="inline-image"} [Austria](#Austria) | ![Turkish Flag](../assets/img/flag_turkey.png){:class="inline-image"} [Turkey](#Turkey) |
+
+## <a name="Sweden"></a>![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} Sweden
 
 **Unibap AB** -- Supplier
 
@@ -38,7 +40,7 @@ The researchers at the University of Gothenburg are one of the leading research 
 
 **Pictor Consulting AB** -- Technology provider
 
-## ![Dutch Flag](../assets/img/flag_netherlands.png){:class="inline-image"} Netherlands
+## <a name="Netherlands"></a>![Dutch Flag](../assets/img/flag_netherlands.png){:class="inline-image"} Netherlands
 
 **Canon Production Printing Netherlands B.V.** -- OEM in professional digital printing domain
 
@@ -60,7 +62,7 @@ The Software and Services group of the VU will bring its unique combination of e
 With BUMBLE, VU will have the unique opportunity to transfer its research on collaborative modeling and influence the industrial practice with respect to blended modeling. This will strengthen the scientific position of the VU. New synergies with industrial partners will likely emerge during the project, which will allow us to build the foundation for future research initiatives and collaborations. Also, those new industrial synergies will allow us to offer an attractive and supportive research environment within our Master programs.
 
 
-## ![Austrian Flag](../assets/img/flag_austria.png){:class="inline-image"} Austria
+## <a name="Austria"></a>![Austrian Flag](../assets/img/flag_austria.png){:class="inline-image"} Austria
 
 **AVL List GmbH** -- Tool and service provider
 
@@ -81,7 +83,7 @@ It is expected that TU Wien can position itself as one of the world-leading rese
 
 WU is renowned in the scientific community for research on software-language engineering and language-oriented programming, including active development, maintenance, and research on open-source software (in particular, the Next Scripting Framework NSF). WU Vienna contributes expertise in conducting academic and applied research in the area of model-based engineering and empirical software engineering. The project is expected to strengthen WU's long-term research efforts towards collecting empirical evidence on software-language development, adoption, and usage. This is because these efforts are highly dependent on trusted access to industry partners and industry data. Research-wise, on the short run, the project outcomes will provide for both immediate and invaluable case-study and field-study material on method engineering in the context of model-driven software development. These competitive advantages will translate into raising further research funds and for establishing new industry and new research collaborations.
 
-## ![Turkish Flag](../assets/img/flag_turkey.png){:class="inline-image"} Turkey
+## <a name="Turkey"></a>![Turkish Flag](../assets/img/flag_turkey.png){:class="inline-image"} Turkey
 
 **Ford Otosan** -- OEM in automotive domain
 
