@@ -19,13 +19,15 @@ rss-description: "S2 Research Group of the Vrije Universiteit Amsterdam"
 navbar-links:
   About us: "pages/about"
   Team: "pages/team"
-  Teaching: "pages/teaching"
-  Publications: "pages/publications"
-  Green Lab: "pages/greenlab"
-  Theses: "pages/theses"
-  Projects: "pages/projects"
+  Teaching:
+    - Courses: "pages/courses"
+    - Theses: "pages/theses"
+    - Alumni: "pages/alumni"
+  Research:
+    - Publications: "pages/publications"
+    - Projects: "pages/projects"
+    - Green Lab: "pages/greenlab"
   Talks: "pages/talks"
-  Alumni: "pages/alumni"
   Contact: "pages/contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
