@@ -17,6 +17,7 @@ rss-description: "S2 Research Group • Vrije Universiteit Amsterdam"
 
 # List of links in the navigation bar
 navbar-links:
+  News: "blog"
   About us: "pages/about"
   Team: "pages/team"
   Teaching:
