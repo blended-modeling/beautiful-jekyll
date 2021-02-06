@@ -23,7 +23,7 @@ navbar-links:
     - Courses: "pages/courses"
     - Theses: "pages/theses"
     - Alumni: "pages/alumni"
-  Research:
+  Our research:
     - Publications: "pages/publications"
     - Projects: "pages/projects"
     - Green Lab: "pages/greenlab"
