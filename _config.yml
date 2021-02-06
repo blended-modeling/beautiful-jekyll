@@ -11,7 +11,7 @@ baseurl: ""
 title: "Software and Sustainability research group"
 
 # Short description of your site
-description: "Official website of the Software and Sustainability research group"
+rss-description: "Official website of the Software and Sustainability research group"
 
 # --- Navigation bar options --- #
 
