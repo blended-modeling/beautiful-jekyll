@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alumni
+title: Teaching
 <!-- subtitle: X  -->
 ---
 
