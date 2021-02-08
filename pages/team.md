@@ -18,6 +18,6 @@ professors:
 
 These are our professors.
 
-{% include list-circles.html items=page.professors}
+{% include list-circles.html items=page.professors %}
 
 
