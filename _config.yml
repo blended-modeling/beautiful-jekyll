@@ -19,7 +19,7 @@ rss-description: "S2 Research Group • Vrije Universiteit Amsterdam"
 navbar-links:
   News: "pages/news" # Ivano (and all the others for the next ones)
   About us: "pages/about"
-  Team: "pages/team"
+  Team: "pages/team" # Michel
   Teaching:
     - Courses: "pages/courses" # Michel
     - Theses: "pages/theses"
@@ -210,6 +210,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      show-avatar: true
 
 # Exclude these files from production site
 exclude:
