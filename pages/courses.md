@@ -1,10 +1,6 @@
-# Teaching
-
-
-
 We provide the following couses.
 
-|Course | Instructor | Program |
+|<div style="width:290px">Course</div> | <div style="width:290px">Instructor</div> | <div style="width:290px">Program</div> |
 | --- | --- | --- |
 | Digitalization and Sustainability	 | 	[Patricia Lago](http://patricialago.nl/) | Master Information Sciences |
 | Software Architecture	 | Remco C. de Boer	 | Master Computer Science, Master Information Sciences |
