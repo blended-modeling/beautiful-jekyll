@@ -1,3 +1,9 @@
+---
+layout: page
+title: Alumni
+<!-- subtitle: X  -->
+---
+
 We provide the following courses.
 
 |Course | Instructor | Program |
