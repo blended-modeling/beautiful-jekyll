@@ -19,7 +19,7 @@ rss-description: "S2 Research Group • Vrije Universiteit Amsterdam"
 navbar-links:
   News: "pages/news" # Ivano (and all the others for the next ones)
   About us: "pages/about"
-  Team: "pages/team" # Michel
+  Team: "pages/team" # Michel (GitHub and Twitter icons are not appearing)
   Teaching:
     - Courses: "pages/courses" # Michel
     - Theses: "pages/theses"
