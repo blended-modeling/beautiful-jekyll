@@ -18,10 +18,10 @@ In a nutshell, the Green Lab is composed of three main components:
 
 - The Green Lab is also a **research laboratory**, currently located in the 7th floor of the NU building at the VU. The lab hosts a number of servers and a test farm composed of several Android mobile devices, instrumented with state-of-the-Art energy sensors, to run our experiments on software energy efficiency. In [this GitHub page](https://github.com/S2-group) we make publicly available all the experimental data we gather in the Green Lab. Stay tuned for new experiments!
 
-- The Green Lab is also a **collaboration platform** with companies and other institutes (see here [our brochure](/assets/files/GreenLabBrochure.pdf) about how we can collaborate together). Starting from a *technological dilemma* proposed by our partners, together we undertake a well-defined, robust, and predictable exploration for solving it. As shown in the image below, we organize brainstorming sessions, produce preliminary designs of the experiment, evaluate technical alternatives, up to the delivery of a final comprehensive report with detailed results about the collected measures, and support our partners in the final phase of decision making.
+- The Green Lab is also a **collaboration platform** with companies and other institutes (see here [our brochure](/files/green-lab-brochure.pdf) about how we can collaborate together). Starting from a *technological dilemma* proposed by our partners, together we undertake a well-defined, robust, and predictable exploration for solving it. As shown in the image below, we organize brainstorming sessions, produce preliminary designs of the experiment, evaluate technical alternatives, up to the delivery of a final comprehensive report with detailed results about the collected measures, and support our partners in the final phase of decision making.
 
 <center>
-<img src="/assets/img/greenLab_collaboration_process.png" alt="Green Lab collaboration process" />
+<img src="/files/greenLab_collaboration_process.png" alt="Green Lab collaboration process" />
 </center>
  
 
