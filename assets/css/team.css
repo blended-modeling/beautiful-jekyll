@@ -151,8 +151,12 @@ img {
   transition: opacity 0.5s ease-in-out;
   left: 50%;
   width: 50px;
+  vertical-align: middle;
+  height: 50px;
+  border-radius: 50%;
   margin-top: -25px;
 }
+
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
   border-radius: 50%;
@@ -162,6 +166,7 @@ img {
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
+
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
   border-radius: 50%;
