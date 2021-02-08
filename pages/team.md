@@ -186,7 +186,7 @@ team:
 
 [Dr. Hector Fernandez](https://www.linkedin.com/in/hector2fernandez/)
 
-[Dr. Giordano Tamburrelli(https://www.s2group.cs.vu.nl/people/giordano-tamburrelli/)
+[Dr. Giordano Tamburrelli](https://www.s2group.cs.vu.nl/people/giordano-tamburrelli/)
 
 # Guests
 
