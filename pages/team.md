@@ -31,14 +31,14 @@ professors:
     url: https://www.thevalueengineers.nl/
     github: https://github.com/#
     twitter: https://twitter.com/#
-   - name: Dr. Emitzá Gusmán
+  - name: Dr. Emitzá Gusmán
     img: /img/people/emitza.jpeg
     desc: Assistant Professor
     website: https://www.thevalueengineers.nl/
     url: https://www.thevalueengineers.nl/
     github: https://github.com/#
     twitter: https://twitter.com/#
-   - name: Dr. Ilias Gerostathopoulos
+  - name: Dr. Ilias Gerostathopoulos
     img: /img/people/ilias.jpeg
     desc: Assistant Professor
     website: https://www.thevalueengineers.nl/
