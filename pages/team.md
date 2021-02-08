@@ -20,31 +20,31 @@ professors:
   - name: Prof. Antony Tang
     img: /img/people/antony.jpeg
     desc: Adjunct Associate Professor
-    website: #
-    url: #
-    github: #
-    twitter: #
+    website: https://www.thevalueengineers.nl/
+    url: https://www.thevalueengineers.nl/
+    github: https://github.com/#
+    twitter: https://twitter.com/#
   - name: Dr. Ivano Malavolta
     img: /img/people/ivano.jpeg
     desc: Assistant Professor
-    website: #
-    url: #
-    github: #
-    twitter: #
+    website: https://www.thevalueengineers.nl/
+    url: https://www.thevalueengineers.nl/
+    github: https://github.com/#
+    twitter: https://twitter.com/#
    - name: Dr. Emitzá Gusmán
     img: /img/people/emitza.jpeg
-    desc: #
-    website: #
-    url: #
-    github: #
-    twitter: #
+    desc: Assistant Professor
+    website: https://www.thevalueengineers.nl/
+    url: https://www.thevalueengineers.nl/
+    github: https://github.com/#
+    twitter: https://twitter.com/#
    - name: Dr. Ilias Gerostathopoulos
     img: /img/people/ilias.jpeg
-    desc: #
-    website: #
-    url: #
-    github: #
-    twitter: #
+    desc: Assistant Professor
+    website: https://www.thevalueengineers.nl/
+    url: https://www.thevalueengineers.nl/
+    github: https://github.com/#
+    twitter: https://twitter.com/#
 ---
 
 
