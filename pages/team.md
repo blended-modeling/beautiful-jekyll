@@ -17,7 +17,34 @@ professors:
     url: https://www.thevalueengineers.nl/
     github: https://github.com/#
     twitter: https://twitter.com/#
-   
+  - name: Prof. Antony Tang
+    img: /img/people/antony.jpeg
+    desc: Adjunct Associate Professor
+    website: #
+    url: #
+    github: #
+    twitter: #
+  - name: Dr. Ivano Malavolta
+    img: /img/people/ivano.jpeg
+    desc: Assistant Professor
+    website: #
+    url: #
+    github: #
+    twitter: #
+   - name: Dr. Emitzá Gusmán
+    img: /img/people/emitza.jpeg
+    desc: #
+    website: #
+    url: #
+    github: #
+    twitter: #
+   - name: Dr. Ilias Gerostathopoulos
+    img: /img/people/ilias.jpeg
+    desc: #
+    website: #
+    url: #
+    github: #
+    twitter: #
 ---
 
 
