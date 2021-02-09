@@ -134,71 +134,38 @@ team:
 {% include list-circles.html items=page.team %}
 
 # Associated Members
-
-
-[Prof. Dr. Hans van Vliet](https://scholar.google.it/citations?user=4YAdfEsAAAAJ&hl=it&oi=ao)
-
-[Prof. Dr. Gerrit van der Veer](https://www.cs.vu.nl/~gerrit/)
-
-[Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
+- [Prof. Dr. Hans van Vliet](https://scholar.google.it/citations?user=4YAdfEsAAAAJ&hl=it&oi=ao)
+- [Prof. Dr. Gerrit van der Veer](https://www.cs.vu.nl/~gerrit/)
+- [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
 
 # Scientific Collaborators
-
-
-[Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
-
-[Gian Luca Scoccia](#)
-
-[Teerath Das](#)
-
-[Dr. Grace A. Lewis](https://www.s2group.cs.vu.nl/people/grace-a-lewis/) - Graduated PhD student
+- [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
+- [Gian Luca Scoccia](#)
+- [Teerath Das](#)
+- [Dr. Grace A. Lewis](https://www.s2group.cs.vu.nl/people/grace-a-lewis/) - Graduated PhD student
 
 # Former Members
-
-
-[Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
-
-[Gianantonio Me](https://es.linkedin.com/in/gianantonio-me-80a54461)
-
-[Dr. Martin van den Berg](https://www.linkedin.com/in/mjbkvandenberg/) - Graduated PhD student
-
-[Dr. Fahimeh Alizadeh Moghaddam](https://www.linkedin.com/in/fahimeh-alizadeh-moghaddam/) - Graduated PhD student
-
-[Dr. Viktor Clerc](https://www.linkedin.com/in/clerc/) - Graduated PhD student
-
-[Dr. Rik Farenhorst](https://www.linkedin.com/in/rikfarenhorst/) - Graduated PhD student
-
-[Dr. Qing Gu](https://www.linkedin.com/in/qinggu/) - Graduated PhD student
-
-[Dr. John Klein](https://www.linkedin.com/in/johnrklein/) - Graduated PhD student
-
-[Dr. Giuseppe Procaccianti](https://www.s2group.cs.vu.nl/people/giuseppe-procaccianti/) - Graduated PhD student
-
-[Dr. Maryam Razavian](http://is.ieis.tue.nl/staff/mrazavian/) - Graduated PhD student
-
-[Dr. Ivan S. Razo-Zapata](https://www.linkedin.com/in/iv%C3%A1n-s-razo-zapata-9514924b/) - Graduated PhD student
-
-[Dr. Damian A. Tamburri](https://www.linkedin.com/in/maelstrom/) - Graduated PhD student
-
-[Dr. Hans Burg](https://www.linkedin.com/in/hansburg/)
-
-[Dr. Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer/)
-
-[Dr. Hector Fernandez](https://www.linkedin.com/in/hector2fernandez/)
-
-[Dr. Giordano Tamburrelli](https://www.s2group.cs.vu.nl/people/giordano-tamburrelli/)
+- [Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
+- [Gianantonio Me](https://es.linkedin.com/in/gianantonio-me-80a54461)
+- [Dr. Martin van den Berg](https://www.linkedin.com/in/mjbkvandenberg/) - Graduated PhD student
+- [Dr. Fahimeh Alizadeh Moghaddam](https://www.linkedin.com/in/fahimeh-alizadeh-moghaddam/) - Graduated PhD student
+- [Dr. Viktor Clerc](https://www.linkedin.com/in/clerc/) - Graduated PhD student
+- [Dr. Rik Farenhorst](https://www.linkedin.com/in/rikfarenhorst/) - Graduated PhD student
+- [Dr. Qing Gu](https://www.linkedin.com/in/qinggu/) - Graduated PhD student
+- [Dr. John Klein](https://www.linkedin.com/in/johnrklein/) - Graduated PhD student
+- [Dr. Giuseppe Procaccianti](https://www.s2group.cs.vu.nl/people/giuseppe-procaccianti/) - Graduated PhD student
+- [Dr. Maryam Razavian](http://is.ieis.tue.nl/staff/mrazavian/) - Graduated PhD student
+- [Dr. Ivan S. Razo-Zapata](https://www.linkedin.com/in/iv%C3%A1n-s-razo-zapata-9514924b/) - Graduated PhD student
+- [Dr. Damian A. Tamburri](https://www.linkedin.com/in/maelstrom/) - Graduated PhD student
+- [Dr. Hans Burg](https://www.linkedin.com/in/hansburg/)
+- [Dr. Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer/)
+- [Dr. Hector Fernandez](https://www.linkedin.com/in/hector2fernandez/)
+- [Dr. Giordano Tamburrelli](https://www.s2group.cs.vu.nl/people/giordano-tamburrelli/)
 
 # Guests
-
-
-[Mr. Paolo Di Francesco](http://www.paolodifrancesco.com/)
-
-[Prof. Daniela Damian](https://danadamian.wordpress.com/)
-
-[Prof. Philippe Kruchten](https://philippe.kruchten.com/)
-
-[Dr. Henry Muccini](https://www.henrymuccini.com/)
-
-[Prof. Ita Richardson](https://www.csis.ul.ie/staff/ItaRichardson/)
-
-[Dr. Antonio Vetro'](httpss://nexa.polito.it/people/avetro)
+- [Mr. Paolo Di Francesco](http://www.paolodifrancesco.com/)
+- [Prof. Daniela Damian](https://danadamian.wordpress.com/)
+- [Prof. Philippe Kruchten](https://philippe.kruchten.com/)
+- [Dr. Henry Muccini](https://www.henrymuccini.com/)
+- [Prof. Ita Richardson](https://www.csis.ul.ie/staff/ItaRichardson/)
+- [Dr. Antonio Vetro'](httpss://nexa.polito.it/people/avetro)
