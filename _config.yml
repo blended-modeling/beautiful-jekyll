@@ -72,7 +72,8 @@ footer-link-col: "#404040"
 site-css:
 #  - "/assets/css/custom-styles.css"
 - "/assets/css/team.css"
-- "/assets/css/font-awesome.min.css"
+- "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+#- "/assets/css/font-awesome.min.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 site-js:
