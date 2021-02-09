@@ -118,10 +118,8 @@ team:
   - name: Dr. Lara Ziosi
     img: /img/people/lara.jpeg
     desc: Industrial Lecturer
-    website: http://145.108.225.28/people/lara-ziosi/
-    url: http://145.108.225.28/people/lara-ziosi/
-    github: https://github.com/#
-    twitter: https://twitter.com/#
+    website: https://nl.linkedin.com/in/laraziosi
+    url: https://nl.linkedin.com/in/laraziosi
 ---
 
 {% include list-circles.html items=page.team %}

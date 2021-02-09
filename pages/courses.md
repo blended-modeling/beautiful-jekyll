@@ -12,7 +12,7 @@ We provide the following courses.
 | Software Architecture	 | Remco C. de Boer	 | Master Computer Science, Master Information Sciences |
 | Service Oriented Design	 | [Patricia Lago](http://patricialago.nl/){:target="_blank"} | Master Computer Science |
 | Literature Study and Seminar	| [Patricia Lago](http://patricialago.nl/){:target="_blank"} (coordinator) | Master Computer Science |
-| Software Containerization	 | in collaboration with [HCL Technologies](https://www.hcltech.com/geo-presence/benelux){:target="_blank"}	| Master Computer Science |
+| Software Containerization	 | [Lara Ziosi](https://nl.linkedin.com/in/laraziosi)	| Master Computer Science |
 | Green Lab	| [Ivano Malavolta](http://www.ivanomalavolta.com/){:target="_blank"} | Master Computer Science |
 | Software Design	 | [Ivano Malavolta](http://www.ivanomalavolta.com/){:target="_blank"} | Bachelor Computer Science |
 | Eco-systems Disruption by IT	| [Jaap Gordijn](http://145.108.225.28/people/jaap-gordijn/){:target="_blank"} | Master Information Sciences |
