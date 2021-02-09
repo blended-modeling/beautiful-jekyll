@@ -45,13 +45,6 @@ team:
     url: https://iliasger.github.io/
     github: https://github.com/#
     twitter: https://twitter.com/#
-  - name: Dr. Istvan David
-    img: /img/people/istvan.jpeg
-    desc: Postdoc Researcher
-    website: https://istvandavid.com/
-    url: https://istvandavid.com/
-    github: https://github.com/#
-    twitter: https://twitter.com/#
   - name: Dr. Michel Albonico
     img: /img/people/michel.jpeg
     desc: Postdoc Researcher
@@ -139,10 +132,10 @@ team:
 - [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
 
 # Scientific Collaborators
+- [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
-- [Gian Luca Scoccia](#)
-- [Teerath Das](#)
-- [Dr. Grace A. Lewis](https://www.s2group.cs.vu.nl/people/grace-a-lewis/) - Graduated PhD student
+- [Gian Luca Scoccia](https://gianlucascoccia.github.io)
+- [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
 - [Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
@@ -153,14 +146,14 @@ team:
 - [Dr. Rik Farenhorst](https://www.linkedin.com/in/rikfarenhorst/) - Graduated PhD student
 - [Dr. Qing Gu](https://www.linkedin.com/in/qinggu/) - Graduated PhD student
 - [Dr. John Klein](https://www.linkedin.com/in/johnrklein/) - Graduated PhD student
-- [Dr. Giuseppe Procaccianti](https://www.s2group.cs.vu.nl/people/giuseppe-procaccianti/) - Graduated PhD student
+- [Dr. Giuseppe Procaccianti](https://procaccianti.me) - Graduated PhD student
 - [Dr. Maryam Razavian](http://is.ieis.tue.nl/staff/mrazavian/) - Graduated PhD student
 - [Dr. Ivan S. Razo-Zapata](https://www.linkedin.com/in/iv%C3%A1n-s-razo-zapata-9514924b/) - Graduated PhD student
 - [Dr. Damian A. Tamburri](https://www.linkedin.com/in/maelstrom/) - Graduated PhD student
 - [Dr. Hans Burg](https://www.linkedin.com/in/hansburg/)
 - [Dr. Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer/)
 - [Dr. Hector Fernandez](https://www.linkedin.com/in/hector2fernandez/)
-- [Dr. Giordano Tamburrelli](https://www.s2group.cs.vu.nl/people/giordano-tamburrelli/)
+- [Dr. Giordano Tamburrelli](https://nl.linkedin.com/in/giordano-tamburrelli-b532334)
 
 # Guests
 - [Mr. Paolo Di Francesco](http://www.paolodifrancesco.com/)
