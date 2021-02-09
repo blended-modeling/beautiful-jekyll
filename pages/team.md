@@ -27,10 +27,10 @@ team:
   - name: Dr. Ivano Malavolta
     img: /img/people/ivano.jpeg
     desc: Assistant Professor
-    website: http://www.ivanomalavolta.com/
-    url: http://www.ivanomalavolta.com/
-    github: https://github.com/#
-    twitter: https://twitter.com/#
+    website: http://www.ivanomalavolta.com
+    url: http://www.ivanomalavolta.com
+    github: https://github.com/iivanoo
+    twitter: https://twitter.com/IMalavolta
   - name: Dr. Emitzá Gusmán
     img: /img/people/emitza.jpeg
     desc: Assistant Professor
