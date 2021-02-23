@@ -136,6 +136,7 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Stan Swanborn](https://nl.linkedin.com/in/stan-swanborn-0470b4a9)
 - [Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
 - [Gianantonio Me](https://es.linkedin.com/in/gianantonio-me-80a54461)
 - [Dr. Martin van den Berg](https://www.linkedin.com/in/mjbkvandenberg/) - Graduated PhD student
