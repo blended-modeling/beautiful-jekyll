@@ -122,7 +122,7 @@ team:
     url: https://nl.linkedin.com/in/laraziosi
 ---
 
-{% include list-circles.html items=page.team %}
+{% include list-squares.html items=page.team %}
 
 # Associated Members
 - [Prof. Dr. Hans van Vliet](https://scholar.google.it/citations?user=4YAdfEsAAAAJ&hl=it&oi=ao)
