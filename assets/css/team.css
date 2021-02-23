@@ -2,21 +2,21 @@
 
 /* --- General --- */
 
-/* --- Lists of circles --- */
+/* --- Lists of squares --- */
 
-.list-circles {
+.list-squares {
   text-align: center;
 }
 
 @media only screen and (min-width: 1200px) {
-  .list-circles {
+  .list-squares {
     width: 150%;
     margin-left: -25%;
   }
 }
 
 
-.list-circles-item {
+.list-squares-item {
   display: inline-block;
   width: 240px;
   vertical-align: top;
@@ -24,11 +24,11 @@
   padding: 20px;
 }
 
-.list-circles-item:hover {
+.list-squares-item:hover {
   background: #fafafa;
 }
 
-.list-circles-item .item-img {
+.list-squares-item .item-img {
   max-width: 200px;
   height: 200px;
   -webkit-border-radius: 50%;
@@ -37,21 +37,21 @@
   border: 1px solid #777;
 }
 
-.list-circles-item .item-desc {
+.list-squares-item .item-desc {
   font-size: 16px;
 }
 
-.list-circles-item .item-links {
+.list-squares-item .item-links {
   margin-top: 5px;
 }
 
-.list-circles-item .item-link {
+.list-squares-item .item-link {
   margin:0 3px;
   color: #00994C;
   text-decoration: none !important;
 }
 
-.list-circles-item .item-link:hover {
+.list-squares-item .item-link:hover {
   color: #00994C;
 }
 
