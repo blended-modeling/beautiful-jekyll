@@ -17,17 +17,16 @@ rss-description: "S2 Research Group • Vrije Universiteit Amsterdam"
 
 # List of links in the navigation bar
 navbar-links:
-  News: "pages/news" # Ivano (and all the others for the next ones)
   About us: "pages/about"
-  Team: "pages/team" # Michel
+  Team: "pages/team" 
   Teaching:
-    - Courses: "pages/courses" # Michel
+    - Courses: "pages/courses" 
     - Theses: "pages/theses"
-    - Alumni: "pages/alumni" # Michel
+    - Alumni: "pages/alumni" 
   Our research:
-    - Publications: "pages/publications" # Ilias
+    - Publications: "pages/publications" 
     - Projects: "pages/projects"
-    - Green Lab: "pages/greenlab" # Ivano
+    - Green Lab: "pages/greenlab" 
   Awards: "pages/awards"
   Contact: "pages/contact"
 
