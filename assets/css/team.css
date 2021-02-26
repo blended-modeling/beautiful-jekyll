@@ -46,12 +46,12 @@
 
 .list-squares-item .item-link {
   margin:0 3px;
-  color: #00994C;
+  color: #00FF00;
   text-decoration: none !important;
 }
 
 .list-squares-item .item-link:hover {
-  color: #00994C;
+  color: #00FF00;
 }
 
 .fa_custom {
