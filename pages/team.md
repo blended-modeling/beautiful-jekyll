@@ -89,14 +89,14 @@ team:
     twitter: https://twitter.com/#
   - name: Razieh Alidoosti
     img: /img/people/razieh.jpeg
-    desc: PhD Students
+    desc: PhD Student
     website: http://145.108.225.28/people/razieh-alidoosti
     url: http://145.108.225.28/people/razieh-alidoosti
     github: https://github.com/#
     twitter: https://twitter.com/#
   - name: Anjana M S
     img: /img/people/anjana.jpeg
-    desc: PhD Students
+    desc: PhD Student
     website: http://145.108.225.28/people/anjana-m-s
     url: http://145.108.225.28/people/anjana-m-s
     github: https://github.com/#
