@@ -56,6 +56,7 @@ hover-col: "#00FF00"
 footer-col: "#000000"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#00FF00"
+footer-border-col: "#00FF00"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -69,7 +70,7 @@ footer-link-col: "#00FF00"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
-#  - "/assets/css/custom-styles.css"
+ - "/assets/css/custom-styles.css"
 - "/assets/css/team.css"
 - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 #- "/assets/css/font-awesome.min.css"
