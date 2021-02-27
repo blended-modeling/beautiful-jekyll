@@ -70,7 +70,7 @@ footer-border-col: "#00FF00"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
- - "/assets/css/custom-styles.css"
+- "/assets/css/custom-styles.css"
 - "/assets/css/team.css"
 - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 #- "/assets/css/font-awesome.min.css"
