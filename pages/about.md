@@ -55,8 +55,9 @@ Our strength is the balance between **scientific quality** and **industrial rele
 
   We are proud members of [IPN (ICT Research Platform Nederland)](https://ict-research.nl){:target="_blank"}, the platform that unites all Dutch academic research groups that have ICT science as their core; and [VERSEN](http://www.versen.nl){:target="_blank"} (the Dutch National Association for Software Engineering). We are affiliated with the [SIKS research school](http://www.siks.nl){:target="_blank"}.
 
-  <div class="container">
-  <div class="column">1</div>
-  <div class="column">2</div>
-  <div class="column">3</div>
-  </div>
+  | **Application areas** | **Academic partners** | **Non-academic partners** |
+  | --- | --- | --- |
+  |  - Smart city and digital society |   - [Software Engineering Institute at CMU, USA](https://www.sei.cmu.edu){:target="_blank"} |   - [ArchiXL](https://www.archixl.nl/en){:target="_blank"}
+  |  - Robotics software | - [Amsterdam Economic Board](https://amsterdameconomicboard.com/en/who-are-we){:target="_blank"}  | - [Chalmers University of Technology, Sweden](https://www.chalmers.se/en){:target="_blank"}  
+  |  - Cloud based software |    - [Gran Sasso Science Institute, Italy](https://cs.gssi.it){:target="_blank"} |   - [CGI](https://www.cgi.com/en){:target="_blank"}  
+  | | - [University of L’Aquila, Italy](https://www.disim.univaq.it){:target="_blank"} |
