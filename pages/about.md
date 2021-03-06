@@ -55,18 +55,3 @@ Our strength is the balance between **scientific quality** and **industrial rele
   Our philosophy is that research should be industrial-relevant and serve the final purpose of being applied in practice. To this end, we specifically focus on the “real’’ needs of industrial practice by establishing collaboration with our industrial partners. In long term, the results of our research contribute to the European agenda by providing sustainable and innovative approaches to support service societies.
 
   We are proud members of [IPN (ICT Research Platform Nederland)](https://ict-research.nl){:target="_blank"}, the platform that unites all Dutch academic research groups that have ICT science as their core; and [VERSEN](http://www.versen.nl){:target="_blank"} (the Dutch National Association for Software Engineering). We are affiliated with the [SIKS research school](http://www.siks.nl){:target="_blank"}.
-
-  <div class="row ">
-  <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-  <div id="osc_servicebox_0" class="osc_servicebox "><span class="fa fa-bar-chart-o icon_bg iconcircle"></span><div class="osc_servicebox_content">**Application areas**</div></div>
-  </div>
-  <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-  <div id="osc_servicebox_1" class="osc_servicebox "><span class="fa fa-dashboard icon_bg iconcircle"></span><div class="osc_servicebox_content">**Academic partners**</div></div>
-  </div>
-  <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-  <div id="osc_servicebox_2" class="osc_servicebox "><div class="osc_servicebox_content">
-**Non-academic partners**
-  </div></div>
-  </div>
-  <br />
-  </div>
