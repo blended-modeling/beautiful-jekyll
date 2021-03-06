@@ -53,6 +53,12 @@ Our strength is the balance between **scientific quality** and **industrial rele
   <li>[Gran Sasso Science Institute (Italy)]https://cs.gssi.it</li>
 </ul>
   </div>
-  <div class="column">Non-academic partners
+  <div class="column">
+  <b>Non-academic partners</b>
+  <ul>
+  <li>Amsterdam Economic Board</li>
+  <li>ArchiXL</li>
+  <li>CGI</li>
+</ul>
   </div>
 </div>
