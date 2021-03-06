@@ -38,18 +38,16 @@ Our strength is the balance between **scientific quality** and **industrial rele
 <div class="row">
   <div class="column">
   <b>Application areas</b>
-  - Smart city and digital society</li>
-  - Robotics software</li>
+  - Smart city and digital society
+  - Robotics software
   - Cloud based software
   </div>
   <div class="column">
   <b>Academic partners</b>
-  <ul>
-  <li>[Software Engineering Institute at CMU (USA)](https://www.sei.cmu.edu)</li>
-  <li>[Chalmers University of Technology (Sweden)](https://www.chalmers.se/en)</li>
-  <li>[University of L’Aquila (Italy)](https://www.disim.univaq.it)</li>
-  <li>[Gran Sasso Science Institute (Italy)](https://cs.gssi.it)</li>
-</ul>
+  - [Software Engineering Institute at CMU (USA)](https://www.sei.cmu.edu)
+  - Chalmers University of Technology (Sweden)](https://www.chalmers.se/en)
+  - [University of L’Aquila (Italy)](https://www.disim.univaq.it)
+  - [Gran Sasso Science Institute (Italy)](https://cs.gssi.it)
   </div>
   <div class="column">
   <b>Non-academic partners</b>
