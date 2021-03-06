@@ -10,7 +10,8 @@ We carry out research in software engineering and software architecture in gener
 
 Our **focus** is on the following scientific areas of interest:
 
-<div class="row "><div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
+<div class="row ">
+<div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
 <div id="osc_servicebox_0" class="osc_servicebox "><span class="fa fa-bar-chart-o icon_bg iconcircle"></span><div class="osc_servicebox_content">Data-driven decision making</div></div>
 </div>
 <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
@@ -55,9 +56,15 @@ Our strength is the balance between **scientific quality** and **industrial rele
 
   We are proud members of [IPN (ICT Research Platform Nederland)](https://ict-research.nl){:target="_blank"}, the platform that unites all Dutch academic research groups that have ICT science as their core; and [VERSEN](http://www.versen.nl){:target="_blank"} (the Dutch National Association for Software Engineering). We are affiliated with the [SIKS research school](http://www.siks.nl){:target="_blank"}.
 
-  | **Application areas** | **Academic partners** | **Non-academic partners** |
-  | --- | --- | --- |
-  |  - Smart city and digital society |   - [Software Engineering Institute at CMU, USA](https://www.sei.cmu.edu){:target="_blank"} |   - [ArchiXL](https://www.archixl.nl/en){:target="_blank"}
-  |  - Robotics software | - [Amsterdam Economic Board](https://amsterdameconomicboard.com/en/who-are-we){:target="_blank"}  | - [Chalmers University of Technology, Sweden](https://www.chalmers.se/en){:target="_blank"}  
-  |  - Cloud based software |    - [Gran Sasso Science Institute, Italy](https://cs.gssi.it){:target="_blank"} |   - [CGI](https://www.cgi.com/en){:target="_blank"}  
-  | | - [University of L’Aquila, Italy](https://www.disim.univaq.it){:target="_blank"} |
+  <div class="row ">
+  <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
+  <div id="osc_servicebox_0" class="osc_servicebox "><span class="fa fa-bar-chart-o icon_bg iconcircle"></span><div class="osc_servicebox_content">Data-driven decision making</div></div>
+  </div>
+  <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
+  <div id="osc_servicebox_1" class="osc_servicebox "><span class="fa fa-dashboard icon_bg iconcircle"></span><div class="osc_servicebox_content">Sustainability and Green IT</div></div>
+  </div>
+  <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
+  <div id="osc_servicebox_2" class="osc_servicebox "><div class="osc_servicebox_content">Software architecture design</div></div>
+  </div>
+  <br />
+  </div>
