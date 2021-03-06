@@ -37,9 +37,9 @@ Our strength is the balance between **scientific quality** and **industrial rele
   <div class="column">
   <b>Application areas (examples)</b>
   <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Smart city and digital society</li>
+  <li>Robotics software</li>
+  <li>Cloud based software</li>
 </ul>
   </div>
   <div class="column">
