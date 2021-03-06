@@ -35,20 +35,18 @@ Our strength is the balance between **scientific quality** and **industrial rele
 
 ## Some Application areas and Partners
 
-
 **Application areas**
-
   - Smart city and digital society
   - Robotics software
   - Cloud based software
 
   **Academic partners**
   - [Software Engineering Institute at CMU, USA](https://www.sei.cmu.edu){:target="_blank"}
-  - [Chalmers University of Technology, Sweden](https://www.chalmers.se/en)
-  - [University of L’Aquila, Italy](https://www.disim.univaq.it)
-  - [Gran Sasso Science Institute, Italy](https://cs.gssi.it)
+  - [Chalmers University of Technology, Sweden](https://www.chalmers.se/en){:target="_blank"}
+  - [University of L’Aquila, Italy](https://www.disim.univaq.it){:target="_blank"}
+  - [Gran Sasso Science Institute, Italy](https://cs.gssi.it){:target="_blank"}
 
-  <b>Non-academic partners</b>
-  - [Amsterdam Economic Board](https://amsterdameconomicboard.com/en/who-are-we)
-  - [ArchiXL](https://www.archixl.nl/en)
-  - [CGI](https://www.cgi.com/en)
+**Non-academic partners**
+  - [Amsterdam Economic Board](https://amsterdameconomicboard.com/en/who-are-we){:target="_blank"}
+  - [ArchiXL](https://www.archixl.nl/en){:target="_blank"}
+  - [CGI](https://www.cgi.com/en){:target="_blank"}
