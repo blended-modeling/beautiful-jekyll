@@ -55,21 +55,6 @@ Our strength is the balance between **scientific quality** and **industrial rele
 
   We are proud members of [IPN (ICT Research Platform Nederland)](https://ict-research.nl){:target="_blank"}, the platform that unites all Dutch academic research groups that have ICT science as their core; and [VERSEN](http://www.versen.nl){:target="_blank"} (the Dutch National Association for Software Engineering). We are affiliated with the [SIKS research school](http://www.siks.nl){:target="_blank"}.
 
-  /* Create three equal columns that floats next to each other */
-  .column {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
-  }
-
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  
   <div class="row">
     <div class="column"><img src="/img/logos/IPN.jpg" alt="IPN" width="33%" /></div>
     <div class="column"><img src="/img/logos/VERSEN.png" alt="VERSEN" width="33%" /></div>
