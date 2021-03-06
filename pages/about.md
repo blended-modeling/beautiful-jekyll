@@ -58,13 +58,15 @@ Our strength is the balance between **scientific quality** and **industrial rele
 
   <div class="row ">
   <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-  <div id="osc_servicebox_0" class="osc_servicebox "><span class="fa fa-bar-chart-o icon_bg iconcircle"></span><div class="osc_servicebox_content">Data-driven decision making</div></div>
+  <div id="osc_servicebox_0" class="osc_servicebox "><span class="fa fa-bar-chart-o icon_bg iconcircle"></span><div class="osc_servicebox_content">**Application areas**</div></div>
   </div>
   <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-  <div id="osc_servicebox_1" class="osc_servicebox "><span class="fa fa-dashboard icon_bg iconcircle"></span><div class="osc_servicebox_content">Sustainability and Green IT</div></div>
+  <div id="osc_servicebox_1" class="osc_servicebox "><span class="fa fa-dashboard icon_bg iconcircle"></span><div class="osc_servicebox_content">**Academic partners**</div></div>
   </div>
   <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-  <div id="osc_servicebox_2" class="osc_servicebox "><div class="osc_servicebox_content">Software architecture design</div></div>
+  <div id="osc_servicebox_2" class="osc_servicebox "><div class="osc_servicebox_content">
+**Non-academic partners**
+  </div></div>
   </div>
   <br />
   </div>
