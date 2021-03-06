@@ -10,11 +10,6 @@ The S2 Group carries out research in software engineering and software architect
 
 Our **focus** is on the following scientific areas of interest:
 
-- name: Dr. Emitzá Gusmán
-  img: /img/people/emitza.jpeg
-
-{% include list-squares.html items=page.team %}
-
 <p><div class="row "><div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
 <div id="osc_servicebox_0" class="osc_servicebox "><span class="fa fa-bar-chart-o icon_bg iconcircle"></span><div class="osc_servicebox_content">Data-driven decision making</div></div>
 </div>
