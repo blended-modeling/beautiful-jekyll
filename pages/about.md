@@ -37,6 +37,8 @@ Our strength is the balance between **scientific quality** and **industrial rele
   <div class="column">
   **Application areas (examples)**
   </div>
-  <div class="column"></div>
-  <div class="column"></div>
+  <div class="column">
+  **Academic partners**
+  </div>
+  <div class="column">Non-academic partners</div>
 </div>
