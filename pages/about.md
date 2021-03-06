@@ -35,7 +35,12 @@ Our strength is the balance between **scientific quality** and **industrial rele
 
 <div class="row">
   <div class="column">
-  **Application areas (examples)**
+  <b>Application areas (examples)</b>
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
   </div>
   <div class="column">
   **Academic partners**
