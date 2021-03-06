@@ -47,7 +47,7 @@ Our strength is the balance between **scientific quality** and **industrial rele
   <div class="column">
   <b>Academic partners</b>
   <ul>
-  <li>[Software Engineering Institute at CMU (USA)]https://www.sei.cmu.edu</li>
+  <li>[Software Engineering Institute at CMU (USA)](https://www.sei.cmu.edu)</li>
   <li>[Chalmers University of Technology (Sweden)]https://www.chalmers.se/en</li>
   <li>[University of L’Aquila (Italy)]https://www.disim.univaq.it</li>
   <li>[Gran Sasso Science Institute (Italy)]https://cs.gssi.it</li>
@@ -56,9 +56,9 @@ Our strength is the balance between **scientific quality** and **industrial rele
   <div class="column">
   <b>Non-academic partners</b>
   <ul>
-  <li>Amsterdam Economic Board</li>
-  <li>ArchiXL</li>
-  <li>CGI</li>
+  <li>[Amsterdam Economic Board]()</li>
+  <li>ArchiXL https://www.archixl.nl/en/</li>
+  <li>CGI https://www.cgi.com/en/</li>
 </ul>
   </div>
 </div>
