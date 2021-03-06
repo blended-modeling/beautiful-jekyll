@@ -56,7 +56,7 @@ Our strength is the balance between **scientific quality** and **industrial rele
   We are proud members of [IPN (ICT Research Platform Nederland)](https://ict-research.nl){:target="_blank"}, the platform that unites all Dutch academic research groups that have ICT science as their core; and [VERSEN](http://www.versen.nl){:target="_blank"} (the Dutch National Association for Software Engineering). We are affiliated with the [SIKS research school](http://www.siks.nl){:target="_blank"}.
 
   <div class="container">
-  <div class="section">1</div>
-  <div class="section">2</div>
-  <div class="section">3</div>
+  <div class="column">1</div>
+  <div class="column">2</div>
+  <div class="column">3</div>
   </div>
