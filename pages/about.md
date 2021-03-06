@@ -57,8 +57,8 @@ Our strength is the balance between **scientific quality** and **industrial rele
   <b>Non-academic partners</b>
   <ul>
   <li>[Amsterdam Economic Board](https://amsterdameconomicboard.com/en/who-are-we)</li>
-  <li>[ArchiXL](https://www.archixl.nl/en/)</li>
-  <li>[CGI](https://www.cgi.com/en/)</li>
+  <li>[ArchiXL](https://www.archixl.nl/en)</li>
+  <li>[CGI](https://www.cgi.com/en)</li>
 </ul>
   </div>
 </div>
