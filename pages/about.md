@@ -38,11 +38,9 @@ Our strength is the balance between **scientific quality** and **industrial rele
 <div class="row">
   <div class="column">
   <b>Application areas</b>
-  <ul>
-  <li>Smart city and digital society</li>
-  <li>Robotics software</li>
-  <li>Cloud based software</li>
-</ul>
+  - Smart city and digital society</li>
+  - Robotics software</li>
+  - Cloud based software
   </div>
   <div class="column">
   <b>Academic partners</b>
