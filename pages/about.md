@@ -33,9 +33,11 @@ Our **focus** is on the following scientific areas of interest:
 
 Our strength is the balance between **scientific quality** and **industrial relevance**.
 
+# Some Application areas and Partners
+
 <div class="row">
   <div class="column">
-  <b>Application areas (examples)</b>
+  <b>Application areas</b>
   <ul>
   <li>Smart city and digital society</li>
   <li>Robotics software</li>
@@ -43,7 +45,7 @@ Our strength is the balance between **scientific quality** and **industrial rele
 </ul>
   </div>
   <div class="column">
-  **Academic partners**
+  <b>Academic partners</b>
   </div>
   <div class="column">Non-academic partners</div>
 </div>
