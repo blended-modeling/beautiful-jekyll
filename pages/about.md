@@ -60,3 +60,11 @@ Our strength is the balance between **scientific quality** and **industrial rele
     <div class="column"><img src="/img/logos/VERSEN.png" alt="VERSEN" width="128" height="100" /></div>
     <div class="column"><img src="/img/logos/SIKS.png" alt="SIKS" width="128" height="100" /></div>
   </div>
+
+  <table>
+    <tr>
+        <td id="left">Some content</td>
+        <td id="center">Center content</td>
+        <td id="right">Right content</td>
+    </tr>
+  </table>
