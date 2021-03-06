@@ -18,15 +18,15 @@ Our **focus** is on the following scientific areas of interest:
 </div>
 <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
 <div id="osc_servicebox_2" class="osc_servicebox "><span class="fa fa-cubes icon_bg iconcircle"></span><div class="osc_servicebox_content">Software architecture design</div></div>
+</div>
+<!--&#091;/row&#093; &#091;row&#093; &#091;column lg="2" md="12" xs="12" sm="12"&#093; &#091;/column&#093; --><div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
+<div id="osc_servicebox_3" class="osc_servicebox "><span class="fa fa-flask icon_bg iconcircle"></span><div class="osc_servicebox_content">Empirical experimentation</div></div>
+</div>
 <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
 <div id="osc_servicebox_4" class="osc_servicebox "><span class="fa fa-line-chart icon_bg iconcircle"></span><div class="osc_servicebox_content">Business modeling</div></div>
 </div>
 <div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
 <div id="osc_servicebox_5" class="osc_servicebox "><span class="fa fa-users icon_bg iconcircle"></span><div class="osc_servicebox_content">Human factors</div></div>
-</div>
-</div>
-<!--&#091;/row&#093; &#091;row&#093; &#091;column lg="2" md="12" xs="12" sm="12"&#093; &#091;/column&#093; --><div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-<div id="osc_servicebox_3" class="osc_servicebox "><span class="fa fa-flask icon_bg iconcircle"></span><div class="osc_servicebox_content">Empirical experimentation</div></div>
 </div>
 <!--&#091;column lg="2" md="12" xs="12" sm="12"&#093; &#091;/column&#093; --><br />
 </div>
