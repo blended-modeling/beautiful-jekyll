@@ -31,5 +31,12 @@ Our **focus** is on the following scientific areas of interest:
 <br />
 </div>
 
-
 Our strength is the balance between **scientific quality** and **industrial relevance**.
+
+<div class="row">
+  <div class="column">
+  **Application areas (examples)**
+  </div>
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
