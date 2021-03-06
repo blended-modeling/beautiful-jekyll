@@ -50,3 +50,7 @@ Our strength is the balance between **scientific quality** and **industrial rele
   - [Amsterdam Economic Board](https://amsterdameconomicboard.com/en/who-are-we){:target="_blank"}
   - [ArchiXL](https://www.archixl.nl/en){:target="_blank"}
   - [CGI](https://www.cgi.com/en){:target="_blank"}
+
+  Our philosophy is that research should be industrial-relevant and serve the final purpose of being applied in practice. To this end, we specifically focus on the “real’’ needs of industrial practice by establishing collaboration with our industrial partners. In long term, the results of our research contribute to the European agenda by providing sustainable and innovative approaches to support service societies.
+
+  We are proud members of [IPN (ICT Research Platform Nederland)](https://ict-research.nl){:target="_blank"}), the platform that unites all Dutch academic research groups that have ICT science as their core; and [VERSEN](http://www.versen.nl){:target="_blank"} (the Dutch National Association for Software Engineering). We are affiliated with the [SIKS research school](http://www.siks.nl){:target="_blank"}.
