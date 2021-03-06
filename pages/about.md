@@ -44,10 +44,10 @@ Our strength is the balance between **scientific quality** and **industrial rele
   </div>
   <div class="column">
   <b>Academic partners</b>
-  - [Software Engineering Institute at CMU (USA)](https://www.sei.cmu.edu)
-  - Chalmers University of Technology (Sweden)](https://www.chalmers.se/en)
-  - [University of L’Aquila (Italy)](https://www.disim.univaq.it)
-  - [Gran Sasso Science Institute (Italy)](https://cs.gssi.it)
+  - [Software Engineering Institute at CMU, USA](https://www.sei.cmu.edu)
+  - [Chalmers University of Technology, Sweden](https://www.chalmers.se/en)
+  - [University of L’Aquila, Italy](https://www.disim.univaq.it)
+  - [Gran Sasso Science Institute, Italy](https://cs.gssi.it)
   </div>
   <div class="column">
   <b>Non-academic partners</b>
