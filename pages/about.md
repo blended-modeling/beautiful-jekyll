@@ -32,6 +32,10 @@ The S2 Group carries out research in software engineering and software architect
 <div class="row "><div class="col-lg-4 col-md-12 col-xs-12 col-sm-12"></p>
 
 <h3>Application areas (examples)</h3>
+- name: Smart city and digital society
+- img: /img/people/patricia.jpeg
+
+
 <ul>
 <li>Smart city and digital society</li>
 <li>Mobile software across different domains, such as banking, eHealth, etc.</li>
