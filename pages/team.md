@@ -52,6 +52,13 @@ team:
     url: https://michelalbonico.github.io/
     github: https://github.com/michelalbonico
     twitter: https://twitter.com/michelalbonico
+  - name: Kousar Aslam
+    img: /img/people/kousar.webp
+    desc: Postdoc Researcher
+    website: https://nl.linkedin.com/in/kousar-aslam-61a39216b
+    url: https://nl.linkedin.com/in/kousar-aslam-61a39216b
+    github: https://github.com/#
+    twitter: https://twitter.com/#
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
     desc: Industrial Lecturer
