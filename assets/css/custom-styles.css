@@ -7,7 +7,7 @@ td, th {
   background-color: #000000;
 }
 
-.page-heading h1 {
+.intro-header .page-heading h1  {
   font-size: 3rem;
   font-weight: 500;
 }
