@@ -3,8 +3,8 @@ body {
 }
 
 td, th {
-  border: 1px solid #00ff00;
-  background-color: #000000;
+  border: 1px solid #AAAAAA !important;
+  background-color: #000000 !important;
 }
 
 .intro-header .page-heading h1  {
