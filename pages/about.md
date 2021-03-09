@@ -7,9 +7,8 @@ title: About us
 We carry out research in software engineering and software architecture in general, and specifically on their socio-technical and environmental sustainability. Software and sustainability play a key role in modern society. Europe focuses on sustainability and innovation more than ever. Our focus is on devising systematic, disciplined, and quantifiable approaches for designing, developing, and maintaining complex software intensive systems.
 
 ## Focus
-
+Our **focus** is on the following scientific areas of interest:
 <div class="row ">
-  Our <strong>focus</strong> is on the following scientific areas of interest:
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;"><span class="fa fa-bar-chart-o icon_bg icon_square"></span><div>Data-driven decision making</div></div>
 </div>
