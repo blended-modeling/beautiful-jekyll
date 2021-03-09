@@ -41,3 +41,12 @@ h1, h2, h3, h4, h5, h6 {
   width: 2em !important;
   margin-top: 1em !important;
 }
+
+.publication-block {
+  border-bottom: 1px solid #00FF00;
+}
+
+.publication-block-title {
+  text-align: center;
+  padding-bottom: 1em
+}

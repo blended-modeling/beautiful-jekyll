@@ -8,16 +8,24 @@
       - title: "A Toolbox for Realtime Timeseries Anomaly Detection"
         authors: Markus Bobel, Ilias Gerostathopoulos, Tomas Bures
         venue: "IEEE International Conference on Software Architecture (ICSA 2020), to appear."
-        doi: https://ieeexplore.ieee.org/document/9095724
+        doi: https://doi.org/10.1109/ICSA-C50368.2020.00053
         pdf: 2021-ICSA-IG-anomaly_detection_tool.pdf
+        url: https://iliasger.github.io/pubs/ICSA2020-tool.pdf (ignored if pdf is present!)
         year: 2020
-        type: conferences
+        type: conference
     ```
     Notes: 
-    * `title` should be always given in double quotes
-    * `venue` should be always given in double quotes
-    * You can leave both the `pdf` and the `pdf` empty if you prefer.  
-    * As `type`, you can use `conferences`,`journals`,`workshopsSpecialTracks`,`bookChapters`
+    * `title` should always be given in double quotes
+    * `venue` should always be given in double quotes 
+    * You can leave all of `doi`, `pdf` and `url` empty if you prefer.  
+    * You should fill in either `pdf` or `url`. In case both are provided, the `url` is ignored. 
+    If you specify a `pdf`, then add your PDF document as described in step 2. 
+    A `url` should point to a PDF document (e.g. in your personal website).      
+    * As `type`, you can use one of `article`,`conference` (for both conference and workshop papers),
+    `book` (for both books and book chapters),`thesis` (for PhD theses only), and `other` 
+    (mostly for technical reports)
+    
+    
 
 2. (optional, only if you want to add a pre/post print) Add a PDF file to the `files/pubs` folder. 
     The name of the PDF has to match the name you specified in the metadata entry (e.g. `2021-ICSA-IG-anomaly_detection_tool.pdf`) 

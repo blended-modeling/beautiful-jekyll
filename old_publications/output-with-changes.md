@@ -1,84 +1,3 @@
----
-layout: publications
-title: Publications
-publications:
-  - title: "MEDAL: An AI-driven Data Fabric Concept for Elastic Cloud-to-Edge Intelligence"
-    authors: Vasileios Theodorou, Ilias Gerostathopoulos, Iyad Alshabani, Alberto Abello and David Breitgand
-    venue: "3rd International Workshop on Multi-Clouds and Mobile Edge Computing"
-    doi: 
-    pdf: 
-    year: 2021
-    type: conference
-  - title: "Decentralized Optimization of Vehicle Route Planning - A Cross-City Comparative Study"
-    authors: Brionna Davis, Grace Jennings, Taylor Pothast, Ilias Gerostathopoulos, Evangelos Pournaras, Raphael Stern 
-    venue: "IEEE Internet Computing"
-    doi: https://doi.ieeecomputersociety.org/10.1109/MIC.2021.3058928
-    pdf: 
-    year: 2021
-    type: article
-  - title: "Online Experiment-Driven Learning and Adaptation"
-    authors: Ilias Gerostathopoulos, Alexander Auf der Strasse 
-    venue: "Model-Based Engineering of Collaborative Embedded Systems, Springer"
-    doi: https://doi.org/10.1007/978-3-030-62136-0_15
-    pdf: 2021-CrestBook-IG-chapter.pdf
-    year: 2021
-    type: book
-  - title: "Managing Latency in Edge-Cloud Environment"
-    authors: Lubomir Bulej, Tomas Bures, Adam Filandr, Petr Hnetynka, Iveta Hnetynkova, Jan Pacovsky, Gabor Sandor, Ilias Gerostathopoulos
-    venue: "Elsevier's Journal of Systems and Software (JSS), Volume 172, February 2021"
-    doi: https://www.sciencedirect.com/science/article/abs/pii/S0164121220302624
-    pdf: 2020-JSS-IG-Edge_Cloud.pdf
-    year: 2021
-    type: article
-  - title: "Forming Ensembles at Runtime: A Machine Learning Approach"
-    authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Jan Pacovsky
-    venue: "9th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISOLA 2020)"
-    doi: https://doi.org/10.1007/978-3-030-61470-6_26
-    pdf: 2020-ISOLA-IG.pdf
-    year: 2020
-    type: conference
-  - title: "A Toolbox for Realtime Timeseries Anomaly Detection"
-    authors: Markus Bobel, Ilias Gerostathopoulos, Tomas Bures
-    venue: "2020 IEEE International Conference on Software Architecture Companion (ICSA-C), IEEE, pp. 278-281"
-    doi: https://doi.org/10.1109/ICSA-C50368.2020.00053
-    pdf: 2020-ICSA-IG-anomaly_detection_tool.pdf
-    year: 2020
-    type: conference
-  - title: "Engineering for a Science-Centric Experimentation Platform"
-    authors: Nikos Diamantopoulos, Jeffrey Wong, David Issa Mattos, Ilias Gerostathopoulos, Matthew Wardrop, Tobias Mao, Colin McFarland
-    venue: "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP '20). ACM, pp. 191–200"
-    doi: https://dl.acm.org/doi/10.1145/3377813.3381349
-    pdf: 2020-ICSE_SEIP-IG.pdf
-    year: 2020
-    type: conference
-  - title: "Using Component Ensembles for Modeling Autonomic Component Collaboration in Smart Farming"
-    authors: Petr Hnetynka, Tomas Bures, Ilias Gerostathopoulos, Jan Pacovsky
-    venue: "15th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2020), ACM, pp. 156–162"
-    doi: https://dl.acm.org/doi/10.1145/3387939.3391599
-    pdf: 2020-SEAMS-IG-Smart_Farming.pdf
-    year: 2020
-    type: conference
-  - title: "Knowledge Aggregation with Subjective Logic in Multi-Agent Self-Adaptive Cyber-Physical Systems"
-    authors: Ana Petrovska, Sergio Quijano, Ilias Gerostathopoulos, Alexander Pretschner
-    venue: "15th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2020), ACM pp. 149-155"
-    doi: https://dl.acm.org/doi/10.1145/3387939.3391600
-    pdf: 2020-SEAMS-IG-Subjective_Logic.pdf
-    year: 2020
-    type: conference
-  - title: "Clustering Traffic Scenarios Using Mental Models as Little as Possible"
-    authors: Florian Hauer, Ilias Gerostathopoulos, Tabea Schmidt, Alexander Pretschner
-    venue: "2020 IEEE Intelligent Vehicles Symposium (IV2020)"
-    doi: 
-    pdf: 2020-IV-IG-Scenario_Clustering.pdf
-    year: 2020
-    type: conference
-  - title: "A Language and Framework for Dynamic Component Ensembles in Smart Systems"
-    authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Frantisek Plasil, Filip Krijt, Jiri Vinarek, Jan Kofron
-    venue: "Springer's Software Tools for Technology Transfer (STTT), issue 22, pp. 497–509 (2020)"
-    doi: https://doi.org/10.1007/s10009-020-00558-z
-    pdf: 2020-STTT-IG-TCOEF.pdf
-    year: 2020
-    type: article
   - title: "Building and evaluating a theory of architectural technical debt in software-intensive systems"
     authors: Roberto Verdecchia and Philippe Kruchten and Patricia Lago and Ivano Malavolta
     type: article
@@ -118,21 +37,21 @@ publications:
     authors: Luciano Baresi and William Griswold and Grace Lewis and Marco Autili and Ivano Malavolta, Ivano and Christine Julien
     type: article
     venue: "IEEE Software"
-    doi: https://doi.org/10.1109/MS.2020.2994306    
+    doi: 10.1109/MS.2020.2994306
     url: http://www.ivanomalavolta.com/files/papers/IEEE_Software_2021.pdf
     year: 2021
   - title: "Leave my Apps Alone! A Study on how Android Developers Access Installed Apps on User's Device"
     authors: Gian Luca Scoccia and Ibrahim Kanj and Ivano Malavolta and Kaveh Razavi
     type: conference
     venue: "Proceedings of the IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems"
-    doi: https://doi.org/10.1145/3387905.3388594
+    doi: 10.1145/3387905.3388594
     url: http://www.ivanomalavolta.com/files/papers/MOBILESoft_iam_2020.pdf
     year: 2020
   - title: "Evaluating the Impact of Caching on the Energy Consumption and Performance of Progressive Web Apps"
     authors: Ivano Malavolta and Katerina Chinnappan and Lukas Jasmontas and Sarthak Gupta and Kaveh Ali Karam Soltany
     type: conference
     venue: "Proceedings of the IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems"
-    doi: https://doi.org/10.1145/3387905.3388593
+    doi: 10.1145/3387905.3388593
     url: http://www.ivanomalavolta.com/files/papers/MOBILESoft_Caching_PWA_2020.pdf
     year: 2020
   - title: "ATDx: Building an Architectural Technical Debt Index"
@@ -197,21 +116,21 @@ publications:
     venue: "19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)"
     doi: 
     url: http://www.ivanomalavolta.com/files/papers/SCAM_2019.pdf
-    year: 2019   
+    year: 2019
   - title: "DecidArch: Playing Cards as Software Architects"
-    authors: P. Lago and Cai, Jia F. and de Boer, R.C. and Philippe Kruchten and R. Verdecchia
+    authors: P. Lago and Cai, {Jia F.} and {de Boer}, R.C. and Philippe Kruchten and R. Verdecchia
     type: conference
     venue: "52nd Hawaii International Conference on System Sciences (HICSS)"
     doi: 
     url: 
     year: 2019
-  - title: "DecidArch: Playing Cards as Software Architectssss"
-    type: conference    
+  - title: "DecidArch: Playing Cards as Software Architects"
+    authors: {de Boer}, R.C., P. Lago, R. Verdecchia and Philippe Kruchten
+    type: conference
     venue: "3rd International Workshop on decision Making in Software ARCHitecture (MARCH)"
-    authors: de Boer, R.C., P. Lago, R. Verdecchia and Philippe Kruchten
     doi: 
     url: 
-    year: 2019        
+    year: 2019
   - title: "Scalable Approaches for Test Suite Reduction"
     authors: Cruciani, Emilio and Miranda, Breno and Verdecchia, Roberto and Bertolino, Antonia
     type: conference
@@ -327,8 +246,8 @@ publications:
   - title: "A4WSN: an architecture-driven modelling platform for analysing and developing WSNs"
     authors: Ivano Malavolta and Leonardo Mostarda and Henry Muccini and Enver Ever and Krishna Doddapaneni and Orhan Gemikonakli
     type: article
-    venue: "Software & Systems Modeling"
-    doi: https://doi.org/10.1007/s10270-018-0687-0
+    venue: "{Software {\&} Systems Modeling}"
+    doi: 10.1007/s10270-018-0687-0
     url: http://www.ivanomalavolta.com/files/papers/SOSYM_2018_A4WSN.pdf
     year: 2018
   - title: "How Maintainability Issues of Android Apps Evolve"
@@ -362,7 +281,7 @@ publications:
   - title: "Energy Efficient Software"
     authors: Giuseppe Procaccianti 
     type: thesis
-    venue: "Vrije Universiteit Amsterdam & Politecnico di Torino"
+    venue: "Vrije Universiteit Amsterdam \& Politecnico di Torino"
     doi: 
     url:  https://research.vu.nl/en/publications/energy-efficient-software 
     year: 2015
@@ -423,45 +342,45 @@ publications:
     url: https://research.vu.nl/files/45435544/edam_2018.pdf
     year: 2018
   - title: "The Influence of Green Strategies Design onto Quality Requirements Prioritization"
-    authors: Condori Fernandez, Nelly and Patricia Lago
+    authors: {Condori Fernandez}, Nelly and Patricia Lago
     type: conference
     venue: "Requirements Engineering: Foundation for Software Quality"
-    doi: https://doi.org/10.1007/978-3-319-77243-1_12
+    doi: 10.1007/978-3-319-77243-1_12
     url: https://link.springer.com/chapter/10.1007/978-3-319-77243-1_12
     year: 2018
   - title: "Empirical Evaluation of the Energy Impact of Refactoring Code Smells"
     authors: Roberto Verdecchia and Rene Aparicio Saez and Giuseppe Procaccianti and Patricia Lago
     type: conference
     venue: "ICT4S2018. 5th International Conference on Information and Communication Technology for Sustainability"
-    doi: https://doi.org/10.29007/dz83
+    doi: 10.29007/dz83
     url: https://easychair.org/publications/paper/MxpT
     year: 2018
   - title: "A Comparative Analysis of Green ICT Maturity Models"
     authors: David Lautenschutz and Sergio Espana and Albert Hankel and Sietse Overbeek and Patricia Lago
     type: conference
     venue: "ICT4S2018. 5th International Conference on Information and Communication Technology for Sustainability"
-    doi: https://doi.org/10.29007/5hgz
+    doi: 10.29007/5hgz
     url: https://easychair.org/publications/paper/4Jnq
     year: 2018
   - title: "Undesigning the Internet: An exploratory study of reducing everyday Internet connectivity"
     authors: Kelly Widdicks and Tina Ringenson and Daniel Pargman and Vishnupriya Kuppusamy and Patricia Lago
     type: conference
     venue: "ICT4S2018. 5th International Conference on Information and Communication Technology for Sustainability"
-    doi: https://doi.org/10.29007/s221
+    doi: 10.29007/s221
     url: https://easychair.org/publications/paper/VjQ1
     year: 2018
   - title: "Assessing the impact of the awareness level on a co-operative game"
-    authors: Miguel A. Teruel  and Nelly Condori-Fernandez and Elena Navarro and Pascual Gonzalez and Patricia Lago
+    authors: {Miguel A.} Teruel  and Nelly Condori-Fernandez and Elena Navarro and Pascual Gonzalez and Patricia Lago
     type: article
     venue: "Information and Software Technology"
-    doi: https://doi.org/10.1016/j.infsof.2018.02.008
+    doi: 10.1016/j.infsof.2018.02.008
     url: http://www.sciencedirect.com/science/article/pii/S0950584918300314
     year: 2018
   - title: "Execution of UML models: a systematic review of research and practice"
     authors: Federico Ciccozzi and Ivano Malavolta and Bran Selic
     type: article
-    venue: "Software & Systems Modeling"
-    doi: https://doi.org/10.1007/s10270-018-0675-4
+    venue: "{Software {\&} Systems Modeling}"
+    doi: 10.1007/s10270-018-0675-4
     url: http://www.ivanomalavolta.com/files/papers/SOSYM_2018.pdf
     year: 2018
   - title: "Collaborative Model-Driven Software Engineering: a Classification Framework and a Research Map"
@@ -475,11 +394,11 @@ publications:
     authors: Nelly Condori-Fernandez and Patricia Lago
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2017.12.005
+    doi: 10.1016/j.jss.2017.12.005
     url: http://hdl.handle.net/1871.1/00b6e856-3600-449d-81f4-042163df91c5
     year: 2018
   - title: "Transparency and Contracts: Continuous Integration and Delivery in the Automotive Ecosystem"
-    authors: van der Valk, Rob and Patrizio Pelliccione and Patricia Lago and Rogardt Heldal and Eric Knauss and Jacob Juul
+    authors: {van der Valk}, Rob and Patrizio Pelliccione and Patricia Lago and Rogardt Heldal and Eric Knauss and Jacob Juul
     type: conference
     venue: "Proceedings of the 40th International Conference on Software Engineering Companion"
     doi: 
@@ -531,7 +450,7 @@ publications:
     authors: Mirco Franzago and Davide Di Ruscio and Ivano Malavolta and Henry Muccini
     type: article
     venue: "IEEE Transactions on Software Engineering"
-    doi: https://doi.org/10.1109/TSE.2017.2755039
+    doi: 10.1109/TSE.2017.2755039
     url: http://www.ivanomalavolta.com/files/papers/TSE_2018.pdf
     year: 2018
   - title: "Smart City L'Aquila: An Application of the Infostructure Approach to Public Urban Mobility in a Post-Disaster Context"
@@ -552,21 +471,21 @@ publications:
     authors: Ivano Malavolta and Rafael Capilla
     type: conference
     venue: "2017 IEEE International Conference on Software Architecture Workshops (ICSAW)"
-    doi: https://doi.org/10.1109/ICSAW.2017.28
+    doi: 10.1109/ICSAW.2017.28
     url: http://www.ivanomalavolta.com/files/papers/ICSA_WS_Report_2017.pdf
     year: 2017
   - title: "Report from the 1st International Workshop on Collaborative Modelling in MDE (COMMitMDE 2016)"
     authors: Sebastien Gerard and Dimitrios S. Kolovos and Ivano Malavolta and Henry Muccini
     type: article
     venue: "SIGSOFT Softw. Eng. Notes"
-    doi: https://doi.org/10.1145/3041765.3041773
+    doi: 10.1145/3041765.3041773
     url: http://www.ivanomalavolta.com/files/papers/commitmde_report_2017.pdf
     year: 2017
   - title: "Assessing the Impact of Service Workers on the Energy Efficiency of Progressive Web Apps"
     authors: Ivano Malavolta and Giuseppe Procaccianti and Paul Noorland and Petar Vukmirovic
     type: conference
     venue: "Proceedings of the International Conference on Mobile Software Engineering and Systems, MOBILESoft '17, Buenos Aires, Argentina, May, 2017"
-    doi: https://doi.org/10.1109/MOBILESoft.2017.7
+    doi: 10.1109/MOBILESoft.2017.7
     url: http://www.ivanomalavolta.com/files/papers/Mobilesoft_2017.pdf
     year: 2017
   - title: "MicroART: A Software Architecture Recovery Tool for Maintaining Microservice-based Systems"
@@ -594,14 +513,14 @@ publications:
     authors: Gian Luca Scoccia and Ivano Malavolta and Marco Autili and Amleto Di Salle and Paola Inverardi
     type: conference
     venue: "Proceedings of the 39th International Conference on Software Engineering Companion"
-    doi: https://doi.org/10.1109/ICSE-C.2017.84
+    doi: 10.1109/ICSE-C.2017.84
     url: http://www.ivanomalavolta.com/files/papers/ICSE_2017_poster1.pdf
     year: 2017
   - title: "Envisioning the Future of Collaborative Model-driven Software Engineering"
     authors: Mirco Franzago and Ivano Malavolta and Davide Di Ruscio and Henry Muccini
     type: conference
     venue: "Proceedings of the 39th International Conference on Software Engineering Companion"
-    doi: https://doi.org/10.1109/ICSE-C.2017.143
+    doi: 10.1109/ICSE-C.2017.143
     url: http://www.ivanomalavolta.com/files/papers/ICSE_2017_poster2.pdf
     year: 2017
   - title: "Engineering the Software of Robotic Systems"
@@ -615,21 +534,21 @@ publications:
     authors: Federico Ciccozzi and Ivica Crnkovic and Davide Di Ruscio and Ivano Malavolta and Patrizio Pelliccione and Romina Spalazzese
     type: article
     venue: "IEEE Software"
-    doi: https://doi.org/10.1109/MS.2017.1
+    doi: 10.1109/MS.2017.1
     url: http://www.ivanomalavolta.com/files/papers/IEEE_software_2017.pdf
     year: 2017
   - title: "Beyond Native Apps: Web Technologies to the Rescue! (Keynote)"
     authors: Ivano Malavolta
     type: conference
     venue: "Proceedings of the 1st International Workshop on Mobile Development"
-    doi: https://doi.org/10.1145/3001854.3001863
+    doi: 10.1145/3001854.3001863
     url: http://www.ivanomalavolta.com/files/papers/splash_2016_workshop_keynote.pdf
     year: 2016
   - title: "Adopting MDE for Specifying and Executing Civilian Missions of Mobile Multi-Robot Systems"
     authors: Federico Ciccozzi and Davide Di Ruscio and Ivano Malavolta and Patrizio Pelliccione
     type: article
     venue: "IEEE Access"
-    doi: https://doi.org/10.1109/ACCESS.2016.2613642
+    doi: 10.1109/ACCESS.2016.2613642
     url: http://www.ivanomalavolta.com/files/papers/IEEE_access_2016.pdf
     year: 2016
   - title: "A Quantitative and Qualitative Investigation of Performance-Related Commits in Android Apps"
@@ -664,14 +583,14 @@ publications:
     authors: Ivica Crnkovic and Ivano Malavolta and Henry Muccini and Mohammad Sharaf
     type: conference
     venue: "19th International ACM SIGSOFT Symposium on Component-Based Software Engineering (CBSE)"
-    doi: https://doi.org/10.1109/CBSE.2016.9
+    doi: 10.1109/CBSE.2016.9
     url: http://www.ivanomalavolta.com/files/papers/CBSE_2016.pdf
     year: 2016
   - title: "Web-based hybrid mobile apps: state of the practice and research opportunities"
     authors: Ivano Malavolta
     type: conference
     venue: "Proceedings of the International Conference on Mobile Software Engineering and Systems, MOBILESoft '16, Austin, Texas, USA, May 14-22, 2016"
-    doi: https://doi.org/10.1145/2897073.2897133
+    doi: 10.1145/2897073.2897133
     url: http://www.ivanomalavolta.com/files/papers/Mobilesoft_2016_tutorial.pdf
     year: 2016
   - title: "FLYAQ: Enabling Non-Expert Users to Specify and Generate Missions of Autonomous Multicopters"
@@ -699,7 +618,7 @@ publications:
     authors: Ivano Malavolta and Henry Muccini and Mohammad Sharaf
     type: conference
     venue: "Proceedings of the 2015 European Conference on Software Architecture Workshops"
-    doi: https://doi.org/10.1145/2797433.2797453
+    doi: 10.1145/2797433.2797453
     url: http://www.ivanomalavolta.com/files/papers/SANCS_2015.pdf
     year: 2015
   - title: "Automatically bridging UML profiles to MOF metamodels"
@@ -713,20 +632,20 @@ publications:
     authors: Ivano Malavolta and Stefano Ruberto and Valerio Terragni and Tommaso Soru
     type: conference
     venue: "Mobile Services (MS), 2015 IEEE International Conference on"
-    doi: https://doi.org/10.1109/MobServ.2015.14
+    doi: 10.1109/MobServ.2015.14
     url: http://www.ivanomalavolta.com/files/papers/MS_2015.pdf
     year: 2015
   - title: "Hybrid Mobile Apps in the Google Play Store: An Exploratory Investigation"
     authors: Ivano Malavolta and Stefano Ruberto and Tommaso Soru and Valerio Terragni
     type: conference
     venue: "Mobile Software Engineering and Systems (MOBILESoft), 2015 2nd ACM International Conference on"
-    doi: https://doi.org/10.1109/MobileSoft.2015.15
+    doi: 10.1109/MobileSoft.2015.15
     url: http://www.ivanomalavolta.com/files/papers/MobileSoft_2015.pdf
     year: 2015
   - title: "Stakeholders, Viewpoints and Languages of a Modelling Framework for the Design and Development of Data-Intensive Mobile Apps"
     authors: Mirco Franzago and Ivano Malavolta and Henry Muccini
     type: conference
-    venue: "MobilENG 2014 Workshop, in conjunction with 5th international conference on Complex Systems Design & Management (CSD&M) 2014, Paris, France"
+    venue: "MobilENG 2014 Workshop, in conjunction with 5th international conference on Complex Systems Design & Management (CSD\&M) 2014, Paris, France"
     doi: 
     url: http://www.ivanomalavolta.com/files/papers/MOBILEng_2014.pdf
     year: 2014
@@ -741,14 +660,14 @@ publications:
     authors: Davide Di Ruscio and Ivano Malavolta and Patrizio Pelliccione
     type: conference
     venue: "Software Engineering for Resilient Systems - 6th International Workshop, SERENE 2014, Budapest, Hungary, October 15-16, 2014. Proceedings"
-    doi: https://doi.org/10.1007/978-3-319-12241-0_3
+    doi: 10.1007/978-3-319-12241-0_3
     url: http://www.ivanomalavolta.com/files/papers/Serene_2014.pdf
     year: 2014
   - title: "Enhancing Architecture Design Decisions Evolution with Group Decision Making Principles"
     authors: Ivano Malavolta and Henry Muccini and V. Smrithi Rekha
     type: conference
     venue: "Software Engineering for Resilient Systems - 6th International Workshop, SERENE 2014, Budapest, Hungary, October 15-16, 2014. Proceedings"
-    doi: https://doi.org/10.1007/978-3-319-12241-0_2
+    doi: 10.1007/978-3-319-12241-0_2
     url: http://www.ivanomalavolta.com/files/papers/Serene_2014_2.pdf
     year: 2014
   - title: "The Road Ahead for Architectural Languages"
@@ -762,21 +681,21 @@ publications:
     authors: Ivano Malavolta and Henry Muccini
     type: conference
     venue: "Software Engineering and Advanced Applications (SEAA), 2014 40th EUROMICRO Conference on"
-    doi: https://doi.org/10.1109/SEAA.2014.61
+    doi: 10.1109/SEAA.2014.61
     url: http://www.ivanomalavolta.com/files/papers/SEAA_2014_MDE.pdf
     year: 2014
   - title: "A Survey on the Specification of the Physical Environment of Wireless Sensor Networks"
     authors: Ivano Malavolta and Henry Muccini
     type: conference
     venue: "Software Engineering and Advanced Applications (SEAA), 2014 40th EUROMICRO Conference on"
-    doi: https://doi.org/10.1109/SEAA.2014.62
+    doi: 10.1109/SEAA.2014.62
     url: http://www.ivanomalavolta.com/files/papers/SEAA_2014_ENV.pdf
     year: 2014
   - title: "How do You Feel Today? Buggy!"
     authors: Giampiero Di Paolo and Ivano Malavolta and Henry Muccini
     type: conference
     venue: "Software Engineering and Advanced Applications (SEAA), 2014 40th EUROMICRO Conference on"
-    doi: https://doi.org/10.1109/SEAA.2014.63
+    doi: 10.1109/SEAA.2014.63
     url: http://www.ivanomalavolta.com/files/papers/SEAA_2014_MOOD.pdf
     year: 2014
   - title: "Towards a collaborative framework for the design and development of data-intensive mobile applications"
@@ -797,7 +716,7 @@ publications:
     authors: Ivano Malavolta and Patricia Lago and Henry Muccini and Patrizio Pelliccione and Antony Tang
     type: article
     venue: "IEEE Transactions on Software Engineering"
-    doi: https://doi.org/10.1109/TSE.2012.74
+    doi: 10.1109/TSE.2012.74
     url: http://www.ivanomalavolta.com/files/papers/TSE_2013.pdf
     year: 2013
   - title: "Engineering a Platform for Mission Planning of Autonomous and Resilient Quadrotors"
@@ -817,7 +736,7 @@ publications:
   - title: "On the Composition and Reuse of Viewpoints across Architecture Frameworks"
     authors: Rich Hilliard and Ivano Malavolta and Henry Muccini and Patrizio Pelliccione
     type: conference
-    venue: "10th Working IEEE/IFIP Conference on Software Architecture (WICSA) & 6th European Conference on Software Architecture (ECSA) - WICSA/ECSA 2012"
+    venue: "10th Working IEEE/IFIP Conference on Software Architecture (WICSA) \& 6th European Conference on Software Architecture (ECSA) - WICSA/ECSA 2012"
     doi: 
     url: http://www.ivanomalavolta.com/files/papers/WICSA_2012.pdf
     year: 2012
@@ -839,7 +758,7 @@ publications:
     authors: Krishna Doddapaneni and Enver Ever and Ivano Malavolta and Leonardo Mostarda and Henry Muccini
     type: conference
     venue: "14th International Conference on Modelling and Simulation (UKSIM)"
-    doi: https://doi.org/10.1109/UKSim.2012.87
+    doi: 10.1109/UKSim.2012.87
     url: http://www.ivanomalavolta.com/files/papers/UKSIM_2012.pdf
     year: 2012
   - title: "Software Architecture Modeling by Reuse, Composition and Customization"
@@ -923,7 +842,7 @@ publications:
     authors: Ivano Malavolta and Henry Muccini and Patrizio Pelliccione and Damien Tamburri
     type: article
     venue: "IEEE Transactions on Software Engineering"
-    doi: https://doi.org/10.1109/tse.2009.51
+    doi: 10.1109/tse.2009.51
     url: http://www.ivanomalavolta.com/files/papers/TSE_2010.pdf
     year: 2010
   - title: "Realizing architecture frameworks through megamodelling techniques"
@@ -944,7 +863,7 @@ publications:
     authors: Ivano Malavolta and Henry Muccini and Patrizio Pelliccione
     type: conference
     venue: "IEEE International Conference on Engineering of Complex Computer Systems"
-    doi: https://doi.org/10.1109/iceccs.2009.22
+    doi: 10.1109/iceccs.2009.22
     url: http://www.ivanomalavolta.com/files/papers/UML_AADL_2009.pdf
     year: 2009
   - title: "DUALLY: a framework for Architectural Languages and Tools Interoperability"
@@ -979,7 +898,7 @@ publications:
     authors: A.C. Hankel and P. Lago and Gaston Heimeriks
     type: article
     venue: "Journal of ICT Standardization"
-    doi: https://doi.org/10.13052/jicts2245-800X.421
+    doi: 10.13052/jicts2245-800X.421
     url: 
     year: 2017
   - title: "Reality check for software engineering for sustainability—pragmatism required"
@@ -993,7 +912,7 @@ publications:
     authors: Patricia Lago and Birgit Penzenstadler
     type: article
     venue: "Journal of Software: Evolution and process"
-    doi: https://doi.org/10.1002/smr.1856
+    doi: 10.1002/smr.1856
     url: 
     year: 2017
   - title: "A Domain Model for Energy Efficient Self-Adaptive Software Systems"
@@ -1007,14 +926,14 @@ publications:
     authors: Gianantonio Me and Coral Calero and Patricia Lago
     type: conference
     venue: "Software Architecture - 10th European Conference, ECSA 2016, Proceedings"
-    doi: https://doi.org/10.1007/978-3-319-48992-6_3
+    doi: 10.1007/978-3-319-48992-6_3
     url: 
     year: 2016
   - title: "How organisations can assess and improve their green ICT activities in a standard and efficient way"
     authors: A.C. Hankel and P. Lago
     type: conference
     venue: "2016 ITU Kaleidoscope: ICTs for a Sustainable World, Bangkok, Thailand, November 14-16, 2016"
-    doi: https://doi.org/10.1109/ITU-WT.2016.7805710
+    doi: 10.1109/ITU-WT.2016.7805710
     url: 
     year: 2016
   - title: "Green ICT Research and Challenges"
@@ -1025,7 +944,7 @@ publications:
     url: 
     year: 2016
   - title: "Greening the Cloud"
-    authors: van den Hoed, Robert and Eric Hoekstra and G. Procaccianti and P. Lago and Paola Grosso and Arie Taal and Kay Grosskop and van Bergen, Esther
+    authors: {van den Hoed}, Robert and Eric Hoekstra and G. Procaccianti and P. Lago and Paola Grosso and Arie Taal and Kay Grosskop and {van Bergen}, Esther
     type: book
     venue: "Amsterdam University of Applied Sciences (AUAS), Publication Series Amsterdam University of Applied Sciences (AUAS), Faculty of Technology"
     doi: 
@@ -1035,49 +954,49 @@ publications:
     authors: Maryam Razavian and Anthony Tang and Rafael Capilla and Patricia Lago
     type: article
     venue: "Journal of Software: Evolution and process"
-    doi: https://doi.org/10.1002/smr.1776
+    doi: 10.1002/smr.1776
     url: 
     year: 2016
   - title: "Reflective approach for software design decision making"
     authors: Maryam Razavian and Anthony Tang and Rafael Capilla and Patricia Lago
     type: conference
     venue: "Proceedings - 1st Workshop on Qualitative Reasoning about Software Architectures, QRASA 2016"
-    doi: https://doi.org/10.1109/QRASA.2016.8
+    doi: 10.1109/QRASA.2016.8
     url: 
     year: 2016
   - title: "Message from the workshop chairs GREENS 2016"
     authors: Patricia Lago and Maurizio Morisio and Hausi Müller and Giuseppe Procaccianti and Giuseppe Scanniello
     type: article
     venue: "Proceedings - International Conference on Software Engineering"
-    doi: https://doi.org/10.1109/GREENS.2016.006
+    doi: 10.1109/GREENS.2016.006
     url: 
     year: 2016
   - title: "Architectural patterns and quality attributes interaction"
     authors: G. Me and {Calero Munoz}, C. and P. Lago
     type: conference
     venue: "WICSA and CompArch"
-    doi: https://doi.org/10.1109/QRASA.2016.10
+    doi: 10.1109/QRASA.2016.10
     url: 
     year: 2016
   - title: "Can we know upfront how to prioritize quality requirements?"
     authors: Nelly Condori-Fernandez and Patricia Lago
     type: conference
     venue: "5th International Workshop on Empirical Requirements Engineering, EmpiRE 2015 - Proceedings"
-    doi: https://doi.org/10.1109/EmpiRE.2015.7431305
+    doi: 10.1109/EmpiRE.2015.7431305
     url: 
     year: 2016
   - title: "A Decision Model for Cyber-foraging Systems"
     authors: G.A. Lewis and P. Lago and P. Avgeriou
     type: conference
     venue: "13th Working IEEE/IFIP Conference on Software Architecture, WICSA 2016, Venice, Italy, April 5-8, 2016"
-    doi: https://doi.org/10.1109/WICSA.2016.38
+    doi: 10.1109/WICSA.2016.38
     url: 
     year: 2016
   - title: "Empirical Evaluation of Two Best-Practices for Energy-Efficient Software Development"
     authors: G. Procaccianti and H.J. Fernandez and P. Lago
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2016.02.035
+    doi: 10.1016/j.jss.2016.02.035
     url: 
     year: 2016
   - title: "Empirical Validation of Cyber-Foraging Architectural Tactics for Surrogate Provisioning"
@@ -1091,14 +1010,14 @@ publications:
     authors: G. Procaccianti and P. Lago and W. Diesveld
     type: conference
     venue: "Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ESEM 2016, Ciudad Real, Spain, September 8-9, 2016"
-    doi: https://doi.org/10.1145/2961111.2962586
+    doi: 10.1145/2961111.2962586
     url: 
     year: 2016
   - title: "Feminine Expertise in Architecting Teams"
     authors: M. Razavian and P. Lago
     type: article
     venue: "IEEE Software"
-    doi: https://doi.org/10.1109/ms.2015.84
+    doi: 10.1109/ms.2015.84
     url: 
     year: 2016
   - title: "How do Quality Requirements Contribute to Software Sustainability?"
@@ -1119,35 +1038,35 @@ publications:
     authors: E.A. Jagroep and {van der Werf}, J.M.E.M. and G. Procaccianti and P. Lago and Sjaak Brinkkemper and L. Blom and {van Vliet}, Rob
     type: conference
     venue: "Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016 - Companion Volume"
-    doi: https://doi.org/10.1145/2889160.2889216
+    doi: 10.1145/2889160.2889216
     url: 
     year: 2016
   - title: "Software that meets its intent"
     authors: Marieke Huisman and Herbert Bos and Sjaak Brinkkemper and {van Deursen}, Arie and Groote, {Jan Friso} and Patricia Lago and {van de Pol}, Jaco and Eelco Visser
     type: conference
     venue: "Leveraging Applications of Formal Methods, Verification and Validation: Discussion, Dissemination, Applications - 7th International Symposium, ISoLA 2016, Proceedings"
-    doi: https://doi.org/10.1007/978-3-319-47169-3_47
+    doi: 10.1007/978-3-319-47169-3_47
     url: 
     year: 2016
   - title: "The Green Lab: Experimentation in Software Energy Efficiency"
     authors: Giuseppe Procaccianti and Patricia Lago and Antonio Vetrò and Mendez Fernandez, Daniel and Roel Wieringa
     type: conference
     venue: "Proceedings - 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering, ICSE 2015"
-    doi: https://doi.org/10.1109/ICSE.2015.297
+    doi: 10.1109/ICSE.2015.297
     url: 
     year: 2015
   - title: "A Catalog of Architectural Tactics for Cyber-Foraging"
     authors: G.A. Lewis and P. Lago
     type: conference
     venue: "International Conference on the Quality of Software Architectures (QoSA)"
-    doi: https://doi.org/10.1145/2737182.2737188
+    doi: 10.1145/2737182.2737188
     url: 
     year: 2015
   - title: "A Decision-Making Model for Adopting Green ICT Strategies"
     authors: Q. Gu and P. Lago and P. Bozzelli
     type: conference
     venue: "Green in Software Engineering"
-    doi: https://doi.org/10.1007/978-3-319-08581-4_12
+    doi: 10.1007/978-3-319-08581-4_12
     url: 
     year: 2015
   - title: "A Master Program on Engineering Energy-Aware Software"
@@ -1168,63 +1087,63 @@ publications:
     authors: G.A. Lewis and P. Lago
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2015.06.005
+    doi: 10.1016/j.jss.2015.06.005
     url: 
     year: 2015
   - title: "A systematic literature review on Energy Efficiency in Cloud Software Architectures"
     authors: G. Procaccianti and P. Lago and S. Bevini
     type: article
     venue: "Sustainable Computing (SUSCOM)"
-    doi: https://doi.org/10.1016/j.suscom.2014.11.004
+    doi: 10.1016/j.suscom.2014.11.004
     url: 
     year: 2015
   - title: "A systematic literature review on SOA migration"
     authors: M. Razavian and P. Lago
     type: article
     venue: "Journal of Software-Evolution and Process"
-    doi: https://doi.org/10.1002/smr.1712
+    doi: 10.1002/smr.1712
     url: 
     year: 2015
   - title: "A user perspective on energy profiling tools in large scale computing environments"
-    authors: Alizadeh Moghaddam, F. and T. Geenen and P. Lago and P. Grosso
+    authors: {Alizadeh Moghaddam}, F. and T. Geenen and P. Lago and P. Grosso
     type: conference
     venue: "Sustainable Internet and ICT for Sustainability (SustainIT)"
-    doi: https://doi.org/10.1109/SustainIT.2015.7101364
+    doi: 10.1109/SustainIT.2015.7101364
     url: 
     year: 2015
   - title: "Challenges and opportunities for sustainable software"
     authors: P. Lago
     type: conference
     venue: "Proceedings of the Fifth International Workshop on Product LinE Approaches in Software Engineering"
-    doi: https://doi.org/10.1109/PLEASE.2015.8
+    doi: 10.1109/PLEASE.2015.8
     url: 
     year: 2015
   - title: "Characterization of Cyber-foraging Usage Contexts"
     authors: G.A. Lewis and P. Lago
     type: article
     venue: "Lecture Notes in Computer Science"
-    doi: https://doi.org/10.1007/978-3-319-23727-5_16
+    doi: 10.1007/978-3-319-23727-5_16
     url: 
     year: 2015
   - title: "Economic Aspects of Green ICT"
     authors: H.J. Fernandez and G. Procaccianti and P. Lago
     type: conference
     venue: "Green in Software Engineering"
-    doi: https://doi.org/10.1007/978-3-319-08581-4_5
+    doi: 10.1007/978-3-319-08581-4_5
     url: 
     year: 2015
   - title: "Energy efficient networking solutions in cloud-based environments: a systematic literature review"
     authors: Alizadeh Moghaddam, F. and P. Lago and P. Grosso
     type: article
     venue: "ACM Computing Surveys"
-    doi: https://doi.org/10.1145/2764464
+    doi: 10.1145/2764464
     url: 
     year: 2015
   - title: "Framing Sustainability as a Property of Software Quality"
     authors: P. Lago and Aklini Kocak, S. and I. Crnkovic and B. Penzensradler
     type: article
     venue: "Communications of the ACM"
-    doi: https://doi.org/10.1145/2714560
+    doi: 10.1145/2714560
     url: 
     year: 2015
   - title: "Guidance on applying Green ICT in Higher Education and Research"
@@ -1245,21 +1164,21 @@ publications:
     authors: P. Lago and P. Kruchten and L. Bass
     type: book
     venue: "IEEE Press"
-    doi: https://doi.org/10.1109/WICSA.2015.2
+    doi: 10.1109/WICSA.2015.2
     url: 
     year: 2015
   - title: "Social Debt in Software Engineering: Insights from Industry"
     authors: D.A. Tamburri and P. Kruchten and P. Lago and van Vliet, H.
     type: article
     venue: "Journal of Internet Services and Applications"
-    doi: https://doi.org/10.1186/s13174-015-0024-6
+    doi: 10.1186/s13174-015-0024-6
     url: 
     year: 2015
   - title: "The Green Practitioner: A Decision-Making Tool for Green ICT"
     authors: Karl Lundfall and Paola Grosso and Patricia Lago and Giuseppe Procaccianti
     type: conference
     venue: "EnviroInfo and ICT4S 2015"
-    doi: https://doi.org/10.2991/ict4s-env-15.2015.9
+    doi: 10.2991/ict4s-env-15.2015.9
     url: 
     year: 2015
   - title: "2nd International Workshop on Green and Sustainable Software (GREENS 2013)"
@@ -1287,7 +1206,7 @@ publications:
     authors: M. Razavian and P. Lago
     type: article
     venue: "Journal of Software: Evolution and process"
-    doi: https://doi.org/10.1002/smr.1613
+    doi: 10.1002/smr.1613
     url: 
     year: 2014
   - title: "Architecting in Networked Organizations"
@@ -1301,7 +1220,7 @@ publications:
     authors: G.A. Lewis and P. Lago and G. Procaccianti
     type: article
     venue: "Lecture Notes in Computer Science"
-    doi: https://doi.org/10.1007/978-3-319-09970-5_15
+    doi: 10.1007/978-3-319-09970-5_15
     url: 
     year: 2014
   - title: "A systematic literature review of green software metrics"
@@ -1322,14 +1241,14 @@ publications:
     authors: G. Procaccianti and P. Lago and G.A. Lewis
     type: conference
     venue: "Proceedings of the 11th Working IEEE/IFIP Conference on Software Architecture"
-    doi: https://doi.org/10.1109/WICSA.2014.30
+    doi: 10.1109/WICSA.2014.30
     url: 
     year: 2014
   - title: "Leveraging Energy Efficiency to Software Users"
     authors: P. Lago and N. Meyer and M. Morisio and H. Muller and G. Scanniello
     type: article
     venue: "SIGSOFT Software Engineering Notes"
-    doi: https://doi.org/10.1145/2557833.2557859
+    doi: 10.1145/2557833.2557859
     url: 
     year: 2014
   - title: "Migration to Services: A Systematic Literature Review"
@@ -1343,7 +1262,7 @@ publications:
     authors: S. Lane and Q. Gu and P. Lago and I. Richardson
     type: article
     venue: "Service Oriented Computing and Applications"
-    doi: https://doi.org/10.1007/s11761-013-0136-4
+    doi: 10.1007/s11761-013-0136-4
     url: 
     year: 2014
   - title: "Why is Aligning Economic- and IT Services so Difficult?"
@@ -1357,7 +1276,7 @@ publications:
     authors: Q. Gu and F. Cuadrado and P. Lago and J.C. Duenas
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2012.12.035
+    doi: 10.1016/j.jss.2012.12.035
     url: 
     year: 2013
   - title: "A Categorization of Green Practices used by Dutch Data Centers"
@@ -1413,7 +1332,7 @@ publications:
     authors: D.A. Tamburri and P. Lago and {van Vliet}, H.
     type: article
     venue: "ACM Computing Surveys"
-    doi: https://doi.org/10.1145/2522968.2522971
+    doi: 10.1145/2522968.2522971
     url: 
     year: 2013
   - title: "Service Networks for Development Communities"
@@ -1434,7 +1353,7 @@ publications:
     authors: D.A. Tamburri and P. Lago and van Vliet, H.
     type: article
     venue: "IEEE Software"
-    doi: https://doi.org/10.1109/MS.2012.170
+    doi: 10.1109/MS.2012.170
     url: 
     year: 2013
   - title: "What is Social Debt in Software Engineering"
@@ -1455,14 +1374,14 @@ publications:
     authors: Q. Gu and P. Lago and S. Potenza
     type: conference
     venue: "Proceedings of the First International Workshop on Green and Sustainable Software (GREENS)"
-    doi: https://doi.org/10.1109/GREENS.2012.6224258
+    doi: 10.1109/GREENS.2012.6224258
     url: 
     year: 2012
   - title: "An empirical study of learning by osmosis in global software engineering"
     authors: P. Lago and H. Muccini and M.A. Babar
     type: article
     venue: "Journal of Software: Evolution and process"
-    doi: https://doi.org/10.1002/smr.565
+    doi: 10.1002/smr.565
     url: 
     year: 2012
   - title: "A Pragmatic Approach for Analysis and Design of Service Inventories"
@@ -1476,7 +1395,7 @@ publications:
     authors: B. Tekinerdogan and S. Cetin and M.A. Babar and P. Lago and J. Makio
     type: article
     venue: "SIGSOFT Software Engineering Notes"
-    doi: https://doi.org/10.1145/2088883.2088900
+    doi: 10.1145/2088883.2088900
     url: 
     year: 2012
   - title: "A Viewpoint for Dealing with Change in Migration to Services"
@@ -1501,7 +1420,7 @@ publications:
     url: 
     year: 2012
   - title: "Research Challenges on Engineering Service-Oriented Applications"
-    authors: Di Nitto, E. and D. Meliander and D. Gorlatch and A. Metzger and H. Psaier and S. Dustdar and M. Razavian and D.A. Tamburri and P. Lago
+    authors: {Di Nitto}, E. and D. Meliander and D. Gorlatch and A. Metzger and H. Psaier and S. Dustdar and M. Razavian and D.A. Tamburri and P. Lago
     type: conference
     venue: "Proceedings of ICSE 2012"
     doi: 
@@ -1511,7 +1430,7 @@ publications:
     authors: P. Lago and R. Hilliard
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2012.05.002
+    doi: 10.1016/j.jss.2012.05.002
     url: 
     year: 2012
   - title: "Architectural Knowledge Management Practices in Agile Global Software Development"
@@ -1539,7 +1458,7 @@ publications:
     authors: P. Lago and T. Jansen
     type: article
     venue: "Lecture Notes in Computer Science"
-    doi: https://doi.org/10.1007/978-3-642-19394-1_19
+    doi: 10.1007/978-3-642-19394-1_19
     url: 
     year: 2011
   - title: "Editorial Proceedings Working IEEE/IFIP Conference on Software Architecture (WICSA)"
@@ -1553,14 +1472,14 @@ publications:
     authors: P. Avgeriou and J. Grundy and J.G. Hall and P. Lago and I. Mistrik
     type: conference
     venue: "Relating Software Requirements and Architectures"
-    doi: https://doi.org/10.1007/978-3-642-21001-3
+    doi: 10.1007/978-3-642-21001-3
     url: 
     year: 2011
   - title: "Empirical research in software architecture: opportunities, challenges, and approaches"
     authors: M.A. Babar and P. Lago and {van Deursen}, A.
     type: article
     venue: "Empirical Software Engineering"
-    doi: https://doi.org/10.1007/s10664-011-9168-6
+    doi: 10.1007/s10664-011-9168-6
     url: 
     year: 2011
   - title: "Going Global with Agile Service Networks"
@@ -1574,21 +1493,21 @@ publications:
     authors: Q. Gu and P. Lago
     type: article
     venue: "Service Oriented Computing and Applications"
-    doi: https://doi.org/10.1007/s11761-011-0080-0
+    doi: 10.1007/s11761-011-0080-0
     url: 
     year: 2011
   - title: "Leveraging Software Architectures through the ISO/IEC 42010 standard: A Feasibility Study"
     authors: D.A. Tamburri and P. Lago and H. Muccini
     type: conference
     venue: "Trends in Enterprise Architecture Research"
-    doi: https://doi.org/10.1007/978-3-642-16819-2_6
+    doi: 10.1007/978-3-642-16819-2_6
     url: 
     year: 2011
   - title: "Relating Software Requirements and Architectures"
     authors: P. Avgeriou and J. Grundy and J.G. Hall and P. Lago and I. Mistrik
     type: book
     venue: "Springer-Verlag"
-    doi: https://doi.org/10.1007/978-3-642-21001-3
+    doi: 10.1007/978-3-642-21001-3
     url: 
     year: 2011
   - title: "Satisfying Cloud Computing Requirements through Agile Service Networks"
@@ -1609,28 +1528,28 @@ publications:
     authors: J.F. Hoorn and R. Farenhorst and P. Lago and {van Vliet}, J.C.
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2010.11.909
+    doi: 10.1016/j.jss.2010.11.909
     url: 
     year: 2011
   - title: "Theoretical Underpinnings and Reviews"
     authors: J. Grundy and P. Lago and P. Avgeriou and J.G. Hall and I. Mistrik
     type: conference
     venue: "Relating Software Requirements and Architectures"
-    doi: https://doi.org/10.1007/978-3-642-21001-3
+    doi: 10.1007/978-3-642-21001-3
     url: 
     year: 2011
   - title: "The S-Cube Knowledge Model - Experiences in Integrating SSME Research Communities"
     authors: V. Andrikopoulos and M. Parkin and M. Papazoglou and P. Lago
     type: conference
     venue: "Proceedings of the International Conference on Knowledge Management and Information Sharing"
-    doi: https://doi.org/10.5220/0003662102010210
+    doi: 10.5220/0003662102010210
     url: 
     year: 2011
   - title: "Tools and Techniques"
     authors: P. Lago and P. Avgeriou and J. Grundy and J.G. Hall and I. Mistrik
     type: conference
     venue: "Relating Software Requirements and Architectures"
-    doi: https://doi.org/10.1007/978-3-642-21001-3
+    doi: 10.1007/978-3-642-21001-3
     url: 
     year: 2011
   - title: "Using the Cloud to Facilitate Global Software Development Challenges"
@@ -1644,14 +1563,14 @@ publications:
     authors: P. Avgeriou and P. Lago and P. Kruchten
     type: conference
     venue: "Proceeding of the 33rd international conference on Software engineering (ICSE '11)"
-    doi: https://doi.org/10.1145/1985793.1986055
+    doi: 10.1145/1985793.1986055
     url: 
     year: 2011
   - title: "A Frame of Reference for SOA Migration"
     authors: M. Razavian and P. Lago
     type: conference
     venue: "Towards a Service-Based Internet, Third European Conference, ServiceWave 2010"
-    doi: https://doi.org/10.1007/978-3-642-17694-4_13
+    doi: 10.1007/978-3-642-17694-4_13
     url: 
     year: 2010
   - title: "An Architecture Description Viewpoint Wiki based on the Semantic Web Paradigm"
@@ -1686,7 +1605,7 @@ publications:
     authors: P. Avgeriou and P. Lago and P. Kruchten
     type: conference
     venue: "Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 2"
-    doi: https://doi.org/10.1145/1810295.1810417
+    doi: 10.1145/1810295.1810417
     url: 
     year: 2010
   - title: "Notes on Design Reasoning Techniques"
@@ -1700,7 +1619,7 @@ publications:
     authors: P. Lago and P. Avgeriou and P. Kruchten
     type: article
     venue: "SIGSOFT Software Engineering Notes"
-    doi: https://doi.org/10.1145/1838687.1838696
+    doi: 10.1145/1838687.1838696
     url: 
     year: 2010
   - title: "Service identification methods: a systematic literature review"
@@ -1756,7 +1675,7 @@ publications:
     authors: P. Lago and H. Muccini and van Vliet, H.
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2008.08.026
+    doi: 10.1016/j.jss.2008.08.026
     url: 
     year: 2009
   - title: "Designing a Multi-disciplinary Software Engineering Project"
@@ -1777,7 +1696,7 @@ publications:
     authors: Q. Gu and P. Lago
     type: article
     venue: "Service Oriented Computing and Applications"
-    doi: https://doi.org/10.1007/s11761-009-0046-7
+    doi: 10.1007/s11761-009-0046-7
     url: 
     year: 2009
   - title: "Fourth international workshop on sharing and reusing architectural knowledge"
@@ -1791,14 +1710,14 @@ publications:
     authors: P. Lago and P. Avgeriou and P. Kruchten
     type: conference
     venue: "31st International Conference on Software Engineering - Companion Volume"
-    doi: https://doi.org/10.1109/ICSE-COMPANION.2009.5071055
+    doi: 10.1109/ICSE-COMPANION.2009.5071055
     url: 
     year: 2009
   - title: "Guest Editors' Introduction: Design decisions and design rationale in software architectures"
     authors: M.A. Babar and P. Lago
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2009.05.053
+    doi: 10.1016/j.jss.2009.05.053
     url: 
     year: 2009
   - title: "Guiding the Service Engineering Process: the Importance of Service Aspects"
@@ -1868,7 +1787,7 @@ publications:
     authors: P. Avgeriou and P. Lago and P. Kruchten
     type: article
     venue: "SIGSOFT Software Engineering Notes"
-    doi: https://doi.org/10.1145/1507195.1507219
+    doi: 10.1145/1507195.1507219
     url: 
     year: 2009
   - title: "A just-In-Time Architectural Knowledge Sharing Platform"
@@ -1917,7 +1836,7 @@ publications:
     authors: M. Montesi and P. Lago
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2007.11.723
+    doi: 10.1016/j.jss.2007.11.723
     url: 
     year: 2008
   - title: "The Architect's Mindset"
@@ -1945,7 +1864,7 @@ publications:
     authors: P. Avgeriou and P. Kruchten and P. Lago and P. Grisham and D. Perry
     type: article
     venue: "SIGSOFT Software Engineering Notes"
-    doi: https://doi.org/10.1145/1281421.1281443
+    doi: 10.1145/1281421.1281443
     url: 
     year: 2007
   - title: "Assessing a Multi-Site Development Organization for Architectural Compliance"
@@ -1966,7 +1885,7 @@ publications:
     authors: R. Farenhorst and P. Lago and {van Vliet}, H.
     type: article
     venue: "International Journal of Cooperative Information Systems"
-    doi: https://doi.org/10.1142/S0218843007001706
+    doi: 10.1142/S0218843007001706
     url: 
     year: 2007
   - title: "Effective Tool Support for Architectural Knowledge Sharing"
@@ -1994,7 +1913,7 @@ publications:
     authors: P. Lago and P. Avgeriou and P. Kruchten and P. Grisham and D. Perry
     type: conference
     venue: "ICSE Companion, SHARK workshop"
-    doi: https://doi.org/10.1109/ICSECOMPANION.2007.65
+    doi: 10.1109/ICSECOMPANION.2007.65
     url: 
     year: 2007
   - title: "Sidebar -- Software Architecture"
@@ -2029,7 +1948,7 @@ publications:
     authors: P. Lago and P. Avgeriou
     type: article
     venue: "SIGSOFT Software Engineering Notes"
-    doi: https://doi.org/10.1145/1163514.1163526
+    doi: 10.1145/1163514.1163526
     url: 
     year: 2006
   - title: "Rationale promotes Learning about Architectural Knowledge"
@@ -2043,7 +1962,7 @@ publications:
     authors: R. Roeller and P. Lago and van Vliet, H.
     type: article
     venue: "Journal of Systems and Software"
-    doi: https://doi.org/10.1016/j.jss.2005.10.017
+    doi: 10.1016/j.jss.2005.10.017
     url: 
     year: 2006
   - title: "Software Architecture of Wireless Services"
@@ -2101,5 +2020,4 @@ publications:
     venue: "Proceedings 8th European Conference on Software Maintenance and Reengineering (CSMR2004)"
     doi: 
     url: 
-    year: 2004    
----
+    year: 2004
