@@ -29,16 +29,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .icon_bg {
-  font-size: 5em;
+  font-size: 5em !important;
 }
 
 .icon_square {
-  color: #FFFFFF;
-  font-size: 5em;
-  line-height: 10em;
-  background-color: #00FF00;
-  height: 11em;
-  width: 11em;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  color: #FFFFFF !important;
+  font-size: 5em !important;
+  line-height: 10em !important;
+  background-color: #00FF00 !important;
+  height: 11em !important;
+  width: 11em !important;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
 }
