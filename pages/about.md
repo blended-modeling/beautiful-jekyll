@@ -8,9 +8,8 @@ We carry out research in software engineering and software architecture in gener
 
 ## Focus
 
-Our **focus** is on the following scientific areas of interest:
-
 <div class="row ">
+Our **focus** is on the following scientific areas of interest:
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;"><span class="fa fa-bar-chart-o icon_bg icon_square"></span><div>Data-driven decision making</div></div>
 </div>
