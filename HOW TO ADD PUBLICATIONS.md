@@ -19,7 +19,7 @@
     * You can leave both the `pdf` and the `pdf` empty if you prefer.  
     * As `type`, you can use `conferences`,`journals`,`workshopsSpecialTracks`,`bookChapters`
 
-2. (optional, only if you want to add a pre/post print) Add a PDF file to the `pubs` folder. 
+2. (optional, only if you want to add a pre/post print) Add a PDF file to the `files/pubs` folder. 
     The name of the PDF has to match the name you specified in the metadata entry (e.g. `2021-ICSA-IG-anomaly_detection_tool.pdf`) 
 
     As a suggestion, we can use the following pattern: \
