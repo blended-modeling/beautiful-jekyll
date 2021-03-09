@@ -1,5 +1,7 @@
 # --- General options --- #
 
+# Run locally via: "bundle exec jekyll serve --livereload" on the parent folder of the project
+
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
