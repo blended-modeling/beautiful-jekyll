@@ -1,6 +1,7 @@
 ---
 layout: publications
 title: Publications
+full-width: true
 publications:
   - title: "MEDAL: An AI-driven Data Fabric Concept for Elastic Cloud-to-Edge Intelligence"
     authors: Vasileios Theodorou, Ilias Gerostathopoulos, Iyad Alshabani, Alberto Abello and David Breitgand
