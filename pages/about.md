@@ -7,27 +7,25 @@ title: About us
 We carry out research in software engineering and software architecture in general, and specifically on their socio-technical and environmental sustainability. Software and sustainability play a key role in modern society. Europe focuses on sustainability and innovation more than ever. Our focus is on devising systematic, disciplined, and quantifiable approaches for designing, developing, and maintaining complex software intensive systems.
 
 ## Focus
-
 Our **focus** is on the following scientific areas of interest:
-
 <div class="row ">
-<div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-<div id="osc_servicebox_0" class="osc_servicebox "><span class="fa fa-bar-chart-o icon_bg iconcircle"></span><div class="osc_servicebox_content">Data-driven decision making</div></div>
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;"><span class="fa fa-bar-chart-o icon_bg icon_square"></span><div>Data-driven decision making</div></div>
 </div>
-<div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-<div id="osc_servicebox_1" class="osc_servicebox "><span class="fa fa-dashboard icon_bg iconcircle"></span><div class="osc_servicebox_content">Sustainability and Green IT</div></div>
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;"><span class="fa fa-dashboard icon_bg icon_square"></span><div>Sustainability and Green IT</div></div>
 </div>
-<div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-<div id="osc_servicebox_2" class="osc_servicebox "><span class="fa fa-cubes icon_bg iconcircle"></span><div class="osc_servicebox_content">Software architecture design</div></div>
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;"><span class="fa fa-cubes icon_bg icon_square"></span><div>Software architecture design</div></div>
 </div>
-<div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-<div id="osc_servicebox_4" class="osc_servicebox "><span class="fa fa-line-chart icon_bg iconcircle"></span><div class="osc_servicebox_content">Business modeling</div></div>
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;"><span class="fa fa-line-chart icon_bg icon_square"></span><div>Business modeling</div></div>
 </div>
-<div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-<div id="osc_servicebox_5" class="osc_servicebox "><span class="fa fa-users icon_bg iconcircle"></span><div class="osc_servicebox_content">Human factors</div></div>
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;"><span class="fa fa-users icon_bg icon_square"></span><div>Human factors</div></div>
 </div>
-<div class="col-lg-2 col-md-12 col-xs-12 col-sm-12">
-<div id="osc_servicebox_3" class="osc_servicebox "><span class="fa fa-flask icon_bg iconcircle"></span><div class="osc_servicebox_content">Empirical experimentation</div></div>
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;"><span class="fa fa-flask icon_bg icon_square"></span><div>Empirical experimentation</div></div>
 </div>
 <br />
 </div>

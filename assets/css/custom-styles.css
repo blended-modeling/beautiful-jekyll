@@ -27,3 +27,17 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   padding-bottom: 1em
 }
+
+.icon_bg {
+  font-size: 2em !important;
+}
+
+.icon_square {
+  color: #FFFFFF !important;
+  font-size: 2em !important;
+  line-height: 2em !important;
+  background-color: #00FF00 !important;
+  height: 2em !important;
+  width: 2em !important;
+  margin-top: 1em !important;
+}
