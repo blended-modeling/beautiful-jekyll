@@ -14,3 +14,17 @@ td, th {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 500 !important;
 }
+
+.publication-dropdown {
+  color: #00FF00;
+  font-weight:800;
+  background-color:black;
+  text-align:center;
+  align:center
+}
+
+.publication-dropdown-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1em
+}

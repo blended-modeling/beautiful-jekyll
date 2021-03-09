@@ -3,40 +3,42 @@ layout: page
 ---
 <div class="regular-text">
 
-    <select id = "myList" onchange="
-        if (this.value == 'all-by-type') {
-            $('#all').hide();
-            $('#all-by-year').hide();
-            $('#all-by-type').show();
-        } else if (this.value == 'all-by-year') {
-            $('#all').hide();
-            $('#all-by-type').hide();
-            $('#all-by-year').show();
-        } else {
-            $('#all-by-type').hide();
-            $('#all-by-year').hide();
-            $('#all').show();
-            if (this.value == 'all') {
-                $('.biblist li').show();
-            } else if (this.value == 'journals') {
-                $('.biblist li').hide().filter('[type=journals]').show();
-            } else if (this.value == 'conferences') {
-                $('.biblist li').hide().filter('[type=conferences]').show();
-            } else if (this.value == 'workshopsSpecialTracks') {
-                $('.biblist li').hide().filter('[type=workshopsSpecialTracks]').show();
-            } else if (this.value == 'bookChapters') {
-                $('.biblist li').hide().filter('[type=bookChapters]').show();
+    <div class="publication-dropdown-container">
+        <select id = "myList" class="publication-dropdown" onchange="
+            if (this.value == 'all-by-type') {
+                $('#all').hide();
+                $('#all-by-year').hide();
+                $('#all-by-type').show();
+            } else if (this.value == 'all-by-year') {
+                $('#all').hide();
+                $('#all-by-type').hide();
+                $('#all-by-year').show();
+            } else {
+                $('#all-by-type').hide();
+                $('#all-by-year').hide();
+                $('#all').show();
+                if (this.value == 'all') {
+                    $('.biblist li').show();
+                } else if (this.value == 'journals') {
+                    $('.biblist li').hide().filter('[type=journals]').show();
+                } else if (this.value == 'conferences') {
+                    $('.biblist li').hide().filter('[type=conferences]').show();
+                } else if (this.value == 'workshopsSpecialTracks') {
+                    $('.biblist li').hide().filter('[type=workshopsSpecialTracks]').show();
+                } else if (this.value == 'bookChapters') {
+                    $('.biblist li').hide().filter('[type=bookChapters]').show();
+                }
             }
-        }
-    ">
-        <option value = "all">ALL</option>
-        <option value = "all-by-type">ALL - by type</option>
-        <option value = "all-by-year">ALL - by year</option>
-        <option value = "journals">Journals</option>
-        <option value = "conferences">Conferences</option>
-        <option value = "workshopsSpecialTracks">Workshops and Special Tracks</option>
-        <option value = "bookChapters">Book Chapters</option>
-    </select>
+        ">
+            <option class="publication-dropdown" value = "all">ALL</option>
+            <option class="publication-dropdown" value = "all-by-type">By type</option>
+            <option class="publication-dropdown-list" value = "all-by-year">By year</option>
+            <option class="publication-dropdown" value = "journals">Journals</option>
+            <option class="publication-dropdown" value = "conferences">Conferences</option>
+            <option class="publication-dropdown" value = "workshopsSpecialTracks">Workshops and Special Tracks</option>
+            <option class="publication-dropdown" value = "bookChapters">Book Chapters</option>
+        </select>
+    </div>
 
     <div id="all">
         <ol class="biblist" reversed>
