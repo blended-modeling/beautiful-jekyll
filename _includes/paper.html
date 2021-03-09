@@ -1,0 +1,18 @@
+<li type="{{ include.type | strip }}">
+    {{ include.authors }}
+    <br><b>{{ include.title }}</b> <br>
+    <i>{{ include.venue }}</i>
+    <br/>
+    {% assign doi_stripped = include.doi | strip %}
+    {% if doi_stripped == "" %}
+        [DOI]
+    {% else %}
+        [<a href="{{ doi_stripped }}" target="_blank">DOI</a>]
+    {% endif %}
+    {% assign pdf_stripped = include.pdf | strip %}
+    {% if pdf_stripped == "" %}
+        [PDF]
+    {% else %}
+        [<a href="/pubs/{{ pdf_stripped }}" target="_blank">PDF</a>]
+    {% endif %}
+</li>

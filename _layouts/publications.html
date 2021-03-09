@@ -1,0 +1,144 @@
+---
+layout: page
+---
+<div class="regular-text">
+
+    <select id = "myList" onchange="
+        if (this.value == 'all-by-type') {
+            $('#all').hide();
+            $('#all-by-year').hide();
+            $('#all-by-type').show();
+        } else if (this.value == 'all-by-year') {
+            $('#all').hide();
+            $('#all-by-type').hide();
+            $('#all-by-year').show();
+        } else {
+            $('#all-by-type').hide();
+            $('#all-by-year').hide();
+            $('#all').show();
+            if (this.value == 'all') {
+                $('.biblist li').show();
+            } else if (this.value == 'journals') {
+                $('.biblist li').hide().filter('[type=journals]').show();
+            } else if (this.value == 'conferences') {
+                $('.biblist li').hide().filter('[type=conferences]').show();
+            } else if (this.value == 'workshopsSpecialTracks') {
+                $('.biblist li').hide().filter('[type=workshopsSpecialTracks]').show();
+            } else if (this.value == 'bookChapters') {
+                $('.biblist li').hide().filter('[type=bookChapters]').show();
+            }
+        }
+    ">
+        <option value = "all">ALL</option>
+        <option value = "all-by-type">ALL - by type</option>
+        <option value = "all-by-year">ALL - by year</option>
+        <option value = "journals">Journals</option>
+        <option value = "conferences">Conferences</option>
+        <option value = "workshopsSpecialTracks">Workshops and Special Tracks</option>
+        <option value = "bookChapters">Book Chapters</option>
+    </select>
+
+    <div id="all">
+        <ol class="biblist" reversed>
+            {% include papers.html publications=page.publications %}
+        </ol>
+    </div>
+
+    <div id="all-by-type" style="display: None">
+        {% assign journal_items = page.publications | where: "type", "journals" %}
+        {% assign conference_items = page.publications | where: "type", "conferences" %}
+        {% assign workshopsSpecialTracks_items = page.publications | where: "type", "workshopsSpecialTracks" %}
+        {% assign bookChapters_items = page.publications | where: "type", "bookChapters" %}
+        <div id="journal-publications">
+            <h4>Journals</h4>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=journal_items %}
+            </ol>
+        </div>
+        <div id="conference-publications">
+            <h4>Conferences</h4>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=conference_items %}
+            </ol>
+        </div>
+        <div id="workshopsSpecialTracks-publications">
+            <h4>Workshops and Special Tracks</h4>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=workshopsSpecialTracks_items %}
+            </ol>
+        </div>
+        <div id="bookChapters-publications">
+            <h4>Book Chapters</h4>
+            <ol class="biblist-by-type" reversed>
+                {% include papers.html publications=bookChapters_items %}
+            </ol>
+        </div>
+    </div>
+
+    <div id="all-by-year" style="display: None">
+        {% assign 2021_items = page.publications | where: "year", "2021" %}
+        {% assign 2020_items = page.publications | where: "year", "2020" %}
+        {% assign 2019_items = page.publications | where: "year", "2019" %}
+        {% assign 2018_items = page.publications | where: "year", "2018" %}
+        {% assign 2017_items = page.publications | where: "year", "2017" %}
+        {% assign 2016_items = page.publications | where: "year", "2016" %}
+        {% assign 2015_items = page.publications | where: "year", "2015" %}
+        {% assign 2014_items = page.publications | where: "year", "2014" %}
+        {% assign 2013_items = page.publications | where: "year", "2013" %}
+        <div id="2021-publications">
+            <h4>2021</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2021_items %}
+            </ol>
+        </div>
+        <div id="2020-publications">
+            <h4>2020</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2020_items %}
+            </ol>
+        </div>
+        <div id="2019-publications">
+            <h4>2019</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2019_items %}
+            </ol>
+        </div>
+        <div id="2018-publications">
+            <h4>2018</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2018_items %}
+            </ol>
+        </div>
+        <div id="2017-publications">
+            <h4>2017</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2017_items %}
+            </ol>
+        </div>
+        <div id="2016-publications">
+            <h4>2016</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2016_items %}
+            </ol>
+        </div>
+        <div id="2015-publications">
+            <h4>2015</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2015_items %}
+            </ol>
+        </div>
+        <div id="2014-publications">
+            <h4>2014</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2014_items %}
+            </ol>
+        </div>
+        <div id="2013-publications">
+            <h4>2013</h4>
+            <ol class="biblist-by-year" reversed>
+                {% include papers.html publications=2013_items %}
+            </ol>
+        </div>
+    </div>
+
+</div>
