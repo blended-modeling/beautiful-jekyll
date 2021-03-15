@@ -13,7 +13,7 @@ Here is how they introduce us :)
 
 *Software engineering is about more than getting the software to function properly. It is also about getting software to consume as little energy as possible and to take care of the diversity of developers and users. The research group Software and Sustainability at VU Amsterdam studies these and other dimensions of sustainability in software engineering.*
 
-![IOMagazine](/_posts/files/io_magazine.png){: .mx-auto.d-block :}
+![IOMagazine](/files/posts/io_magazine.png){: .mx-auto.d-block :}
 
 
 
