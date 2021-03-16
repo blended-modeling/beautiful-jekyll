@@ -101,15 +101,18 @@ team:
     url: https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/
 ---
 {% include list-squares.html items=page.team %}
+
 # Associated Members
 - [Prof. Dr. Hans van Vliet](https://scholar.google.it/citations?user=4YAdfEsAAAAJ&hl=it&oi=ao)
 - [Prof. Dr. Gerrit van der Veer](https://www.cs.vu.nl/~gerrit/)
 - [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
+
 # Scientific Collaborators
 - [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
 - [Gian Luca Scoccia](https://gianlucascoccia.github.io)
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
+
 # Former Members
 - [Stan Swanborn](https://nl.linkedin.com/in/stan-swanborn-0470b4a9)
 - [Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
@@ -128,6 +131,7 @@ team:
 - [Dr. Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer/)
 - [Dr. Hector Fernandez](https://www.linkedin.com/in/hector2fernandez/)
 - [Dr. Giordano Tamburrelli](https://nl.linkedin.com/in/giordano-tamburrelli-b532334)
+
 # Guests
 - [Mr. Paolo Di Francesco](http://www.paolodifrancesco.com/)
 - [Prof. Daniela Damian](https://danadamian.wordpress.com/)
