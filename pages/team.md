@@ -74,6 +74,8 @@ team:
     desc: PhD Student
     website: https://robertoverdecchia.github.io/
     url: https://robertoverdecchia.github.io/
+    github: https://github.com/robertoverdecchia
+    twitter: https://twitter.com/r_verdecchia
   - name: Fadime Kaya
     img: /img/people/fadime.jpeg
     desc: PhD Student
