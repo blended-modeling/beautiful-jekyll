@@ -34,7 +34,7 @@ layout: page
         ">
             <option class="publication-dropdown" value = "all">ALL</option>
             <option class="publication-dropdown" value = "all-by-type">By type</option>
-            <option class="publication-dropdown-list" value = "all-by-year">By year</option>
+            <option class="publication-dropdown" value = "all-by-year" selected>By year</option>
             <option class="publication-dropdown" value = "journals">Journal articles</option>
             <option class="publication-dropdown" value = "conferences">Conferences/workshops</option>
             <option class="publication-dropdown" value = "bookChapters">Books/book chapters</option>
@@ -68,7 +68,7 @@ layout: page
     {% assign other_items = page.publications | where: "type", "other" %}
     {% assign thesis_items = page.publications | where: "type", "thesis" %}
 
-    <div id="all">
+    <div id="all" style="display: None">
         <ol class="biblist" reversed>
             {% include papers.html publications=2021_items %}
             {% include papers.html publications=2020_items %}
@@ -91,7 +91,7 @@ layout: page
         </ol>
     </div>
 
-    <div id="all-by-type" style="display: None">
+    <div id="all-by-type"  style="display: None">
         <div id="journal-publications" class="publication-block">
             <h3 class="publication-block-title">Journals</h3>
             <ol class="biblist-by-type" reversed>
@@ -125,7 +125,7 @@ layout: page
 
     </div>
 
-        <div id="all-by-year" style="display: None">
+        <div id="all-by-year">
             <div id="2021-publications" class="publication-block">
                 <h3 class="publication-block-title">2021</h3>
                 <ol class="biblist-by-year" reversed>
