@@ -20,14 +20,14 @@ publications:
     authors: Ana Petrovska, Malte Neuss, Ilias Gerostathopoulos, Alexander Pretschner
     venue: "16th Symposium on Software Engineering for Adaptive and Self-Managing Systems"
     doi: 
-    pdf: 
+    pdf: 2021-SEAMS-IG-SubjectiveLogic.pdf
     year: 2021
     type: conference
   - title: "MEDAL: An AI-driven Data Fabric Concept for Elastic Cloud-to-Edge Intelligence"
     authors: Vasileios Theodorou, Ilias Gerostathopoulos, Iyad Alshabani, Alberto Abello and David Breitgand
     venue: "3rd International Workshop on Multi-Clouds and Mobile Edge Computing"
     doi: 
-    pdf: 2021-SEAMS-IG-SubjectiveLogic.pdf
+    pdf: 
     year: 2021
     type: conference
   - title: "Decentralized Optimization of Vehicle Route Planning - A Cross-City Comparative Study"
