@@ -2,11 +2,32 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study"
+    authors: Justus Bogner, Roberto Verdecchia, Ilias Gerostathopoulos
+    venue: "International Conference on Technical Debt 2021"
+    doi: 
+    pdf: 2021-TechDebt-IG_RV-MLmappingstudy.pdf
+    year: 2021
+    type: conference
+  - title: "How do we Evaluate Self-adaptive Software Systems?"
+    authors: Ilias Gerostathopoulos, Thomas Vogel, Danny Weyns, Patricia Lago
+    venue: "16th Symposium on Software Engineering for Adaptive and Self-Managing Systems"
+    doi: 
+    pdf: 2021-SEAMS-IG-ExperimentsStudy.pdf
+    year: 2021
+    type: conference
+  - title: "Run-time Reasoning from Uncertain Observations with Subjective Logic in Multi-Agent Self-Adaptive Cyber-Physical Systems"
+    authors: Ana Petrovska, Malte Neuss, Ilias Gerostathopoulos, Alexander Pretschner
+    venue: "16th Symposium on Software Engineering for Adaptive and Self-Managing Systems"
+    doi: 
+    pdf: 
+    year: 2021
+    type: conference
   - title: "MEDAL: An AI-driven Data Fabric Concept for Elastic Cloud-to-Edge Intelligence"
     authors: Vasileios Theodorou, Ilias Gerostathopoulos, Iyad Alshabani, Alberto Abello and David Breitgand
     venue: "3rd International Workshop on Multi-Clouds and Mobile Edge Computing"
     doi: 
-    pdf: 
+    pdf: 2021-SEAMS-IG-SubjectiveLogic.pdf
     year: 2021
     type: conference
   - title: "Decentralized Optimization of Vehicle Route Planning - A Cross-City Comparative Study"
