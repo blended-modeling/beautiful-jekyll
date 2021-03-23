@@ -2,6 +2,13 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation"
+    authors: Ivano Malavolta, Katerina Chinnappan, Stan Swanborn, Grace Lewis, Patricia Lago
+    venue: "18th International Conference on Mining Software Repositories (MSR)"
+    doi: 
+    pdf: http://www.ivanomalavolta.com/files/papers/MSR_2021_ros_architectural_tactics.pdf
+    year: 2021
+    type: conference
   - title: "Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study"
     authors: Justus Bogner, Roberto Verdecchia, Ilias Gerostathopoulos
     venue: "International Conference on Technical Debt 2021"
