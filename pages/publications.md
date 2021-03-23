@@ -143,7 +143,7 @@ publications:
     url: http://www.ivanomalavolta.com/files/papers/ICSME_2020.pdf
     year: 2020
   - title: "Trends and Challenges for Software Engineering in the Mobile Domain"
-    authors: Luciano Baresi and William Griswold and Grace Lewis and Marco Autili and Ivano Malavolta, Ivano and Christine Julien
+    authors: Luciano Baresi and William Griswold and Grace Lewis and Marco Autili and Ivano Malavolta and Christine Julien
     type: article
     venue: "IEEE Software"
     doi: https://doi.org/10.1109/MS.2020.2994306    
