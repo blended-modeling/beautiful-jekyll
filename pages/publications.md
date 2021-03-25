@@ -2,6 +2,13 @@
 layout: publications
 title: Publications
 publications:
+  - title: "The Impact of Instant Messaging on the Energy Consumption of Android Devices"
+    authors: Stylianos Rammos, Mansi Mundra, Guijing Xu, Chuyi Tong, Wojciech Ziółkowski, Ivano Malavolta
+    type: conference
+    venue: "Proceedings of the IEEE/ACM 8th International Conference on Mobile Software Engineering and Systems"
+    doi: 
+    url: http://www.ivanomalavolta.com/files/papers/MOBILESoft_2021.pdf
+    year: 2021
   - title: "Mining the ROS ecosystem for Green Architectural Tactics in Robotics and an Empirical Evaluation"
     authors: Ivano Malavolta, Katerina Chinnappan, Stan Swanborn, Grace Lewis, Patricia Lago
     venue: "18th International Conference on Mining Software Repositories (MSR)"
