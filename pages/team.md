@@ -140,4 +140,4 @@ team:
 - [Prof. Philippe Kruchten](https://philippe.kruchten.com/)
 - [Dr. Henry Muccini](https://www.henrymuccini.com/)
 - [Prof. Ita Richardson](https://www.csis.ul.ie/staff/ItaRichardson/)
-- [Dr. Antonio Vetrò](httpss://nexa.polito.it/people/avetro)
+- [Dr. Antonio Vetr\ò](httpss://nexa.polito.it/people/avetro)
