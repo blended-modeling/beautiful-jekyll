@@ -27,7 +27,7 @@ team:
     url: http://www.ivanomalavolta.com
     github: https://github.com/iivanoo
     twitter: https://twitter.com/IMalavolta
-  - name: Dr. Emitzá Gusmán
+  - name: Dr. Emitzá Guzmán
     img: /img/people/emitza.jpeg
     desc: Assistant Professor
     website: http://145.108.225.28/emitza-guzman

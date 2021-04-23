@@ -18,5 +18,8 @@ We provide the following courses.
 | Eco-systems Disruption by IT	| [Jaap Gordijn](http://145.108.225.28/people/jaap-gordijn/){:target="_blank"} | Master Information Sciences |
 | Information Management	| [Ilias Gerostathopoulos](https://iliasger.github.io/){:target="_blank"} | Bachelor Computer Science, Bachelor Artificial Intelligence |
 | Digital Transition and Sustainability Portfolio	 | [Ilias Gerostathopoulos](https://iliasger.github.io/){:target="_blank"} | Master Information Sciences |
+| Requirements Engineering | Emitzá Guzmán |Bachelor Computer Science |
+| Ethics and Privacy | Emitzá Guzmán |Bachelor Computer Science |
+
 
 For all students of the VU, the current thesis topics are available on [Canvas](https://canvas.vu.nl/){:target="_blank"}.
