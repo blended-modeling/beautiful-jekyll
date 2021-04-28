@@ -2,6 +2,13 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Automated Online Experiment-Driven Adaptation–Mechanics and Cost Aspects"
+    authors: Ilias Gerostathopoulos, Frantisek Plasil, Christian Prehofer, Janek Thomas, Bernd Bischl
+    venue: "IEEE Access"
+    doi: https://doi.org/10.1109/ACCESS.2021.3071809 
+    pdf: 2021-IEEEAccess-IG-AOEDA.pdf
+    year: 2021
+    type: article
   - title: "The Impact of Instant Messaging on the Energy Consumption of Android Devices"
     authors: Stylianos Rammos, Mansi Mundra, Guijing Xu, Chuyi Tong, Wojciech Ziółkowski, Ivano Malavolta
     type: conference
