@@ -2,6 +2,13 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Measurement-based Experiments on the Mobile Web: A Systematic Mapping Study"
+    authors: Omar de Munk and Ivano Malavolta
+    type: conference
+    venue: "Proceedings of the International Conference on Evaluation and Assessment on Software Engineering (EASE)"
+    doi: 
+    url: http://www.ivanomalavolta.com/files/papers/EASE_2021.pdf
+    year: 2021
   - title: "Automated Online Experiment-Driven Adaptation–Mechanics and Cost Aspects"
     authors: Ilias Gerostathopoulos, Frantisek Plasil, Christian Prehofer, Janek Thomas, Bernd Bischl
     venue: "IEEE Access"
@@ -206,7 +213,7 @@ publications:
     url: http://www.ivanomalavolta.com/files/papers/ICSE_SEIP_2020.pdf
     year: 2020
   - title: "Investigating the correlation between performance scores and energy consumption of mobile web apps"
-    authors: Kwame {Chan Jong Chu} and Tanjina Islam {Miguel Morales} Exposito and Sanjay Sheombar and Christian Valladares and Olivier Philippot and {Eoin Martino} Grua and Ivano Malavolta
+    authors: Kwame Chan Jong Chu and Tanjina Islam and Miguel Morales Exposito and Sanjay Sheombar and Christian Valladares and Olivier Philippot and {Eoin Martino} Grua and Ivano Malavolta
     type: conference
     venue: "Proceedings of the International Conference on Evaluation and Assessment on Software Engineering (EASE)"
     doi: 
