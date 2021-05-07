@@ -2,6 +2,13 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Mining guidelines for architecting robotics software"
+    authors: Ivano Malavolta and Grace A. Lewis and Bradley Schmerl and Patricia Lago and David Garlan
+    type: article
+    venue: "Journal of Systems and Software"
+    doi: https://doi.org/10.1016/j.jss.2021.110969
+    url: http://www.ivanomalavolta.com/files/papers/JSS_ROS_2021.pdf
+    year: 2021
   - title: "Measurement-based Experiments on the Mobile Web: A Systematic Mapping Study"
     authors: Omar de Munk and Ivano Malavolta
     type: conference
