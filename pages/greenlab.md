@@ -4,7 +4,7 @@ title: Green Lab
 <!-- subtitle: X  -->
 ---
 
-## What is the Green Lab
+# What is the Green Lab
 
 The **Green Lab** is our ongoing research effort on software energy efficiency and other software qualities, such as performance, maintainability, etc.
 In the video below you can get an idea about our activities around the Green Lab.
@@ -15,7 +15,7 @@ In the video below you can get an idea about our activities around the Green Lab
 
 The slides used in the video are also available in [this Slideshare deck](https://www.slideshare.net/iivanoo/the-green-lab-research-cocktail-vrije-universiteit-amsterdam-october-2020).
 
-## The main components of the Green Lab 
+# The main components of the Green Lab 
 
 In a nutshell, the Green Lab is composed of three main components:
 - The Green Lab is a **Master course** in the [Software Engineering and Green IT](https://vuweb.vu.nl/en/education/master/computer-science/curriculum?specialization=software-engineering-and-green-it) program of the Computer Science master of the VU. The course takes place every year in Period 1 (September-October) and it aims at teaching students the fundamentals of Empirical Software Engineering in the context of energy efficiency. The slides we used in 2016 edition of the Green Lab course are available [here](http://www.s2group.cs.vu.nl/2016/11/greenlabslides), give a look to them for understanding how we (and you!) can measure software for making it more green and sustainable.
@@ -28,7 +28,7 @@ In a nutshell, the Green Lab is composed of three main components:
 <img src="/files/greenLab_collaboration_process.png" alt="Green Lab collaboration process" />
 </center>
 
-## Scientific publications supported by the Green Lab
+# Scientific publications supported by the Green Lab
 
 - Eoin Martino Grua, Martina De Sanctis, Ivano Malavolta, Mark Hoogendoorn, Patricia Lago (2021). Social Sustainability in the e-Health Domain via Personalized and Self-adaptive Mobile Apps in Software Sustainability, Edited by Springer, Springer, Vol. 1. [PDF](http://www.ivanomalavolta.com/files/papers/software_sustainability_2021.pdf)
 - Ivano Malavolta, Grace A. Lewis, Bradley Schmerl, Patricia Lago, David Garlan (2021). Mining guidelines for architecting robotics software. Journal of Systems and Software, 178, pp. 110969. [PDF](http://www.ivanomalavolta.com/files/papers/JSS_ROS_2021.pdf)
@@ -53,6 +53,11 @@ In a nutshell, the Green Lab is composed of three main components:
 - Procaccianti, G., Fernández, H., & Lago, P. (2016). Empirical evaluation of two best practices for energy-efficient software development. Journal of Systems and Software, 117, 185-198. [PDF](https://research.vu.nl/ws/portalfiles/portal/1433174/green-practices-JSS.pdf)
 - Jagroep, E., Procaccianti, G., van der Werf, J. M., Brinkkemper, S., Blom, L., & van Vliet, R. (2017). Energy efficiency on the product roadmap: An empirical study across releases of a software product. Journal of Software: Evolution and process, 29(2), e1852. [PDF](https://research.vu.nl/ws/portalfiles/portal/1601940/Energy+efficiency+on+the+product+roadmap+an+empirical+study+across+releases+of+a+software+product.pdf)
  
+# Other
+
+The Green Lab is also hosting the [COVID Android apps observer](https://github.com/iivanoo/covid-apps-observer). An open-source project aiming at providing useful insights about COVID-related mobile apps available to the public, ranging from the privacy-related permissions they request, contacted servers, users' perceptions, and security-related issues.
+
+
 
 
 
