@@ -18,7 +18,7 @@ title: Research Projects
 </figure>
 <div><strong style="color: #00FF00;">Green Tactics for Robotics Software</strong><br>
 <div style="text-align:left;">
-The project allows roboticists to design energy-efficient robotics software via experimentally-validated Green tactics. Green tactics are extracted by mining millions of lines of code of real-world robotics software. The grant is offered in the context of the NWO Open Competition Domain Science – XS scheme. <a href="https://www.nwo.nl/en/calls/open-competition-domain-science-xs-pakket-21-1">[Read more.]<br><br><br><br></a>
+The project allows roboticists to design energy-efficient robotics software via experimentally-validated Green tactics. Green tactics are extracted by mining millions of lines of code of real-world robotics software. The grant is offered in the context of the <a href="https://www.nwo.nl/en/calls/open-competition-domain-science-xs-pakket-21-1">NWO Open Competition Domain Science – XS</a> scheme. <a href="http://www.ivanomalavolta.com/mining-the-ros-ecosystem-for-energy-efficient-robotics-software/">[Read more.]<br><br><br><br></a> 
 </div>
 </div></div>
 </div>
@@ -33,7 +33,7 @@ The project allows roboticists to design energy-efficient robotics software via 
 <div><strong style="color: #00FF00;">Green Lab</strong><br>
 <div style="text-align:left;">
 The S2 research group designs and conducts empirical experiments for solving what we call “industrial technological dilemmas” so to leverage companies from the burden of spending time and resources on risky technical choices, lengthy side-projects, and waste of resources.
- <a href="https://www.s2group.cs.vu.nl/files/GreenLabBrochure.pdf">[Read more.]<br><br><br><br></a>
+ <a href="https://s2group.cs.vu.nl/pages/greenlab/">[Read more.]<br><br><br><br></a>
 </div>
 </div></div>
 </div>
