@@ -29,7 +29,8 @@ navbar-links:
     - Publications: "pages/publications" 
     - Projects: "pages/projects"
     - Green Lab: "pages/greenlab" 
-    - Talks: "pages/talks" 
+    - Talks: "pages/talks"
+  Software: "pages/software"
   Awards: "pages/awards"
   Contact: "pages/contact"
 
