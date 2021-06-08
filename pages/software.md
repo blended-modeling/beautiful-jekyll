@@ -5,7 +5,7 @@ title: Our software
 
 <!-- subtitle: X  -->
 
-In the following you can find the main software (open-source) projects implemented and maintained by us. For a complete overview of all our projects/tools, please refer to our [GitHub profile](https://github.com/S2-group/).
+In the following you can find the main software (open-source) projects implemented and maintained by us. Refer to our [GitHub profile](https://github.com/S2-group/) for a complete overview of all our projects/tools.
 
 ## Robot Runner
 A tool for streamlining the execution of measurement-based experiments involving robotics software. The tool is able to automatically setup, start, resume, and fully replicate user-defined experiments. Thanks to its plugin-based architecture, the tool is fully independent of the number, type, and complexity of the used robots (both real and simulated).
