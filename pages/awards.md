@@ -7,10 +7,12 @@ title: Awards
 We have awards. Some awards. Many awards.
 
 <!-- ## Here goes the title of your award -->
-<!-- ### Here goes the description of your award, with image if you wish-->
-<!-- #### Here goes the description of your award -->
+<!-- Here goes the description of your award, with image if you wish-->
+<!-- Here goes the recipient or relevant links -->
 
+<!--
 Example:
 ##Award!
-### Description of my great award ###
-### Recipient
+Description of my great award ###
+Recipient
+-->

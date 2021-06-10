@@ -19,7 +19,7 @@ We provide the following courses.
 | Information Management	| [Ilias Gerostathopoulos](https://iliasger.github.io/){:target="_blank"} | Bachelor Computer Science, Bachelor Artificial Intelligence |
 | Digital Transition and Sustainability Portfolio	 | [Ilias Gerostathopoulos](https://iliasger.github.io/){:target="_blank"} | Master Information Sciences |
 | Requirements Engineering | Emitzá Guzmán |Bachelor Computer Science |
-| Ethics and Privacy | Emitzá Guzmán |Bachelor Computer Science |
+| Ethics and Privacy | Emitzá Guzmán |Master Information Sciences |
 
 
 For all students of the VU, the current thesis topics are available on [Canvas](https://canvas.vu.nl/){:target="_blank"}.
