@@ -39,7 +39,7 @@ title: Awards
 **Recipients:** Emilio Cruciani, Breno Miranda, _Roberto Verdecchia_, Antonia Bertolino<br>
 **Venue:** 41st IEEE/ACM International Conference on Software Engineering (ICSE)<br>
 **Awarded for the Paper:** _"Scalable Approaches for Test Suite Reduction"_<br><br>
-![ICSE19](https://s2group.cs.vu.nl/img/awards/ICSE2019.jpeg "ICSE 2019 Award")<br><br>
+<img src="https://s2group.cs.vu.nl/img/awards/ICSE2019.jpeg" alt="ICSE 2019 Award" height="75%" width="75%"> <br><br>
 
 ## ❖ Best Paper Award
 <p style="margin-top:-16px;"></p>  
