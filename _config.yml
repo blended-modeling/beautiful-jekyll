@@ -32,6 +32,7 @@ navbar-links:
     - Talks: "pages/talks"
   Software: "pages/software"
   Awards: "pages/awards"
+  Our talks: "pages/ourtalks"
   Contact: "pages/contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
