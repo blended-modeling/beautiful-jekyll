@@ -2,6 +2,20 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Towards a Taxonomy of Autonomous Systems"
+    authors: Stefan Kugele, Ana Petrovska, Ilias Gerostathopoulos
+    venue: "15th European Conference on Software Architecture"
+    doi:  
+    pdf: 2021-ECSA-IG-TaxonomyForAutonomousSystems.pdf
+    year: 2021
+    type: conference
+  - title: "Aspect-Oriented Adaptation of Access Control Rules"
+    authors: Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Stephan Seifermann, Maximilian Walter, and Robert Heinrich
+    venue: "Euromicro Conference Series on Software Engineering and Advanced Applications"
+    doi:  
+    pdf: 2021-SEAA-IG-AspectsAdaptationControlRules.pdf
+    year: 2021
+    type: conferences    
   - title: "Mining guidelines for architecting robotics software"
     authors: Ivano Malavolta and Grace A. Lewis and Bradley Schmerl and Patricia Lago and David Garlan
     type: article
