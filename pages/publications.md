@@ -2,6 +2,26 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Software Engineering Techniques for Statically Analyzing Mobile Apps: Research Trends, Characteristics, and Potential for Industrial Adoption"
+    authors: Marco Autili, Ivano Malavolta, Alexander Perucci, Gian Luca Scoccia, Roberto Verdecchia
+    type: article
+    venue: "Journal of Internet Services and Applications"
+    url: http://www.ivanomalavolta.com/files/papers/JISA_2021.pdf
+    year: 2021
+  - title: "ATDx: A tool for Providing a Data-driven Overview of Architectural Technical Debt in Software-intensive Systems"
+    authors: Sebastian Ospina, Roberto Verdecchia, Ivano Malavolta, Patricia Lago
+    venue: "15th European Conference on Software Architecture"
+    doi:  
+    pdf: http://www.ivanomalavolta.com/files/papers/ECSA_2021_atdx.pdf
+    year: 2021
+    type: conference
+  - title: "Architectural Tactics for Energy-aware Robotics Software: A Preliminary Study"
+    authors: Katerina Chinnappan, Ivano Malavolta, Grace Lewis, Michel Albonico, Patricia Lago
+    venue: "15th European Conference on Software Architecture"
+    doi:  
+    pdf: http://www.ivanomalavolta.com/files/papers/ECSA_2021.pdf
+    year: 2021
+    type: conference
   - title: "Towards a Taxonomy of Autonomous Systems"
     authors: Stefan Kugele, Ana Petrovska, Ilias Gerostathopoulos
     venue: "15th European Conference on Software Architecture"
