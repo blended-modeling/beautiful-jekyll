@@ -2,6 +2,13 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Collaborative Model-Driven Software Engineering: A Systematic Update"
+    authors: Istvan David, Kousar Aslam, Sogol Faridmoayer, Ivano Malavolta, Eugene Syriani, Patricia Lago
+    venue: "ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS)"
+    doi:  
+    pdf: http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf
+    year: 2021
+    type: conference
   - title: "Software Engineering Techniques for Statically Analyzing Mobile Apps: Research Trends, Characteristics, and Potential for Industrial Adoption"
     authors: Marco Autili, Ivano Malavolta, Alexander Perucci, Gian Luca Scoccia, Roberto Verdecchia
     type: article
