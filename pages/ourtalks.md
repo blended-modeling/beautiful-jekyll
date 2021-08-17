@@ -6,7 +6,13 @@ title: Our talks
 
 We are regularly invited to disseminate our scientific insights in invited talks and keynotes at scientific conferences, professional networks, and companies. Below we provide the slide decks that are more representative of our dissemination talks. 
 
-### How to bring Sustainability in your Organization – Green IT
+## Building and Evaluating a Theory of Architectural Technical Debt in Software-Intensive Systems
+by Roberto Verdecchia
+
+<div class="post-content"><p> On Apr 16, 2021 we were invited to present our research introducing a theory on architectural technical debt at the Journal of the Journal of Systems and Software (JSS) Happy Hour. If you missed the presentation, you can watch the recording here.</p>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/0iEZhk6I0Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+## How to bring Sustainability in your Organization – Green IT
 by Patricia Lago and Ivano Malavolta
 
 <div class="post-content"><p> On June 29, 2021 we gave an invited talk at IT Circle Netherlands on our research on how to help organizations in adopting greener and more sustainable software solutions. Enjoy!</p>
