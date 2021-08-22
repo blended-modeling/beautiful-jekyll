@@ -6,7 +6,7 @@ publications:
     authors: Tomas Bures, Petr Hnetynka, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
     venue: "Elsevier's Journal of Systems and Software (JSS), in press"
     doi:  
-    pdf: pubs/2021-JSS-IG-extended-modes.pdf
+    pdf: 2021-JSS-IG-extended-modes.pdf
     year: 2021
     type: article
   - title: "Collaborative Model-Driven Software Engineering: A Systematic Update"
