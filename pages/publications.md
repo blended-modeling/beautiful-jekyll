@@ -2,6 +2,20 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Model-driven engineering for mobile robotic systems: a systematic mapping study"
+    authors: Giuseppina Casalaro, Giulio Cattivera, Federico Ciccozzi, Ivano Malavolta, Andreas Wortmann, Patrizio Pelliccione
+    venue: "Software & Systems Modeling"
+    doi: 10.1007/s10270-021-00908-8 
+    pdf: http://www.ivanomalavolta.com/files/papers/SOSYM_2021.pdf
+    year: 2021
+    type: article    
+  - title: "How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps?"
+    authors: Michael Peters, Gian Luca Scoccia, Ivano Malavolta
+    type: conference
+    venue: "21st IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)"
+    doi: 
+    url: http://www.ivanomalavolta.com/files/papers/SCAM_2021.pdf
+    year: 2021   
   - title: "Targeting Uncertainty in Smart CPS by Confidence-Based Logic"
     authors: Tomas Bures, Petr Hnetynka, Dominik Skoda, Jan Kofron, Rima Al Ali, Ilias Gerostathopoulos
     venue: "Elsevier's Journal of Systems and Software (JSS), in press"
