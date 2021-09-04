@@ -2,6 +2,13 @@
 layout: publications
 title: Publications
 publications:
+  - title: "Real-Time Collaborative Modeling across Language Workbenches - a Case on Jetbrains MPS and Eclipse Spoofax"
+    authors: amuel Voogd, Kousar Aslam, Louis van Gool, Bart Theelen, Ivano Malavolta
+    venue: "1st International Hands-on Workshop on Collaborative Modeling 2021 (HoWCoM)"
+    doi:  
+    pdf: http://www.ivanomalavolta.com/files/papers/HoWCoM_2021.pdf
+    year: 2021
+    type: conference
   - title: "Model-driven engineering for mobile robotic systems: a systematic mapping study"
     authors: Giuseppina Casalaro, Giulio Cattivera, Federico Ciccozzi, Ivano Malavolta, Andreas Wortmann, Patrizio Pelliccione
     venue: "Software & Systems Modeling"
