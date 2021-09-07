@@ -5,14 +5,18 @@ title: Awards
 ---
 
 <!-- TEMPLATE
-
 ## ❖ AWARD NAME
 <p style="margin-top:-16px;"></p>  
 **Recipients:** _S2member_, other members<br>
 **Venue:** <br><br>
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
-
 -->
+
+## ❖ Facebook Research Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** _Roberto Verdecchia_, Breno Miranda, Antonia Bertolino, Emilio Cruciani<br>
+**Venue:** Facebook Research Call for Proposals on Agent-based User Interaction Simulation to Find and Fix Integrity and Privacy Issues<br>
+**Awarded for the project:** _"Testing non-testable programs using association rules"_<br><br>
 
 ## ❖ Best Reviewer Award
 <p style="margin-top:-16px;"></p>  
