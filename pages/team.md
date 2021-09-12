@@ -37,6 +37,13 @@ team:
     desc: Assistant Professor
     website: https://iliasger.github.io/
     url: https://iliasger.github.io/
+  - name: Roberto Verdecchia
+    img: /img/people/roberto.jpeg
+    desc: Postdoc Researcher
+    website: https://robertoverdecchia.github.io/
+    url: https://robertoverdecchia.github.io/
+    github: https://github.com/robertoverdecchia
+    twitter: https://twitter.com/r_verdecchia
   - name: Dr. Michel Albonico
     img: /img/people/michel.jpeg
     desc: Postdoc Researcher
@@ -69,13 +76,6 @@ team:
     desc: PhD Student
     website: https://emgrua.github.io/
     url: https://emgrua.github.io/
-  - name: Roberto Verdecchia
-    img: /img/people/roberto.jpeg
-    desc: Postdoc Researcher
-    website: https://robertoverdecchia.github.io/
-    url: https://robertoverdecchia.github.io/
-    github: https://github.com/robertoverdecchia
-    twitter: https://twitter.com/r_verdecchia
   - name: Fadime Kaya
     img: /img/people/fadime.jpeg
     desc: PhD Student
