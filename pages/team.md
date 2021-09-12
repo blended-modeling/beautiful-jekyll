@@ -71,7 +71,7 @@ team:
     url: https://emgrua.github.io/
   - name: Roberto Verdecchia
     img: /img/people/roberto.jpeg
-    desc: PhD Student
+    desc: Postdoc Researcher
     website: https://robertoverdecchia.github.io/
     url: https://robertoverdecchia.github.io/
     github: https://github.com/robertoverdecchia
@@ -101,6 +101,19 @@ team:
     desc: Research Assistant
     website: https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/
     url: https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/
+  - name: Nikolaos Chalkiadakis
+    img: /img/people/nikos.jpg
+    desc: Scientific Assistant
+    website: https://www.linkedin.com/in/chalkn/
+  - name: Giovanni Fernando
+    img: /img/people/giovanni.jpg
+    desc: Scientific Assistant
+    website: https://www.linkedin.com/in/giovanni-fernando-084442216/
+  - name: Tahsin Kamil Simsek
+    img: /img/people/tahsin.jpg
+    desc: Scientific Assistant
+    website: http://www.linkedin.com/in/tahsin-kamil-%C5%9Fim%C5%9Fek-3b288b21b
+
 ---
 {% include list-squares.html items=page.team %}
 
