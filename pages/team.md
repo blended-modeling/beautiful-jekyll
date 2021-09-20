@@ -10,16 +10,11 @@ team:
     url: http://patricialago.nl/
     github: https://github.com/lagopat/
     twitter: https://twitter.com/patricia_lago
-  - name: Dr. Jaap Gordijn
-    img: /img/people/jaapgordi.jpeg
-    desc: Associate Professor
-    website: https://www.thevalueengineers.nl/
-    url: https://www.thevalueengineers.nl/
   - name: Prof. Antony Tang
     img: /img/people/antony.jpeg
     desc: Adjunct Associate Professor
-    website: http://145.108.225.28/antony-tang
-    url: http://145.108.225.28/antony-tang
+    website: https://au.linkedin.com/in/antony-tang-8a501612
+    url: hhttps://au.linkedin.com/in/antony-tang-8a501612
   - name: Dr. Ivano Malavolta
     img: /img/people/ivano.jpeg
     desc: Assistant Professor
@@ -30,13 +25,18 @@ team:
   - name: Dr. Emitzá Guzmán
     img: /img/people/emitza.jpeg
     desc: Assistant Professor
-    website: http://145.108.225.28/emitza-guzman
-    url: http://145.108.225.28/emitza-guzman
+    website: https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en
+    url: https://scholar.google.ch/citations?user=cMs97_YAAAAJ&hl=en
   - name: Dr. Ilias Gerostathopoulos
     img: /img/people/ilias.jpeg
     desc: Assistant Professor
     website: https://iliasger.github.io/
-    url: https://iliasger.github.io/
+    url: https://iliasger.github.io
+  - name: Dr. Claudia Raibulet
+    img: /img/people/claudia.jpg
+    desc: Assistant Professor
+    website: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
   - name: Roberto Verdecchia
     img: /img/people/roberto.jpeg
     desc: Postdoc Researcher
@@ -76,26 +76,21 @@ team:
     desc: PhD Student
     website: https://emgrua.github.io/
     url: https://emgrua.github.io/
-  - name: Fadime Kaya
-    img: /img/people/fadime.jpeg
-    desc: PhD Student
-    website: http://145.108.225.28/fadime-kaya/
-    url: http://145.108.225.28/fadime-kaya/
   - name: Razieh Alidoosti
     img: /img/people/razieh.jpeg
     desc: PhD Student
-    website: http://145.108.225.28/people/razieh-alidoosti
-    url: http://145.108.225.28/people/razieh-alidoosti
+    website: https://research.vu.nl/en/persons/razieh-alidoosti
+    url: https://research.vu.nl/en/persons/razieh-alidoosti
   - name: Anjana M S
     img: /img/people/anjana.jpeg
     desc: PhD Student
-    website: http://145.108.225.28/people/anjana-m-s
-    url: http://145.108.225.28/people/anjana-m-s
+    website: https://in.linkedin.com/in/anjana-m-s-601040b5
+    url: https://in.linkedin.com/in/anjana-m-s-601040b5
   - name: Tanjina Islam
     img: /img/people/tanjina.jpeg
     desc: Junior Teacher
-    website: http://145.108.225.28/tanjina-islam
-    url: http://145.108.225.28/tanjina-islam
+    website: https://nl.linkedin.com/in/tanjinaislam
+    url: https://nl.linkedin.com/in/tanjinaislam
   - name: Robin van der Wiel
     img: /img/people/robin.jpeg
     desc: Research Assistant
