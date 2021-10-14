@@ -5,19 +5,18 @@
 
 ## 2021
 
-M. Latifaj, F. Ciccozzi, M. Mohlin, E. Posse: "[Towards automated support for blended modelling of UML-RT embedded software architectures](http://www.es.mdh.se/pdf_publications/6285.pdf)"
-in 15th European Conference on Software Architecture, ECSA 2021.
+I. David, K. Aslam, S. Faridmoayer, I. Malavolta, E. Syriani, P. Lago: "[Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf)" in ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2021.
 
-A. Bucchiarone, A. Cicchetti, F. Ciccozzi, A. Pierantonio: "[Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007/978-3-030-73758-0)"
-in Springer, 2021.
+S. Voogd, K. Aslam, L. van Gool, B. Theelen, I. Malavolta: "[Real-Time Collaborative Modeling across Language Workbenches - a Case on Jetbrains MPS and Eclipse Spoofax](http://www.ivanomalavolta.com/files/papers/HoWCoM_2021.pdf)" in 1st International Hands-on Workshop on Collaborative Modeling (HoWCoM), 2021.
 
+M. Latifaj, F. Ciccozzi, M. Mohlin, E. Posse: "[Towards automated support for blended modelling of UML-RT embedded software architectures](http://www.es.mdh.se/pdf_publications/6285.pdf)" in 15th European Conference on Software Architecture, ECSA 2021.
 
-A. Bucchiarone, F. Ciccozzi, L. Lambers, A. Pierantonio, M. Tichy, M. Tisi, A. Wortmann, V. Zaytsev: "[What is the future of modelling?](https://ieeexplore.ieee.org/document/9354405)"
-in IEEE Software, 2021.
+A. Bucchiarone, A. Cicchetti, F. Ciccozzi, A. Pierantonio: "[Domain-Specific Languages in Practice with JetBrains MPS](https://link.springer.com/book/10.1007/978-3-030-73758-0)" in Springer, 2021.
+
+A. Bucchiarone, F. Ciccozzi, L. Lambers, A. Pierantonio, M. Tichy, M. Tisi, A. Wortmann, V. Zaytsev: "[What is the future of modelling?](https://ieeexplore.ieee.org/document/9354405)" in IEEE Software, 2021.
 
 L. Addazi and F. Ciccozzi: "[Blended graphical and textual modelling for UML profiles: A proof-of-concept implementation and experiment](https://doi.org/10.1016/j.jss.2021.110912)" in Journal of Systems and Software, available online 23 January 2021
 
 ## 2020
 
-C. Burghard and L. Berardinelli: “[Visualizing Multi-dimensional State Spaces Using Selective Abstraction](https://ieeexplore.ieee.org/document/9226336 )” 
-in 46th Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2020, 2020, pp. 141–149.
+C. Burghard and L. Berardinelli: “[Visualizing Multi-dimensional State Spaces Using Selective Abstraction](https://ieeexplore.ieee.org/document/9226336 )”  in 46th Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2020, 2020, pp. 141–149.
