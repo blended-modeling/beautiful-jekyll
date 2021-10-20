@@ -119,6 +119,13 @@ publications:
     url: http://www.ivanomalavolta.com/files/papers/MSR_2021_ros_architectural_tactics.pdf
     year: 2021
     type: conference
+  - title: "Enhancing Trustability of Android Applications via User-Centric Flexible Permissions"
+    authors: Gian Luca Scoccia and Ivano Malavolta and Marco Autili and Amleto Di Salle and Paola Inverardi
+    type: article
+    venue: "IEEE Transactions on Software Engineering"
+    doi: 10.1109/TSE.2019.2941936
+    url: http://www.ivanomalavolta.com/files/papers/TSE_2021.pdf
+    year: 2021
   - title: "Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study"
     authors: Justus Bogner, Roberto Verdecchia, Ilias Gerostathopoulos
     venue: "International Conference on Technical Debt 2021"
@@ -307,13 +314,6 @@ publications:
     venue: "Empirical Software Engineering"
     doi: 
     url: http://www.ivanomalavolta.com/files/papers/EMSE_2020.pdf
-    year: 2020
-  - title: "Enhancing Trustability of Android Applications via User-Centric Flexible Permissions"
-    authors: Gian Luca Scoccia and Ivano Malavolta and Marco Autili and Amleto Di Salle and Paola Inverardi
-    type: article
-    venue: "IEEE Transactions on Software Engineering"
-    doi: 
-    url: http://www.ivanomalavolta.com/files/papers/TSE_2020.pdf
     year: 2020
   - title: "Modelling and predicting User Engagement in mobile applications"
     authors: Eduardo Barbaro and Eoin Martino Grua and Ivano Malavolta and Mirjana Stercevic and Esther Weusthof and Jeroen van den Hoven
