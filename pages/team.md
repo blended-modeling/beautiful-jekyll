@@ -44,13 +44,6 @@ team:
     url: https://robertoverdecchia.github.io/
     github: https://github.com/robertoverdecchia
     twitter: https://twitter.com/r_verdecchia
-  - name: Dr. Michel Albonico
-    img: /img/people/michel.jpeg
-    desc: Postdoc Researcher
-    website: https://michelalbonico.github.io/
-    url: https://michelalbonico.github.io/
-    github: https://github.com/michelalbonico
-    twitter: https://twitter.com/michelalbonico
   - name: Kousar Aslam
     img: /img/people/kousar.webp
     desc: Postdoc Researcher
@@ -118,6 +111,7 @@ team:
 - [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
 
 # Scientific Collaborators
+- [Dr. Michel Albonico](https://michelalbonico.github.io)
 - [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
 - [Gian Luca Scoccia](https://gianlucascoccia.github.io)
