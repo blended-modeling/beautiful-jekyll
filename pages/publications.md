@@ -2,8 +2,14 @@
 layout: publications
 title: Publications
 publications:
+  - title: "A Fine-grained Data Set and Analysis of Tangling in Bug Fixing Commits"
+    authors: Steffen Herbold, Alexander Trautsch, Benjamin Ledel, Alireza Aghamohammadi, Taher Ahmed Ghaleb, Kuljit Kaur Chahal, Tim Bossenmaier, Bhaveet Nagaria, Philip Makedonski, Matin Nili Ahmadabadi, Kristof Szabados, Helge Spieker, Matej Madeja, Nathaniel Hoy, Valentina Lenarduzzi, Shangwen Wang, Gema Rodriguez-Perez, Ricardo Colomo-Palacios, Roberto Verdecchia, Paramvir Singh, Yihao Qin, Debasish Chakroborti, Willard Davis, Vijay Walunj, Hongjun Wu, Diego Marcilio, Omar Alam, Abdullah Aldaeej, Idan Amit, Burak Turhan, Simon Eismann, Anna-Katharina Wickert, Ivano Malavolta, Matus Sulir, Fatemeh Fard, Austin Z. Henley, Stratos Kourtzanidis, Eray Tuzun, Christoph Treude, Simin Maleki Shamasbi, Ivan Pashchenko, Marvin Wyrich, James Davis, Alexander Serebrenik, Ella Albrecht, Ethem Utku Aktas, Daniel Struber, Johannes Erbel
+    venue: "Empirical Software Engineering journal (EMSE)"
+    year: 2021
+    type: article
+    pdf: http://www.ivanomalavolta.com/files/papers/EMSE_2021.pdf
   - title: "Real-Time Collaborative Modeling across Language Workbenches - a Case on Jetbrains MPS and Eclipse Spoofax"
-    authors: amuel Voogd, Kousar Aslam, Louis van Gool, Bart Theelen, Ivano Malavolta
+    authors: Samuel Voogd, Kousar Aslam, Louis van Gool, Bart Theelen, Ivano Malavolta
     venue: "1st International Hands-on Workshop on Collaborative Modeling 2021 (HoWCoM)"
     doi:  
     pdf: http://www.ivanomalavolta.com/files/papers/HoWCoM_2021.pdf
@@ -113,6 +119,13 @@ publications:
     url: http://www.ivanomalavolta.com/files/papers/MSR_2021_ros_architectural_tactics.pdf
     year: 2021
     type: conference
+  - title: "Enhancing Trustability of Android Applications via User-Centric Flexible Permissions"
+    authors: Gian Luca Scoccia and Ivano Malavolta and Marco Autili and Amleto Di Salle and Paola Inverardi
+    type: article
+    venue: "IEEE Transactions on Software Engineering"
+    doi: 10.1109/TSE.2019.2941936
+    url: http://www.ivanomalavolta.com/files/papers/TSE_2021.pdf
+    year: 2021
   - title: "Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study"
     authors: Justus Bogner, Roberto Verdecchia, Ilias Gerostathopoulos
     venue: "International Conference on Technical Debt 2021"
@@ -301,13 +314,6 @@ publications:
     venue: "Empirical Software Engineering"
     doi: 
     url: http://www.ivanomalavolta.com/files/papers/EMSE_2020.pdf
-    year: 2020
-  - title: "Enhancing Trustability of Android Applications via User-Centric Flexible Permissions"
-    authors: Gian Luca Scoccia and Ivano Malavolta and Marco Autili and Amleto Di Salle and Paola Inverardi
-    type: article
-    venue: "IEEE Transactions on Software Engineering"
-    doi: 
-    url: http://www.ivanomalavolta.com/files/papers/TSE_2020.pdf
     year: 2020
   - title: "Modelling and predicting User Engagement in mobile applications"
     authors: Eduardo Barbaro and Eoin Martino Grua and Ivano Malavolta and Mirjana Stercevic and Esther Weusthof and Jeroen van den Hoven

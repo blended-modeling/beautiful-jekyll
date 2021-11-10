@@ -7,6 +7,12 @@ title: Our software
 
 In the following you can find the main software (open-source) projects implemented and maintained by us. Refer to our [GitHub profile](https://github.com/S2-group/) for a complete overview of all our projects/tools.
 
+## ATDx
+ATDx is an approach designed to provide a data-driven, intuitive, and actionable overview of the Architectural Technical Debt present in a portfolio of software projects. ATDx is based on third-party source code analysis tools, architectural issue severity calculation via clustering, and aggregation of measurements into different architectural technical debt dimensions. The ATDx tool allows users to automatically run the ATDx analysis, generate reports containing the ATDx analysis results, and is integrated with GitHub. 
+
+GitHub: [https://github.com/S2-group/ATDx](https://github.com/S2-group/ATDx)
+
+
 ## Robot Runner
 A tool for streamlining the execution of measurement-based experiments involving robotics software. The tool is able to automatically setup, start, resume, and fully replicate user-defined experiments. Thanks to its plugin-based architecture, the tool is fully independent of the number, type, and complexity of the used robots (both real and simulated).
 
