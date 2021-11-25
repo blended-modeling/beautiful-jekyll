@@ -7,10 +7,15 @@ title: Our talks
 We are regularly invited to disseminate our scientific insights in invited talks and keynotes at scientific conferences, professional networks, and companies. Below we provide the slide decks that are more representative of our dissemination talks. 
 
 ## Building and Evaluating a Theory of Architectural Technical Debt in Software-Intensive Systems
+by Patricia Lago (Keynote @ PoEM 2021)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4MgsGoJGjGKhIc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/patricia_lago/software-sustainability-the-challenges-and-opportunities-for-enterprises-and-their-researchers" title="Software Sustainability: The Challenges and Opportunities for Enterprises and their Researchers" target="_blank">Software Sustainability: The Challenges and Opportunities for Enterprises and their Researchers</a> </strong> from <strong><a href="https://www.slideshare.net/patricia_lago" target="_blank">Patricia Lago</a></strong> </div>
+
+## Building and Evaluating a Theory of Architectural Technical Debt in Software-Intensive Systems
 by Roberto Verdecchia
 
 <div class="post-content"><p> On Apr 16, 2021 we were invited to present our research introducing a theory on architectural technical debt at the Journal of the Journal of Systems and Software (JSS) Happy Hour. If you missed the presentation, you can watch the recording here.</p>
-<iframe width="700" height="394" src="https://www.youtube.com/embed/0iEZhk6I0Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+<iframe width="595" height="485" src="https://www.youtube.com/embed/0iEZhk6I0Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
 ## How to bring Sustainability in your Organization – Green IT
 by Patricia Lago and Ivano Malavolta
