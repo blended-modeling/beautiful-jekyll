@@ -6,7 +6,7 @@ title: Our talks
 
 We are regularly invited to disseminate our scientific insights in invited talks and keynotes at scientific conferences, professional networks, and companies. Below we provide the slide decks that are more representative of our dissemination talks. 
 
-## Building and Evaluating a Theory of Architectural Technical Debt in Software-Intensive Systems
+## Software Sustainability: The Challenges and Opportunities for Enterprises and their Researchers
 by Patricia Lago (Keynote @ PoEM 2021)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4MgsGoJGjGKhIc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/patricia_lago/software-sustainability-the-challenges-and-opportunities-for-enterprises-and-their-researchers" title="Software Sustainability: The Challenges and Opportunities for Enterprises and their Researchers" target="_blank">Software Sustainability: The Challenges and Opportunities for Enterprises and their Researchers</a> </strong> from <strong><a href="https://www.slideshare.net/patricia_lago" target="_blank">Patricia Lago</a></strong> </div>
