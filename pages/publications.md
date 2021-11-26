@@ -1,3 +1,11 @@
+<head>
+  <meta http-equiv="refresh" content="0; URL=https://research.vu.nl/en/organisations/software-and-sustainability-s2/publications/" />
+</head>
+<body>
+  <p>If you are not redirected in five seconds, <a href="https://research.vu.nl/en/organisations/software-and-sustainability-s2/publications/">click here</a>.</p>
+</body>
+
+<!-- 
 ---
 layout: publications
 title: Publications
@@ -2241,3 +2249,4 @@ publications:
     url: 
     year: 2004    
 ---
+-->
