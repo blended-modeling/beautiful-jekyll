@@ -23,6 +23,11 @@ There are many experiments performed on Android devices through a laptop, and ma
 
 GitHub: [https://github.com/S2-group/android-runner](https://github.com/S2-group/android-runner)
 
+## Android Architectural Guidelines
+To efficiently develop and mantain Android apps, a paramount factor is how well apps are architected. Based on a mixed-method empirical study, we derived 42 guidelines for architecting Android apps. The guidelines cover SOLID principles, design patterns, dependency injection tools like Dagger, and many more. The guidelines are organized around 4 themes: [MVVM](https://androidarchitectureguidelines.github.io/#MVVM), [MVP](https://androidarchitectureguidelines.github.io/#MPV), [Clean](https://androidarchitectureguidelines.github.io/#Clean), and [Generic](https://androidarchitectureguidelines.github.io/#Generic) guidelines.
+
+Website: [https://androidarchitectureguidelines.github.io/](https://androidarchitectureguidelines.github.io/)
+
 ## NAPPA
 A navigation-aware technique for personalized prefetching of network requests of Android apps. NAPPA is fully automated (with the possibility of custom behavior provided by developers), transparent w.r.t. the back-end of the app (i.e., it is independent of the data types provided by the back-end and it does not require any modifications in the business logic of the back-end), and adapts its prefetching behavior according to the navigation patterns of the user.
 
