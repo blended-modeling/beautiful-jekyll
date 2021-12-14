@@ -64,11 +64,6 @@ team:
     desc: PhD Student
     website: https://scholar.google.it/citations?user=2AYnxvkAAAAJ&hl=it&oi=ao
     url: https://scholar.google.it/citations?user=2AYnxvkAAAAJ&hl=it&oi=ao
-  - name: Eoin Grua
-    img: /img/people/eoin.jpeg
-    desc: PhD Student
-    website: https://emgrua.github.io/
-    url: https://emgrua.github.io/
   - name: Razieh Alidoosti
     img: /img/people/razieh.jpeg
     desc: PhD Student
@@ -79,6 +74,11 @@ team:
     desc: PhD Student
     website: https://in.linkedin.com/in/anjana-m-s-601040b5
     url: https://in.linkedin.com/in/anjana-m-s-601040b5
+  - name: Lauren Olson
+    img: /img/people/lauren.jpg
+    desc: PhD Student
+    website: https://github.com/laols574
+    url: https://github.com/laols574
   - name: Tanjina Islam
     img: /img/people/tanjina.jpeg
     desc: Junior Teacher
@@ -114,10 +114,11 @@ team:
 - [Dr. Michel Albonico](https://michelalbonico.github.io)
 - [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
-- [Gian Luca Scoccia](https://gianlucascoccia.github.io)
+- [Dr. Gian Luca Scoccia](https://gianlucascoccia.github.io)
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Dr. Eoin Martino Grua](https://emgrua.github.io) - Graduated PhD student
 - [Stan Swanborn](https://nl.linkedin.com/in/stan-swanborn-0470b4a9)
 - [Dr. Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
 - [Gianantonio Me](https://es.linkedin.com/in/gianantonio-me-80a54461)
