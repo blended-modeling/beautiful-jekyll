@@ -5,6 +5,8 @@ tags: [Research project, Experiment, Android, Battery, Network usage, YouTube, T
 comments: true
 ---
 
+*Reading time: 8 minutes*
+
 ## Introduction
 
 With the ever-growing increase in mobile phone usage, it has become more important to increase the battery life of the devices to ensure user satisfaction. A large part of the battery consumption and network usage of these devices comes from video streaming applications. Some of the most popular being from Netflix, YouTube, Amazon Prime Video and Twitch for video streaming applications. Reducing energy usage and network usage of video and streaming applications is a major point of emphasis in the mobile world and is vital for both consumers and developers. When looking at this trend from the standpoint of battery life, mobile platforms must conserve resources to improve the battery performance and user experience.
@@ -145,4 +147,4 @@ We investigate the effect size by using Cliff’s delta measure. We found an eff
  We conducted an experiment that studies the impact of the quality settings on energy consumption and network traffic. To sample the wide choice of streaming applications, we choose YouTube and Twitch. These two apps are widely-used and mature in development. The experiment is organized into separate blocks since the comparisons can be tricky with their different features. After the experiments and data analysis, we can conclude that the quality of the videos indeed impacts energy consumption and network traffic. For both YouTube and Twitch we have shown statistically that higher quality options have higher energy consumption and lower quality options have lower energy consumption. For both apps higher quality options consumed more network traffic while lower quality options used less network traffic. For the extension of our experiments, a larger size of samples would be the next level of this experiment. Since we only got two blocks with two applications, the size of the applications narrows down the acceptance and generalization of our conclusions. We also discovered the interesting part about the pre-loading algorithm in streaming applications. The different pre-loading methods can also impact the energy consumption and network traffic of the devices.
  
  
- By Kaixi Ma, Kristian Verduin, Gabor Banyai, Brian Lochan and Yunan Lyu
+ *By Kaixi Ma, Kristian Verduin, Gabor Banyai, Brian Lochan and Yunan Lyu*
