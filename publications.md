@@ -1,9 +1,9 @@
 ---
 ---
 
-# Publications
-
 ## 2022
+
+J. Holtmann, J. Deantoni, M. Fockel: "Early timing analysis based on scenario requirements and platform models". Accepted for publication in SoSyM Theme Issue on Model-Driven Requirements Engineering (2022)
 
 M. Latifaj, H. Taha, F. Ciccozzi, A. Cicchetti: "Cross-Platform Blended Modelling with JetBrains MPS and Eclipse Modeling Framework" in 19th International Conference on Information Technology: New Generations, ITNG 2022.
 
@@ -27,3 +27,6 @@ L. Addazi and F. Ciccozzi: "[Blended graphical and textual modelling for UML pro
 ## 2020
 
 C. Burghard and L. Berardinelli: “[Visualizing Multi-dimensional State Spaces Using Selective Abstraction](https://ieeexplore.ieee.org/document/9226336 )”  in 46th Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2020, 2020, pp. 141–149.
+
+R. Jolak, M. Savary-Leblanc, M. Dalibor, A. Wortmann, R. Hebig, J. Vincur, I. Polásek, X. Le Pallec, S. Gérard, M. R. V. Chaudron:
+Software engineering whispers: "[The effect of textual vs. graphical software design descriptions on software design communication](https://doi.org/10.1007/s10664-020-09835-6)" in Empirical Software Engineering 25(6): 4427-4471 (2020)
