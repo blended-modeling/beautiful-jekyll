@@ -3,6 +3,13 @@
 
 # Publications
 
+## 2022
+
+M. Latifaj, H. Taha, F. Ciccozzi, A. Cicchetti: "Cross-Platform Blended Modelling with JetBrains MPS and Eclipse Modeling Framework" in 19th International Conference on Information Technology: New Generations, ITNG 2022.
+
+M. W. Anwar, M. Latifaj, F. Ciccozzi: "Blended Modeling applied to the Portable test and Stimulus Standard" in 19th International Conference on Information Technology: New Generations, ITNG 2022.
+
+
 ## 2021
 
 I. David, K. Aslam, S. Faridmoayer, I. Malavolta, E. Syriani, P. Lago: "[Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf)" in ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2021.
