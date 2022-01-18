@@ -14,7 +14,7 @@ M. W. Anwar, M. Latifaj, F. Ciccozzi: "Blended Modeling applied to the Portable 
 
 ## 2021
 
-A. Colantoni, A. Germandia, L. Berardinelli, M. Wimmer, J. Bräuer: "[Leveraging Model-Driven Technologies for JSON Artefacts: The Shipyard Case Study] (https://ieeexplore.ieee.org/abstract/document/9592494)" in ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2021.
+A. Colantoni, A. Germandia, L. Berardinelli, M. Wimmer, J. Bräuer: "[Leveraging Model-Driven Technologies for JSON Artefacts: The Shipyard Case Study](https://ieeexplore.ieee.org/abstract/document/9592494)" in ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2021.
 
 I. David, K. Aslam, S. Faridmoayer, I. Malavolta, E. Syriani, P. Lago: "[Collaborative Model-Driven Software Engineering: A Systematic Update](http://www.ivanomalavolta.com/files/papers/MODELS_2021.pdf)" in ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2021.
 
