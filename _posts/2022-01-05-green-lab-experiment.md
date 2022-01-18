@@ -90,10 +90,10 @@ For Block two, we choose Twitch as the mobile application. The same experimental
 | Max          	| 1515 	| 2420 	| 3292 	|  9849 	|
 | St.deviation 	|   74 	|  167 	|  247 	|  1257 	|
 
-We apply the same plots as block one since the similar methodology fits for both applications. The table illustrates the energy consumption under different quality settings in YouTube. 
+We apply the same plots as block one since the similar methodology fits for both applications. The table illustrates the energy consumption under different quality settings in Twitch. 
 
 ![twitch_con](/files/posts/images_energy_android_experiment/T_con.jpg)
-The figure shows the box plots of the energy consumption in YouTube.
+The figure shows the box plots of the energy consumption of the Twitch app.
 
 We also can see from this table that the minimums and the maximums are increasing with the quality. So we create the box plots to better visualize this trend.
 
