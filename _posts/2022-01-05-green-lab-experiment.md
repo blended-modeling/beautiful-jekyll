@@ -140,23 +140,23 @@ We use the four quality setting options that Twitch provides: 360p, 480p, 720p 1
 
 ### Effect Size Estimation
 
-We investigate the effect size by using Cliff’s delta measure. We found an effect size of -0.83 and -0.99, for all the different video qualities in the energy consumption and network from YouTube and Twitch. According to Vargha and Delaney (2000) \cite{sagepub} the value of the effect size can be interpreted as small, >= 0.11, medium, >= 0.28, large, >= 0.43. Since our effect size is -0.83 and -0.99, this means we have a large effect size, because the values are in inverse.
+We investigate the effect size by using Cliff’s delta measure. We found an effect size of -0.83 and -0.99, for all the different video qualities in the energy consumption and network from YouTube and Twitch. According to [Vargha and Delaney (2000)](https://journals.sagepub.com/doi/10.3102/10769986025002101) the value of the effect size can be interpreted as small, >= 0.11, medium, >= 0.28, large, >= 0.43. Since our effect size is -0.83 and -0.99, this means we have a large effect size, because the values are in inverse.
 
 ## Discussion
 Our experiment's target is mainly for the users to know the impacts of quality settings on energy consumption and network traffic. Below is some information that helps users to choose quality settings.
 
 ### The gaps among the quality settings
-The trend shows that video playing under higher quality settings has more impact on the energy and network. The problem means it cost more when users switch from 720p to 1080p than switch from 360p to 720p. The imbalanced gaps among different settings are one of the reasons. The resolution calculation is not leaner-increase when switching up the quality settings.
+The trend shows that video playing under higher quality settings has more impact on the energy and network. The result means it cost more when users switch from 720p to 1080p than switch from 360p to 720p. 
 
 ### Pre-loading
-The network traffic remains roughly the same during video playing time. The reason might be that the pre-loading algorithm in YouTube and Twitch. Therefore the frequent changes on videos will cause heavy network traffic. 
+The network traffic remains roughly the same during video playing time. The preloading algorithm of Twitch and YouTube might be the reason for having heavy network traffic when frequently changing videos. 
 
 ### YouTube advertisements' pop-out
 In this experiment, we do not subscribe to any paid services. The advertisements become unstoppable according to the algorithm of the applications. However, we can see specific pop-out advertisements that YouTube plays do not show in the low-quality settings(at 360p or lower). This fits the service in the YouTube interface as the "saving mode".
 
 ## Conclusion
 
- We conducted an experiment that studies the impact of the quality settings on energy consumption and network traffic. To sample the wide choice of streaming applications, we choose YouTube and Twitch. These two apps are widely-used and mature in development. The experiment is organized into separate blocks since the comparisons can be tricky with their different features. After the experiments and data analysis, we can conclude that the quality of the videos indeed impacts energy consumption and network traffic. For both YouTube and Twitch we have shown statistically that higher quality options have higher energy consumption and lower quality options have lower energy consumption. For both apps higher quality options consumed more network traffic while lower quality options used less network traffic. For the extension of our experiments, a larger size of samples would be the next level of this experiment. Since we only got two blocks with two applications, the size of the applications narrows down the acceptance and generalization of our conclusions. We also discovered the interesting part about the pre-loading algorithm in streaming applications. The different pre-loading methods can also impact the energy consumption and network traffic of the devices.
+ We conducted an experiment that studies the impact of the quality settings on energy consumption and network traffic. To sample the wide choice of streaming applications, we choose YouTube and Twitch. These two apps are widely-used and mature in development. The experiment is organized into separate blocks since the comparisons can be tricky with their different features. After the experiments and data analysis, we can conclude that **the quality of the videos indeed impacts energy consumption and network traffic**. For both YouTube and Twitch we have shown statistically that **higher quality options have higher energy consumption and lower quality options have lower energy consumption**. For both apps **higher quality options consumed more network traffic while lower quality options used less network traffic**. For the extension of our experiments, a larger size of samples would be the next level of this experiment. Since we only got two blocks with two applications, the size of the applications narrows down the acceptance and generalization of our conclusions. We also discovered the interesting part about the pre-loading algorithm in streaming applications. The different pre-loading methods can also impact the energy consumption and network traffic of the devices.
  
- 
- *By Kaixi Ma, Kristian Verduin, Gabor Banyai, Brian Lochan and Yunan Lyu*
+ [I'm an inline-style link](https://www.google.com)
+ *By [Kaixi Ma](https://www.linkedin.com/in/kaixi-ma/?originalSubdomain=nl), [Kristian Verduin](https://www.linkedin.com/in/kristian-verduin-898b2922a/), [Gabor Banyai](https://www.linkedin.com/in/g%C3%A1bor-b%C3%A1nyai-2454371b8/), [Brian Lochan](https://www.linkedin.com/in/brian-l-b3a170a2/) and Yunan Lyu*
