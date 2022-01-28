@@ -38,7 +38,15 @@ During the last decades mission and safety critical systems are increasingly rel
 
 The researchers at the University of Gothenburg are one of the leading research teams on traceability in Europe.
 
-**Pictor Consulting AB** -- Technology provider
+**Pictor Consulting AB** -- AB – Consultancy company in safety critical software engineering 
+
+Pictor provides technology solutions and expertise to its customers.  Competitors and substitutes are system technology providers and system developers. Pictor consulting is providing for system architecture and network architecture expertise in embedded and other safety critical software projects. In the system development of safety critical system development, the model based system engineering (MBSE) is a basis for successful implementation. 
+
+From Pictor’s perspective the results achieved with BUMBLE represent a competitive advantage by enabling tool sets that will have a major impact to both shorten the development time and improving product quality. Blended modeling is for Pictor Consulting a way to improve their own engineering processes.
+
+Working on BUMBLE technology allows Pictor, as a partner, the ability to shape it to match its professional and industry needs overall. The progress envisioned for blended modeling will provide not only extended profits when comparing to traditional technology, but also increase product quality according to the planned expectations. 
+
+Pictor takes over the project coordinating role after Alten and is excited to work with different industry partners and universities that share its passion towards creating value and innovation in the model-driven development of complex systems. 
 
 ## <a name="Netherlands"></a>![Dutch Flag](../assets/img/flag_netherlands.png){:class="inline-image"} Netherlands
 
