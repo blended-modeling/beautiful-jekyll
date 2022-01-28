@@ -34,6 +34,16 @@ During the last decades mission and safety critical systems are increasingly rel
 	
 **HCL Technologies** -- Tool and service provider
 
+HCL Technologies is a global services company with >175000 employees. HCL Software is a division of  HCL Technologies. HCL RTist is part of HCL Software that develop, market, sell, and support over 20 product families in the areas of Customer Experience, Digital Solutions, Secure DevOps, Security & Automation.
+HCL RTist is an Eclipse-based modeling and development environment for creating event-driven real-time applications. It supports the Unified Modeling Language (UML) and its real-time profile (UML-RT).
+
+Systems engineers use RTist for specifying and documenting the structure and behavior of complex application architectures using UML diagrams of various kinds.
+Software engineers use RTist for developing application code which to a large extent can be automatically generated from the UML model. Highly efficient C and C++ code can be generated, which together with a run-time library can be built into executable applications.
+
+HCL is participating in BUMBLE to investigate how blended modeling, especially textual state machines, can improve the user experience, make users more effective and simplify compare and merge operations as well as refactoring of models.
+The aim is to attract a new generation developers to create real-time applications by model-driven development in HCL RTist
+Primary focus is to extend the current Eclipse-based product, but also looking at other IDEs (VS Code, Theia, …) for potential next product generation
+
 **University of Gothenburg** -- University
 
 The researchers at the University of Gothenburg are one of the leading research teams on traceability in Europe.
