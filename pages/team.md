@@ -84,6 +84,12 @@ team:
     desc: PhD Student
     website: https://nl.linkedin.com/in/tanjinaislam
     url: https://nl.linkedin.com/in/tanjinaislam
+  - name: Markus Funke
+    img: /img/people/markus.jpeg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/markus-t-funke
+    url: https://www.linkedin.com/in/markus-t-funke
+    github: https://github.com/FunkeMT
   - name: Robin van der Wiel
     img: /img/people/robin.jpeg
     desc: Research Assistant
