@@ -15,7 +15,7 @@ D3.1 - Architecture description for BUMBLE Eclipse platform, _GU_
 
 D3.2 - Architecture description for BUMBLE MPS platforms, _Canon_ [PDF](https://docs.google.com/document/d/1l-76F8IWBzVPuY7bdXmRgLTxelMNJEr_/edit?usp=sharing&ouid=109872421650793262669&rtpof=true&sd=true)
 
-D3.3, _MVG_ - BUMBLE methodology 
+D3.3, - BUMBLE methodology, _MVG_ 
 
 ## WP6
 
