@@ -81,7 +81,7 @@ team:
     url: https://github.com/laols574
   - name: Tanjina Islam
     img: /img/people/tanjina.jpeg
-    desc: Junior Teacher
+    desc: PhD Student
     website: https://nl.linkedin.com/in/tanjinaislam
     url: https://nl.linkedin.com/in/tanjinaislam
   - name: Robin van der Wiel
