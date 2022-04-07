@@ -29,7 +29,7 @@ In a nutshell, the Green Lab is composed of three main components:
 </center>
 
 # Scientific publications supported by the Green Lab
-
+- Leonhard Wattenbach, Basel Aslan, Matteo Maria Fiore, Henley Ding, Roberto Verdecchia, Ivano Malavolta (2022). Do You Have the Energy for This Meeting? An Empirical Study on the Energy Consumption of the Google Meet and Zoom Android apps. In 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MOBILESoft 2022) [PDF](http://www.ivanomalavolta.com/files/papers/MOBILESoft_2022.pdf) 
 - Michael Peters, Gian Luca Scoccia, Ivano Malavolta (2021). How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps? Proceedings of the 21st IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) [PDF](http://www.ivanomalavolta.com/files/papers/SCAM_2021.pdf) <i class="fas fa-award"></i> **Distinguished paper award**
 - Eoin Martino Grua, Martina De Sanctis, Ivano Malavolta, Mark Hoogendoorn, Patricia Lago (2021). Social Sustainability in the e-Health Domain via Personalized and Self-adaptive Mobile Apps in Software Sustainability, Edited by Springer, Springer, Vol. 1. [PDF](http://www.ivanomalavolta.com/files/papers/software_sustainability_2021.pdf)
 - Ivano Malavolta, Grace A. Lewis, Bradley Schmerl, Patricia Lago, David Garlan (2021). Mining guidelines for architecting robotics software. Journal of Systems and Software, 178, pp. 110969. [PDF](http://www.ivanomalavolta.com/files/papers/JSS_ROS_2021.pdf)
