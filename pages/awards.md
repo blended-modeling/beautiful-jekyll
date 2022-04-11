@@ -38,6 +38,13 @@ title: Awards
 **Awarded for the Paper:** _"Characterizing Technical Debt and Antipatterns in AI-Based Systems: A Systematic Mapping Study"_<br><br>
 ![TechDebt21](https://s2group.cs.vu.nl/img/awards/TechDebt2021.jpg "TechDebt 2021 Award")<br><br>
 
+## ❖ Distinguished Paper Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** Michael Peters, Gian Luca Scoccia, _Ivano Malavolta<br>
+**Venue:** 21st IEEE International Working Conference on Source Code Analysis and Manipulation (IEEE SCAM 2021)<br>
+**Awarded for the Paper:** _"How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps?"_<br><br>
+![IEEE_SCAM_2021](http://www.ivanomalavolta.com/files/papers/SCAM_2021.pdf "IEEE SCAM 2021 Award")<br><br>
+
 ## ❖ Facebook Testing and Verification Research Award
 <p style="margin-top:-16px;"></p>  
 **Recipients:** _Roberto Verdecchia_, Breno Miranda, Emilio Cruciani, Antonia Bertolino<br>
