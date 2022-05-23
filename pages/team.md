@@ -17,7 +17,7 @@ team:
     url: hhttps://au.linkedin.com/in/antony-tang-8a501612
   - name: Dr. Ivano Malavolta
     img: /img/people/ivano.jpeg
-    desc: Assistant Professor
+    desc: Associate Professor
     website: http://www.ivanomalavolta.com
     url: http://www.ivanomalavolta.com
     github: https://github.com/iivanoo
@@ -81,7 +81,7 @@ team:
     url: https://github.com/laols574
   - name: Tanjina Islam
     img: /img/people/tanjina.jpeg
-    desc: PhD Student
+    desc: Junior Docent
     website: https://nl.linkedin.com/in/tanjinaislam
     url: https://nl.linkedin.com/in/tanjinaislam
   - name: Markus Funke
@@ -121,12 +121,12 @@ team:
 
 # Scientific Collaborators
 - [Dr. Michel Albonico](https://michelalbonico.github.io)
-- [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
 - [Dr. Gian Luca Scoccia](https://gianlucascoccia.github.io)
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Eoin Martino Grua](https://emgrua.github.io) - Graduated PhD student
 - [Stan Swanborn](https://nl.linkedin.com/in/stan-swanborn-0470b4a9)
 - [Dr. Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
@@ -147,7 +147,6 @@ team:
 - [Dr. Giordano Tamburrelli](https://nl.linkedin.com/in/giordano-tamburrelli-b532334)
 
 # Guests
-- [Mr. Paolo Di Francesco](http://www.paolodifrancesco.com/)
 - [Prof. Daniela Damian](https://danadamian.wordpress.com/)
 - [Prof. Philippe Kruchten](https://philippe.kruchten.com/)
 - [Dr. Henry Muccini](https://www.henrymuccini.com/)
