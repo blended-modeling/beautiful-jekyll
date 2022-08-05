@@ -7,6 +7,8 @@ comments: true
 
 *This article is a heavily abbreviated version of the following [thesis](https://github.com/ivanivanov10101/bachelor-project/blob/main/documentation/FINAL_THESIS.pdf). For more information, please refer to it.*
 
+*Data and source code for verifying/replicating the study are available in [this GitHub repository](https://github.com/S2-group/co2-and-the-internet).*
+
 *Reading time: 16 minutes*
 
 ## Introduction
