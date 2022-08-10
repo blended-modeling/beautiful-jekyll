@@ -110,6 +110,12 @@ team:
   - name: Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Guest PhD Student
+  - name: Iffat Fatima
+    img: /img/people/iffat.jpeg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/iffat-fatima
+    url: hhttps://www.linkedin.com/in/iffat-fatima
+    github: https://github.com/iffatfatima
 
 ---
 {% include list-squares.html items=page.team %}
