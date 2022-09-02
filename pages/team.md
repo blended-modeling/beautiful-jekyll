@@ -111,7 +111,7 @@ team:
     img: /img/people/vincenzo.jpg
     desc: Guest PhD Student
   - name: Iffat Fatima
-    img: /img/people/iffat.jpeg
+    img: /img/people/iffat.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/iffat-fatima
     url: hhttps://www.linkedin.com/in/iffat-fatima
