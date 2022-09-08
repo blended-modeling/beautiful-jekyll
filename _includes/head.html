@@ -23,6 +23,8 @@
     {%- endif -%}
   {% endcapture %}
 
+  <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png?">
+
   <title>{{ title }}</title>
 
   {% if site.author %}
@@ -145,5 +147,7 @@
       {% include {{ file }} %}
     {% endfor %}
   {% endif %}
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 </head>

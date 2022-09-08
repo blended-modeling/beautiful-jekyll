@@ -147,6 +147,9 @@ site-js:
 # Your name to show in the footer
 author: "S2 Research Group • Vrije Universiteit Amsterdam"
 
+# favicon location
+# favicon: "/img/logos/favicon.png"
+
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
