@@ -90,11 +90,12 @@ team:
     website: https://www.linkedin.com/in/markus-t-funke
     url: https://www.linkedin.com/in/markus-t-funke
     github: https://github.com/FunkeMT
-  - name: Robin van der Wiel
-    img: /img/people/robin.jpeg
-    desc: Research Assistant
-    website: https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/
-    url: https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/
+  - name: Iffat Fatima
+    img: /img/people/iffat.jpg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/iffat-fatima
+    url: hhttps://www.linkedin.com/in/iffat-fatima
+    github: https://github.com/iffatfatima
   - name: Nikolaos Chalkiadakis
     img: /img/people/nikos.jpg
     desc: Scientific Assistant
@@ -110,12 +111,6 @@ team:
   - name: Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Guest PhD Student
-  - name: Iffat Fatima
-    img: /img/people/iffat.jpg
-    desc: PhD Student
-    website: https://www.linkedin.com/in/iffat-fatima
-    url: hhttps://www.linkedin.com/in/iffat-fatima
-    github: https://github.com/iffatfatima
 
 ---
 {% include list-squares.html items=page.team %}
@@ -132,6 +127,7 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Robin van der Wiel](https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/)
 - [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Eoin Martino Grua](https://emgrua.github.io) - Graduated PhD student
 - [Stan Swanborn](https://nl.linkedin.com/in/stan-swanborn-0470b4a9)
