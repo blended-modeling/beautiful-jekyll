@@ -90,6 +90,12 @@ team:
     website: https://www.linkedin.com/in/markus-t-funke
     url: https://www.linkedin.com/in/markus-t-funke
     github: https://github.com/FunkeMT
+  - name: Elvin Alberts
+    img: /img/people/elvin.jpg
+    desc: PhD Student
+    website: https://research.vu.nl/en/persons/elvin-alberts
+    url: https://research.vu.nl/en/persons/elvin-alberts
+    github: https://github.com/EGAlberts
   - name: Iffat Fatima
     img: /img/people/iffat.jpg
     desc: PhD Student
