@@ -117,6 +117,10 @@ team:
   - name: Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Guest PhD Student
+  - name: Maël Madon
+  - img: /img/people/mael.jpg
+  - desc: Guest PhD Student
+  - website: https://www.irit.fr/~Mael.Madon/
 
 ---
 {% include list-squares.html items=page.team %}
