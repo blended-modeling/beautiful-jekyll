@@ -102,6 +102,12 @@ team:
     website: https://www.linkedin.com/in/iffat-fatima
     url: hhttps://www.linkedin.com/in/iffat-fatima
     github: https://github.com/iffatfatima
+  - name: Joran Leest
+    img: /img/people/joran.jpg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/joran-leest-204b40165
+    url: https://www.linkedin.com/in/joran-leest-204b40165
+    github: https://github.com/JoranLeest
   - name: Nikolaos Chalkiadakis
     img: /img/people/nikos.jpg
     desc: Scientific Assistant
