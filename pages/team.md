@@ -5,10 +5,10 @@ title: Team
 team:
   - name: Prof. Dr. Patricia Lago
     img: /img/people/patricia.jpeg
-    desc: Head of the S2 Group
-    website: http://patricialago.nl/
-    url: http://patricialago.nl/
-    github: https://github.com/lagopat/
+    desc: Full Professor
+    website: http://patricialago.nl
+    url: http://patricialago.nl
+    github: https://github.com/lagopat
     twitter: https://twitter.com/patricia_lago
   - name: Prof. Antony Tang
     img: /img/people/antony.jpeg
@@ -81,7 +81,7 @@ team:
     url: https://github.com/laols574
   - name: Tanjina Islam
     img: /img/people/tanjina.jpeg
-    desc: Junior Docent
+    desc: Junior Lecturer
     website: https://nl.linkedin.com/in/tanjinaislam
     url: https://nl.linkedin.com/in/tanjinaislam
   - name: Markus Funke
@@ -147,6 +147,7 @@ team:
 - [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Eoin Martino Grua](https://emgrua.github.io) - Graduated PhD student
 - [Stan Swanborn](https://nl.linkedin.com/in/stan-swanborn-0470b4a9)
+- [Dr. Jaap Gordijn](https://nl.linkedin.com/in/jaap-gordijn-691266)
 - [Dr. Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
 - [Gianantonio Me](https://es.linkedin.com/in/gianantonio-me-80a54461)
 - [Dr. Martin van den Berg](https://www.linkedin.com/in/mjbkvandenberg/) - Graduated PhD student
