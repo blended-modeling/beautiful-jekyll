@@ -5,6 +5,8 @@
 
 ## 2022
 
+R. Dekkers, P. Lago: "[Systematic Literature Review of Domain-oriented Specification Techniques] (https://www.sciencedirect.com/science/article/pii/S0164121222001261)" in Journal of Systems and Software, 2022.   
+
 J. Holtmann, J. Deantoni, M. Fockel: "Early timing analysis based on scenario requirements and platform models". Accepted for publication in SoSyM Theme Issue on Model-Driven Requirements Engineering (2022)
 
 M. Latifaj, H. Taha, F. Ciccozzi, A. Cicchetti: "Cross-Platform Blended Modelling with JetBrains MPS and Eclipse Modeling Framework" in 19th International Conference on Information Technology: New Generations, ITNG 2022.
