@@ -5,10 +5,10 @@ title: Team
 team:
   - name: Prof. Dr. Patricia Lago
     img: /img/people/patricia.jpeg
-    desc: Head of the S2 Group
-    website: http://patricialago.nl/
-    url: http://patricialago.nl/
-    github: https://github.com/lagopat/
+    desc: Full Professor
+    website: http://patricialago.nl
+    url: http://patricialago.nl
+    github: https://github.com/lagopat
     twitter: https://twitter.com/patricia_lago
   - name: Prof. Antony Tang
     img: /img/people/antony.jpeg
@@ -81,7 +81,7 @@ team:
     url: https://github.com/laols574
   - name: Tanjina Islam
     img: /img/people/tanjina.jpeg
-    desc: Junior Docent
+    desc: Junior Lecturer
     website: https://nl.linkedin.com/in/tanjinaislam
     url: https://nl.linkedin.com/in/tanjinaislam
   - name: Markus Funke
@@ -90,12 +90,24 @@ team:
     website: https://www.linkedin.com/in/markus-t-funke
     url: https://www.linkedin.com/in/markus-t-funke
     github: https://github.com/FunkeMT
+  - name: Elvin Alberts
+    img: /img/people/elvin.jpg
+    desc: PhD Student
+    website: https://research.vu.nl/en/persons/elvin-alberts
+    url: https://research.vu.nl/en/persons/elvin-alberts
+    github: https://github.com/EGAlberts
   - name: Iffat Fatima
     img: /img/people/iffat.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/iffat-fatima
     url: hhttps://www.linkedin.com/in/iffat-fatima
     github: https://github.com/iffatfatima
+  - name: Joran Leest
+    img: /img/people/joran.jpg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/joran-leest-204b40165
+    url: https://www.linkedin.com/in/joran-leest-204b40165
+    github: https://github.com/JoranLeest
   - name: Nikolaos Chalkiadakis
     img: /img/people/nikos.jpg
     desc: Scientific Assistant
@@ -111,6 +123,10 @@ team:
   - name: Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Guest PhD Student
+  - name: Maël Madon
+    img: /img/people/mael.jpg
+    desc: Guest PhD Student
+    website: https://www.irit.fr/~Mael.Madon/
 
 ---
 {% include list-squares.html items=page.team %}
@@ -131,6 +147,7 @@ team:
 - [Dr. Istvan David](https://istvandavid.com)
 - [Dr. Eoin Martino Grua](https://emgrua.github.io) - Graduated PhD student
 - [Stan Swanborn](https://nl.linkedin.com/in/stan-swanborn-0470b4a9)
+- [Dr. Jaap Gordijn](https://nl.linkedin.com/in/jaap-gordijn-691266)
 - [Dr. Albert Hankel](https://scholar.google.it/citations?user=IPa6m2QAAAAJ&hl=it&oi=ao) - Graduated PhD student
 - [Gianantonio Me](https://es.linkedin.com/in/gianantonio-me-80a54461)
 - [Dr. Martin van den Berg](https://www.linkedin.com/in/mjbkvandenberg/) - Graduated PhD student
