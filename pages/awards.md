@@ -11,6 +11,11 @@ title: Awards
 **Venue:** <br><br>
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
+## ❖ Best Reviewer Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** _Roberto Verdecchia_<br>
+**Venue:** European Conference on Software Architecture<br><br>
+
 
 ## ❖ Best Paper Award at the Journal of Systems and Software (JSS)
 <p style="margin-top:-16px;"></p>  
