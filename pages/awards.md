@@ -11,6 +11,12 @@ title: Awards
 **Venue:** <br><br>
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
+## ❖ Best Presentation Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** _Elvin Alberts_<br>
+**Venue:** Context-aware, Autonomous and Smart Architecture Workshop@ECSA<br>
+**Awarded for the Paper:** _"MockSAS: Facilitating the Evaluation of Bandit Algorithms in Self-Adaptive Systems"_<br><br>
+
 ## ❖ Best Reviewer Award
 <p style="margin-top:-16px;"></p>  
 **Recipients:** _Roberto Verdecchia_<br>
