@@ -75,7 +75,7 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 </figure>
 <div><strong style="color: #00FF00;">Large-scale Data Gathering on Software Energy Efficiency</strong><br>
 <div style="text-align:left;">
-<br><br><br><br>
+<br><br><br>
 </div>
 </div></div>
 </div>
