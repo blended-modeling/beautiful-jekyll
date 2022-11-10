@@ -84,7 +84,7 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;">
 <figure>
-    <img width="200" height="200" src="/img/logos/hfc.png"
+    <img width="100" height="100" src="/img/logos/hfc.png"
          alt="a redish, pinkish, purplish multi-arc">
     <figcaption></figcaption>
 </figure>
