@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Human Factors Club
-<!-- subtitle: X  -->
 ---
 
- This club will meet on the third Friday of every month at 15:00 to discuss human factors papers and their relation to ICT.  **Snacks and drinks included. :)**
+ This club will meet on the third Friday of every month at 15:00 to discuss human factors papers and their relation to ICT.  **Snacks and drinks included.** :)
 
 ## Meeting Times
  We will **meet** on the following days in Room 11A-37:
+ 
  <table>
    <tr>
      <th>Date</th>
