@@ -81,6 +81,22 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 </div>
 </div>
 
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;">
+<figure>
+    <img src="/img/logos/placeholder_img.png"
+         alt="">
+    <figcaption></figcaption>
+</figure>
+<div><strong style="color: #00FF00;">Human Factors Club</strong><br>
+<div style="text-align:left;">
+    This club will meet on the third Wednesday of every month at 15:00 to discuss human factors papers and their relation to ICT. Snacks and drinks included. For more information, click <a href="../humanfactors.md">here.</a>
+<br><br><br><br>
+</div>
+</div></div>
+</div>
+</div>
+
 # Past projects
 <br>
 
