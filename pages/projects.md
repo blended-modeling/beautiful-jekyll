@@ -75,7 +75,7 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 </figure>
 <div><strong style="color: #00FF00;">Large-scale Data Gathering on Software Energy Efficiency</strong><br>
 <div style="text-align:left;">
-<br><br><br>
+<br><br><br><br>
 </div>
 </div></div>
 </div>
@@ -84,7 +84,7 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;">
 <figure>
-    <img width="100" height="100" src="/img/logos/hfc.png"
+    <img width="200" height="200" src="/img/logos/hfc.png"
          alt="a redish, pinkish, purplish multi-arc">
     <figcaption></figcaption>
 </figure>
