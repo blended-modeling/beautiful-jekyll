@@ -90,7 +90,7 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 </figure>
 <div><strong style="color: #00FF00;">Human Factors Club</strong><br>
 <div style="text-align:left;">
-    This club will meet on the third Wednesday of every month at 15:00 to discuss human factors papers and their relation to ICT. Snacks and drinks included. For more information, click <a href="https://s2group.cs.vu.nl/pages/humanfactors/">here.</a>
+    This club will meet on the third Wednesday of every month at 15:00 to discuss human factors papers and their relation to ICT. Snacks and drinks included. For more information, click <a href="../humanfactors.md">here.</a>
 <br><br><br><br>
 </div>
 </div></div>
