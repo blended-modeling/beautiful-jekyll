@@ -84,7 +84,7 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 <div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
 <div style="text-align: center;">
 <figure>
-    <img src="/img/logos/placeholder_img.png"
+    <img src="/img/logos/hfc.png"
          alt="">
     <figcaption></figcaption>
 </figure>
@@ -94,7 +94,6 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 <br><br><br><br>
 </div>
 </div></div>
-</div>
 </div>
 
 # Past projects
