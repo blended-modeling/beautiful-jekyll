@@ -88,3 +88,9 @@ title: Awards
 **Recipients:** _Roberto Verdecchia_, René A. Saez, Giuseppe Procaccianti, and Patricia Lago_<br>
 **Venue:** 5th International Conference on ICT for Sustainability (ICT4S 2018)<br>
 **Awarded for the paper:** _"Empirical Evaluation of the Energy Impact of Refactoring Code Smells"_<br><br>
+
+## ❖ Best Paper Award
+<p style="margin-top:-16px;"></p>  
+**Recipients:** _Patricia Lago_, _Grace Lewis_<br>
+**Venue:** IEEE/IFIP Working Conference on Software Architecture (WICSA) & CompArch 2016<br>
+**Awarded for the Paper:** _"A Decision Model for Cyber-foraging Systems"_<br><br>
