@@ -17,7 +17,7 @@ title: Human Factors Club
    <tr>
      <td>November 16, 2022</td>
      <td><a href="http://www.victorkumar.org/uploads/6/1/5/2/61526489/frye_-_oppression.pdf">Oppression by Marilyn Frye</a></td>
-     <td><a href="https://docs.google.com/presentation/d/1Fp1WCvMEtzoNe6VcjPVEP2-W97C1azHlIV9TmF1MFDs/edit?usp=sharing"></a>Slides</td> 
+     <td><a href="https://docs.google.com/presentation/d/1Fp1WCvMEtzoNe6VcjPVEP2-W97C1azHlIV9TmF1MFDs/edit?usp=sharing">Slides</a></td> 
   </tr>
  
    <tr>
