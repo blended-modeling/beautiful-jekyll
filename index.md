@@ -1,7 +1,7 @@
 ---
 ---
 
-![](assets/img/group_photo.png){: .right-align}
+![](assets/img/group_photo.png){: .left-align}
 
 **Blended modeling** means to allow engineers to freely choose and switch between several different notations for the same domain-specific concepts captured in a DSML. The necessary synchronization techniques are exploited to also support collaborative working on models and DSML evolution.
 
