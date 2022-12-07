@@ -5,6 +5,8 @@
 
 ## 2022
 
+M. Albanico, M. Đorđević, E. Hamer, I. Malavolta: "[Software engineering research on the Robot Operating System: A systematic mapping study](https://www-sciencedirect-com.vu-nl.idm.oclc.org/science/article/pii/S0164121222002503)" in Journal of Systems and Software, 2022.  
+
 R. Dekkers, P. Lago: "[Systematic Literature Review of Domain-oriented Specification Techniques](https://www.sciencedirect.com/science/article/pii/S0164121222001261)" in Journal of Systems and Software, 2022.   
 
 J. Holtmann, J. Deantoni, M. Fockel: "Early timing analysis based on scenario requirements and platform models". Accepted for publication in SoSyM Theme Issue on Model-Driven Requirements Engineering (2022)
