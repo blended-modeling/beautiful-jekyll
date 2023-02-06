@@ -25,9 +25,9 @@ title: Human Factors Club
     <td><a href="https://docs.google.com/presentation/d/1Fp1WCvMEtzoNe6VcjPVEP2-W97C1azHlIV9TmF1MFDs/edit?usp=sharing">Slides</a></td> 
    </tr>
    <tr>
-     <td>February 16, 2023</td>
-     <td>TBA</td>
-    <td>TBA</td> 
+     <td>February 15, 2023</td>
+     <td><a href="https://data-feminism.mitpress.mit.edu/">Chapters 1 & 2 of Data Feminism</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Fp1WCvMEtzoNe6VcjPVEP2-W97C1azHlIV9TmF1MFDs/edit?usp=sharing">Slides</a></td> 
    </tr>
    <tr>
      <td>March 15, 2023</td>
