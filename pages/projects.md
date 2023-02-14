@@ -79,6 +79,20 @@ This project aims to define the strategic roadmap for the Metropolitan Region Am
 </div>
 </div></div>
 </div>
+
+<div class="col-lg-6 col-md-12 col-xs-12 col-sm-12">
+<div style="text-align: center;">
+<figure>
+    <img width="200" height="200" src="/img/logos/hfc.png"
+         alt="a redish, pinkish, purplish multi-arc">
+    <figcaption></figcaption>
+</figure>
+<div><strong style="color: #00FF00;">Human Factors Club</strong><br>
+<div style="text-align:left;">
+    This club will meet on the third Wednesday of every month at 15:00 to discuss human factors papers and their relation to ICT. Snacks and drinks included. For more information, click <a href="https://s2group.cs.vu.nl/pages/humanfactors/">here.</a>
+<br><br><br><br>
+</div>
+</div></div>
 </div>
 
 # Past projects
