@@ -37,13 +37,6 @@ team:
     desc: Assistant Professor
     website: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
-  - name: Roberto Verdecchia
-    img: /img/people/roberto.jpeg
-    desc: Postdoc Researcher
-    website: https://robertoverdecchia.github.io/
-    url: https://robertoverdecchia.github.io/
-    github: https://github.com/robertoverdecchia
-    twitter: https://twitter.com/r_verdecchia
   - name: Kousar Aslam
     img: /img/people/kousar.webp
     desc: Postdoc Researcher
@@ -137,6 +130,7 @@ team:
 - [Prof. Dr. Chris Verhoef](https://www.cs.vu.nl/~x/)
 
 # Scientific Collaborators
+- [Dr. Roberto Verdecchia](https://robertoverdecchia.github.io/) - Graduated PhD student
 - [Dr. Michel Albonico](https://michelalbonico.github.io)
 - [Dr. Nelly Condori-Fernandez](https://www.linkedin.com/in/ncondorifernandez/)
 - [Dr. Gian Luca Scoccia](https://gianlucascoccia.github.io)
