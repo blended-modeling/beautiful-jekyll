@@ -72,11 +72,6 @@ team:
     desc: PhD Student
     website: https://github.com/laols574
     url: https://github.com/laols574
-  - name: Tanjina Islam
-    img: /img/people/tanjina.jpeg
-    desc: Junior Lecturer
-    website: https://nl.linkedin.com/in/tanjinaislam
-    url: https://nl.linkedin.com/in/tanjinaislam
   - name: Markus Funke
     img: /img/people/markus.jpeg
     desc: PhD Student
@@ -130,8 +125,9 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
-- [Nikolaos Chalkiadakis]()
-- [Vincenzo Stoico](https://www.linkedin.com/in/chalkn/)
+- [Tanjina Islam](https://nl.linkedin.com/in/tanjinaislam)
+- [Nikolaos Chalkiadakis](https://www.linkedin.com/in/chalkn/)
+- [Vincenzo Stoico](https://twitter.com/vinzstoico)
 - [Maël Madon](https://www.irit.fr/~Mael.Madon/)
 - [Robin van der Wiel](https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/)
 - [Dr. Istvan David](https://istvandavid.com)
