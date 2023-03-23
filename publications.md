@@ -4,6 +4,7 @@
 # Publications
 
 ## 2022
+J. Holtmann, JP. Steghöfer, Henrik Lönn: "[Migrating from proprietary tools to open-source software for EAST-ADL metamodel generation and evolution](https://dl-acm-org.vu-nl.idm.oclc.org/doi/pdf/10.1145/3550356.3559084)" in ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2022.
 
 M. Albanico, M. Đorđević, E. Hamer, I. Malavolta: "[Software engineering research on the Robot Operating System: A systematic mapping study](https://www-sciencedirect-com.vu-nl.idm.oclc.org/science/article/pii/S0164121222002503)" in Journal of Systems and Software, 2022.  
 
