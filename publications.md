@@ -11,6 +11,8 @@ J. Holtmann, JP. Steghöfer, W. Zhang: “[Exploiting Meta-Model Structures in t
 
 W. Zhang, R. Hebig, JP. Steghöfer, J. Holtmann: “[Creating Python-style Domain Specific Languages—A Semi-automated Approach and Intermediate Results](https://www.scitepress.org/PublicationsDetail.aspx?ID=5fHdxJvcARo=&t=1)”in 11th International Conf. on Model-Driven Engineering and Software Development (MODELSWARD), 2023.
 
+I. David, K. Aslam, I. Malavolta, P. Lago: "[Collaborative Model-Driven Software Engineering – A Systematic Survey of Practices and Needs in Industry](http://www.ivanomalavolta.com/files/papers/JSS_2023_MDE.pdf)" in Journal of Systems and Software, (2023).
+
 M. Latifaj, F. Ciccozzi, M. Mohlin: "[High-order Transformations for the Generation of Synchronization Infrastructures in Blended Modeling](https://www.frontiersin.org/articles/10.3389/fcomp.2022.1008062/full)" in Frontiers in Computer Science (Front. Comput. Sci), 2023.
 
 T. Pavicevic , D. Tomasevic , A. Bucaioni, F. Ciccozzi: "Conflicts between UX designers, front-end and back-end software developers: good or bad for productivity?" in 20th International Conference on Information Technology : New Generations (ITNG), 2023.
@@ -19,6 +21,7 @@ M. Latifaj, F. Ciccozzi, A. Cicchetti: "Metamodel portioning for flexible and se
 
 R.Jongeling, F.Ciccozzi: “Towards supporting malleable architecture models” in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
 
+F. Ciccozzi, M. Latifaj, M. W. Anwar, K. Aslam, I, Malavolta: "Blended Modelling for Software Architectures" in IEEE International Conference on Software Architecture (ICSA), 2023.
 
 ## 2022
 
@@ -33,8 +36,6 @@ I. Dávid, M. Latifaj, J. Pietron, W. Zhang, F. Ciccozzi, I. Malavolta, A. Rasch
 A. Bucaioni, A. Cicchetti, F. Ciccozzi: "[Modelling in low-code development: a multi-vocal systematic review](https://link.springer.com/article/10.1007/s10270-021-00964-0)" in Software and Systems Modeling (SoSyM), 2022.
 
 M. Latifaj: "[The path towards the automatic provision of blended modeling environments](https://dl.acm.org/doi/abs/10.1145/3550356.3552394)" in ACM Student Research Competition at ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS)(ACM SRC), 2022.
-
-
 
 M. Albonico, M. Đorđević, E. Hamer, I. Malavolta: "[Software engineering research on the Robot Operating System: A systematic mapping study](https://www-sciencedirect-com.vu-nl.idm.oclc.org/science/article/pii/S0164121222002503)" in Journal of Systems and Software, 2022.  
 
