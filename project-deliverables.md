@@ -11,14 +11,14 @@ D2.2 - BUMBLE requirements and evaluation, _Canon_ [PDF](https://drive.google.co
 
 ## WP3
 
-D3.1 - Architecture description for BUMBLE Eclipse platform, _GU_ 
+D3.1 - Architecture description for BUMBLE Eclipse platform, _Gothenbury University_ 
 
 D3.2 - Architecture description for BUMBLE MPS platforms, _Canon_ [PDF](https://docs.google.com/document/d/1l-76F8IWBzVPuY7bdXmRgLTxelMNJEr_/edit?usp=sharing&ouid=109872421650793262669&rtpof=true&sd=true)
 
-D3.3, - BUMBLE methodology, _MVG_ 
+D3.3 - BUMBLE methodology, _MVG_ 
 
 ## WP6
 
-D6.1 - Dissemination plan, _VU_ [PDF](https://docs.google.com/document/d/1KS7-zK6zdN__EG-N72uJ2M-z9pxWwy5V976cu_nNCMo/edit) 
-
+D6.1 - Dissemination plan, _Vrije Universitiet_ [PDF](https://docs.google.com/document/d/1KS7-zK6zdN__EG-N72uJ2M-z9pxWwy5V976cu_nNCMo/edit) 
+D6.2 - BUMBLE website, social media accounts, _Gothenbury University_ [Twitter](https://twitter.com/bumbleitea)[Website](https://blended-modeling.github.io/) 
 
