@@ -5,7 +5,7 @@
 
 ## 2023
 
-A. Bucchiarone, M. Savary-Leblanc, X. Le Pallec, A. Cicchetti, S. Gerard, S. Bassanelli, F. Gini, A. Marconi: "[Gamifying model-based engineering: the PapyGame experience](https://www.es.mdu.se/pdf_publications/6642.pdf)" in Software and Systems Modeling (SoSyM) 2023
+A. Bucchiarone, M. Savary-Leblanc, X. Le Pallec, A. Cicchetti, S. Gerard, S. Bassanelli, F. Gini, A. Marconi: "[Gamifying model-based engineering: the PapyGame experience](https://www.es.mdu.se/pdf_publications/6642.pdf)" in Software and Systems Modeling (SoSyM), 2023
 
 J. Holtmann, JP. Steghöfer, W. Zhang: “[Exploiting Meta-Model Structures in the Generation of Xtext Editors](https://www.scitepress.org/PublicationsDetail.aspx?ID=lI5VixXma5Y=&t=1)” in 11th International Conf. on Model-Driven Engineering and Software Development (MODELSWARD), 2023.
 
@@ -17,6 +17,7 @@ T. Pavicevic , D. Tomasevic , A. Bucaioni, F. Ciccozzi: "Conflicts between UX de
 
 M. Latifaj, F. Ciccozzi, A. Cicchetti: "Metamodel portioning for flexible and secure architectural views" in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
 
+R.Jongeling, F.Ciccozzi: “Towards supporting malleable architecture models” in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
 
 
 ## 2022
@@ -39,17 +40,17 @@ M. Albonico, M. Đorđević, E. Hamer, I. Malavolta: "[Software engineering rese
 
 R. Dekkers, P. Lago: "[Systematic Literature Review of Domain-oriented Specification Techniques](https://www.sciencedirect.com/science/article/pii/S0164121222001261)" in Journal of Systems and Software, 2022.   
 
-J. Holtmann, J. Deantoni, M. Fockel: "Early timing analysis based on scenario requirements and platform models". Accepted for publication in SoSyM Theme Issue on Model-Driven Requirements Engineering (2022)
+J. Holtmann, J. Deantoni, M. Fockel: "Early timing analysis based on scenario requirements and platform models". Accepted for publication in SoSyM Theme Issue on Model-Driven Requirements Engineering, (2022)
 
 M. Latifaj, H. Taha, F. Ciccozzi, A. Cicchetti: "[Cross-Platform Blended Modelling with JetBrains MPS and Eclipse Modeling Framework](https://link-springer-com.vu-nl.idm.oclc.org/chapter/10.1007/978-3-030-97652-1_1)" in 19th International Conference on Information Technology: New Generations (ITNG), 2022.
 
-M. W. Anwar, M. Latifaj, F. Ciccozzi: "[Blended Modeling applied to the Portable test and Stimulus Standard](https://link.springer.com/chapter/10.1007/978-3-030-97652-1_6)" in 19th International Conference on Information Technology: New Generations, ITNG 2022.
+M. W. Anwar, M. Latifaj, F. Ciccozzi: "[Blended Modeling applied to the Portable test and Stimulus Standard](https://link.springer.com/chapter/10.1007/978-3-030-97652-1_6)" in 19th International Conference on Information Technology: New Generations (ITNG) 2022.
 
 R. Jongeling, F. Ciccozzi, A. Cicchetti, J. Carlson: "[From informal architecture diagrams to flexible blended models](https://www.es.mdu.se/pdf_publications/6481.pdf) in 16th European Conference on Software Architecture (ECSA), 2022.
 
 M. W. Anwar, F. Ciccozzi: "[Blended Metamodeling for Seamless Development of Domain-Specific Modeling Languages across Multiple Workbenches](https://ieeexplore.ieee.org/document/9773924) in 16th IEEE Systems Conference (Syscon), 2022.
 
- 
+M. Latifaj, F. Ciccozzi, M. W. Anwar, M. Mohlin: "[Blended Graphical and Textual Modelling of UML-RT state-machines: an industrial experience](https://link-springer-com.vu-nl.idm.oclc.org/chapter/10.1007/978-3-031-15116-3_2)" in Lecture Notes in Computer Science, vol 13365. Springer, Cham (LNCS), 2022. 
 
 ## 2021
 
