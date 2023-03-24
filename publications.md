@@ -13,9 +13,9 @@ W. Zhang, R. Hebig, JP. Steghöfer, J. Holtmann: “[Creating Python-style Domai
 
 M. Latifaj, F. Ciccozzi, M. Mohlin: "[High-order Transformations for the Generation of Synchronization Infrastructures in Blended Modeling](https://www.frontiersin.org/articles/10.3389/fcomp.2022.1008062/full)" in Frontiers in Computer Science (Front. Comput. Sci), 2023.
 
-T. Pavicevic , D. Tomasevic , A. Bucaioni, F. Ciccozzi: "[Conflicts between UX designers, front-end and back-end software developers: good or bad for productivity?]" in 20th International Conference on Information Technology : New Generations (ITNG), 2023.
+T. Pavicevic , D. Tomasevic , A. Bucaioni, F. Ciccozzi: "Conflicts between UX designers, front-end and back-end software developers: good or bad for productivity?" in 20th International Conference on Information Technology : New Generations (ITNG), 2023.
 
-M. Latifaj, F. Ciccozzi, A. Cicchetti: "[Metamodel portioning for flexible and secure architectural views]" in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
+M. Latifaj, F. Ciccozzi, A. Cicchetti: "Metamodel portioning for flexible and secure architectural views" in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
 
 
 
