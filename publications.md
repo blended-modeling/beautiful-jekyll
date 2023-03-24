@@ -3,10 +3,18 @@
 
 # Publications
 
-## 2022
-J. Holtmann, JP. Steghöfer, Henrik Lönn: "[Migrating from proprietary tools to open-source software for EAST-ADL metamodel generation and evolution](https://dl-acm-org.vu-nl.idm.oclc.org/doi/pdf/10.1145/3550356.3559084)" in ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2022.
+## 2023
 
-M. Albanico, M. Đorđević, E. Hamer, I. Malavolta: "[Software engineering research on the Robot Operating System: A systematic mapping study](https://www-sciencedirect-com.vu-nl.idm.oclc.org/science/article/pii/S0164121222002503)" in Journal of Systems and Software, 2022.  
+J. Holtmann, JP. Steghöfer, W. Zhang: “[Exploiting Meta-Model Structures in the Generation of Xtext Editors](https://www.scitepress.org/PublicationsDetail.aspx?ID=lI5VixXma5Y=&t=1)” in 11th International Conf. on Model-Driven Engineering and Software Development (MODELSWARD), 2023.
+
+W. Zhang, R. Hebig, JP. Steghöfer, J. Holtmann: “[Creating Python-style Domain Specific Languages—A Semi-automated Approach and Intermediate Results](https://www.scitepress.org/PublicationsDetail.aspx?ID=5fHdxJvcARo=&t=1)”in 11th International Conf. on Model-Driven Engineering and Software Development (MODELSWARD), 2023.
+
+## 2022
+
+
+J. Holtmann, JP. Steghöfer, H. Lönn: "[Migrating from proprietary tools to open-source software for EAST-ADL metamodel generation and evolution](https://dl-acm-org.vu-nl.idm.oclc.org/doi/pdf/10.1145/3550356.3559084)" in ACM/IEEE 25th International Conference on Model Driven Engineering Languages and Systems (MODELS), 2022.
+
+M. Albonico, M. Đorđević, E. Hamer, I. Malavolta: "[Software engineering research on the Robot Operating System: A systematic mapping study](https://www-sciencedirect-com.vu-nl.idm.oclc.org/science/article/pii/S0164121222002503)" in Journal of Systems and Software, 2022.  
 
 R. Dekkers, P. Lago: "[Systematic Literature Review of Domain-oriented Specification Techniques](https://www.sciencedirect.com/science/article/pii/S0164121222001261)" in Journal of Systems and Software, 2022.   
 
