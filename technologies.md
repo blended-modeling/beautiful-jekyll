@@ -1,7 +1,7 @@
 ---
 ---
 
-# Technologies
+
 
 ## BUMBLE Technologies
 
@@ -18,5 +18,5 @@
 
 * [bumblestatemachine](https://github.com/blended-modeling/bumblestatemachine)
 * [nl.vu.cs.bumble.emfcollaborationplugin](https://github.com/blended-modeling/nl.vu.cs.bumble.emfcollaborationplugin)
-* [MPS-Collaboration-Plugin](https://github.com/blended-modeling/MPS-Collaboration-Plugin/tree/development) MPS collaboration plugin
+* [MPS-Collaboration-Plugin](https://github.com/blended-modeling/MPS-Collaboration-Plugin/tree/development) 
 * [parsafix](https://github.com/blended-modeling/parsafix)
