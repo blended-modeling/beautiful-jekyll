@@ -19,7 +19,7 @@ T. Pavicevic , D. Tomasevic , A. Bucaioni, F. Ciccozzi: "Conflicts between UX de
 
 M. Latifaj, F. Ciccozzi, A. Cicchetti: "Metamodel portioning for flexible and secure architectural views" in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
 
-R.Jongeling, F.Ciccozzi: “Towards supporting malleable architecture models” in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
+R. Jongeling, F. Ciccozzi: “Towards supporting malleable architecture models” in IEEE International Conference on Software Architecture Companion Proceedings (MDE4SA@ICSA), 2023.
 
 F. Ciccozzi, M. Latifaj, M. W. Anwar, K. Aslam, I, Malavolta: "Blended Modelling for Software Architectures" in IEEE International Conference on Software Architecture (ICSA), 2023.
 
