@@ -1,1 +1,1 @@
-[![RTist in code](https://github.com/blended-modeling/blended-modeling.github.io/blob/master/assets/img/RTistincode.png)](https://drive.google.com/file/d/17F7l2DaIPfi-83qlHCk_saV90KaA-0nK/view "RTist in code")
+[![RTist in code](https://github.com/blended-modeling/blended-modeling.github.io/blob/master/assets/img/RTistincode.png)](https://drive.google.com/file/d/17F7l2DaIPfi-83qlHCk_saV90KaA-0nK/view?usp=share_link "RTist in code")
