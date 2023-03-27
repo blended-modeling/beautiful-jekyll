@@ -1,1 +1,1 @@
-<a href="https://drive.google.com/file/d/17F7l2DaIPfi-83qlHCk_saV90KaA-0nK/view?usp=share_link" target="_blank"><img src="https://github.com/blended-modeling/blended-modeling.github.io/tree/master/assets/img/RTistincode.jpg" alt="RTist in code" width="240" height="180" border="10" /></a>
+<a href="https://youtu.be/4-LVBF_vZB4" target="_blank"><img src="https://github.com/blended-modeling/blended-modeling.github.io/tree/master/assets/img/RTistincode.jpg" alt="RTist in code" width="240" height="180" border="10" /></a>
