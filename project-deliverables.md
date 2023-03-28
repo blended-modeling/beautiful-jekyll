@@ -21,5 +21,5 @@ D3.3 - BUMBLE methodology, _MVG_
 
 D6.1 - Dissemination plan, _Vrije Universitiet_ [PDF](https://docs.google.com/document/d/1KS7-zK6zdN__EG-N72uJ2M-z9pxWwy5V976cu_nNCMo/edit) 
 
-D6.2 - BUMBLE website, social media accounts, _Gothenbury University_ [Twitter](https://twitter.com/bumbleitea) [Website](https://blended-modeling.github.io/) 
+D6.7 - Open source software strategy, _MDU_ [PDF](https://docs.google.com/document/d/1b6fyjjdDcvRemC023mhYzPHfG5rJyFofRxsfPHlqfGM/edit?usp=share_link)
 
