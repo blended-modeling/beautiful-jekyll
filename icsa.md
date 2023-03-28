@@ -1,4 +1,4 @@
-##  Blended Modelling for Software Architectures
+#  Blended Modelling for Software Architectures
 
 In tutorial @ICSA 2023, we demonstrated two major activities in modelling and designing software architectures:
 
@@ -8,6 +8,6 @@ In tutorial @ICSA 2023, we demonstrated two major activities in modelling and de
 
 The material presented at demo can be found on following links: 
 
-Slides
+[![Slides](Image URL)](Link URL)
 
 Demos
