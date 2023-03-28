@@ -11,11 +11,11 @@ D2.2 - BUMBLE requirements and evaluation, _Canon_ [PDF](https://drive.google.co
 
 ## WP3
 
-D3.1 - Architecture description for BUMBLE Eclipse platform, _Gothenbury University_ 
+D3.1 - Architecture description for BUMBLE Eclipse platform, _Gothenbury University_ [PDF](https://drive.google.com/file/d/1Bxj6jKkcndr6-SblypFFbRR7J8R6Nsz5/view?usp=share_link)
 
 D3.2 - Architecture description for BUMBLE MPS platforms, _Canon_ [PDF](https://docs.google.com/document/d/1l-76F8IWBzVPuY7bdXmRgLTxelMNJEr_/edit?usp=sharing&ouid=109872421650793262669&rtpof=true&sd=true)
 
-D3.3 - BUMBLE methodology, _MVG_ 
+D3.3 - BUMBLE methodology, _MVG_ [PDF](https://drive.google.com/file/d/1CR5u3I5D23Js8P-QwEUgoEkRM6wDvqs4/view?usp=share_link)
 
 ## WP6
 
