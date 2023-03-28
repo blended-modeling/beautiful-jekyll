@@ -8,6 +8,4 @@ In tutorial @ICSA 2023, we demonstrated two major activities in modelling and de
 
 The material presented at demo can be found on following links: 
 
-[![Slides](Image URL)](Link URL)
-
-Demos
+[Slides](https://docs.google.com/presentation/d/1EpYXnSu1Nv5tYw3XfIdyC4uvdw15rVON/edit?usp=share_link&ouid=118002397843113092420&rtpof=true&sd=true)
