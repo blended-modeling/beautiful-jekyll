@@ -3,9 +3,6 @@
 
 
 
-## BUMBLE Technologies
-
-
 ## Blended modeling
 
 * [eatxt](https://github.com/blended-modeling/eatxt)
