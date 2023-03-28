@@ -7,11 +7,11 @@
 
 ## Blended modeling
 
-* [eatxt](https://github.com/blended-modeling/eatxt)
-* [UML-RT_StateMachines_Transformations](https://github.com/blended-modeling/UML-RT_StateMachines_Transformations)
-* [PSS](https://github.com/blended-modeling/PSS)
-* [keptn-consistency-maintenance](https://github.com/blended-modeling/keptn-consistency-maintenance)
-* [jsonschemadsl.parent](https://github.com/blended-modeling/jsonschemadsl.parent)
+* [eatxt](https://github.com/blended-modeling/eatxt) This repository contains an Xtext-based editor for a textual concrete syntax of the EAST-ADL meta-model.
+* [UML-RT_StateMachines_Transformations](https://github.com/blended-modeling/UML-RT_StateMachines_Transformations) Transformations for UML-RT state machines using Epsilon Transformation Language (ETL).
+* [PSS](https://github.com/blended-modeling/PSS) PSS Blended Modeling
+* [keptn-consistency-maintenance](https://github.com/blended-modeling/keptn-consistency-maintenance) Towards Continuous Consistency Checking of DevOps Artefacts
+* [jsonschemadsl.parent](https://github.com/blended-modeling/jsonschemadsl.parent) JSON Schema DSL
 
 ## Real-time collaboration 
 
