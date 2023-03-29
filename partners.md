@@ -5,7 +5,7 @@
 
 ## <a name="Sweden"></a>![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} Sweden
 
-**Unibap ABC** -- Supplier
+**Unibap ABCD** -- Supplier
 
 Unibap is a supplier of safety-critical vision processing solutions currently considering intelligent visual perception solutions. Competitors to Unibap’s space products are primarily in-house built computers by satellite integrators, intelligent automation and quality assurance as combinations of subsystem providers and integrators. Sensor product competitors are companies like Hexagon, Cognex, Roboception, Stemmer Imaging, while programming free software interface competitors are companies like RoboMaster.
 
