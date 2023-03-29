@@ -12,7 +12,6 @@ The following repositories are currently accessible:
 * [PSS](https://github.com/blended-modeling/PSS) PSS Blended Modeling.
 * [keptn-consistency-maintenance](https://github.com/blended-modeling/keptn-consistency-maintenance) Towards Continuous Consistency Checking of DevOps Artefacts.
 * [jsonschemadsl.parent](https://github.com/blended-modeling/jsonschemadsl.parent) JSON Schema DSML.
-* [eatxt](https://github.com/blended-modeling/eatxt) An Xtext-based editor for a textual concrete syntax of the EAST-ADL meta-model.
 
 ## Real-time collaboration 
 
