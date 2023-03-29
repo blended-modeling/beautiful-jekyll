@@ -19,7 +19,6 @@ D3.3 - BUMBLE methodology, _MVG_ [PDF](https://drive.google.com/file/d/1CR5u3I5D
 
 ## WP6
 
-D6.1 - Dissemination plan, _Vrije Universitiet_ [PDF](https://docs.google.com/document/d/1KS7-zK6zdN__EG-N72uJ2M-z9pxWwy5V976cu_nNCMo/edit) 
+D6.1 - Dissemination plan, _Vrije Universitiet_ [PDF](https://drive.google.com/file/d/1tviX_tYkXwE-Pkh9LU62Hxq2vO4piWBh/view?usp=share_link)
 
-D6.7 - Open source software strategy, _MDU_ [PDF](https://docs.google.com/document/d/1b6fyjjdDcvRemC023mhYzPHfG5rJyFofRxsfPHlqfGM/edit?usp=share_link)
-
+D6.7 - Open source software strategy, _MDU_ [PDF](https://drive.google.com/file/d/1SwXMJFR8G12SWwHyQUvY4XVNOEMNmMsX/view?usp=share_link)
