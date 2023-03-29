@@ -7,7 +7,7 @@
 
 **Unibap AB** -- Supplier
 
-Unibap is a supplier of safety-critical vision processing solutions currently considering intelligent visual perception solutions. Competitors to Unibap’s space products are primarily in-house built computers by satellite integrators, intelligent automation and quality assurance as combinations of subsystem providers and integrators. Sensor product competitors are companies like Hexagon, Cognex, Roboception, Stemmer Imaging, while programming free software interface competitors are companies like RoboMaster.
+Unibap AB is a supplier of safety-critical vision processing solutions currently considering intelligent visual perception solutions. Competitors to Unibap’s space products are primarily in-house built computers by satellite integrators, intelligent automation and quality assurance as combinations of subsystem providers and integrators. Sensor product competitors are companies like Hexagon, Cognex, Roboception, Stemmer Imaging, while programming free software interface competitors are companies like RoboMaster.
 
 Blended modeling is for Unibap a way to improve their own engineering processes and the tools/services they provide to third parties, and thereby give them an edge on their competition. The results of BUMBLE will be exploited in a two-fold manner: (i) they will be integrated in the current solutions Unibap provides to their customer for developing software for Unibap's hardware products, and (ii) they will improve the development process at Unibap regarding software/hardware co-programming. Additionally, with BUMBLE, Unibap will have a unique opportunity to collaborate with industrial actors which already apply the MDE paradigm successfully.
 
