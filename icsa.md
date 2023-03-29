@@ -6,8 +6,26 @@ In tutorial @ICSA 2023, we demonstrated two major activities in modelling and de
 
 * Once the blended modelling environment is generated, we will show how to architect software systems by using the generated blended modelling environment, demonstrating its seamless synchronization capabilities across different modelling notations and collaborative editing features.
 
-The material presented at demo can be found on following links: 
+The material presented at demo can be found below: 
 
 [Slides](https://docs.google.com/presentation/d/1EpYXnSu1Nv5tYw3XfIdyC4uvdw15rVON/edit?usp=share_link&ouid=118002397843113092420&rtpof=true&sd=true)
 
+Textual to grahical mapping model
 
+{% include youtube.html id="BpMVZMvLMEk" %}
+
+Graphical to textual mapping model 
+
+{% include youtube.html id="yxiZje5CJ14" %}
+
+Generation of graphical editor
+
+{% include youtube.html id="McB6ALNTvbk" %}
+
+Complete process 
+
+{% include youtube.html id="sDdeOT-9sfA" %}
+
+Cross-platform real-time collaboration between Eclipse EMF and Jetbrains MPS 
+
+{% include youtube.html id="ZwwCuVC-4TI" %}
