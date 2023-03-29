@@ -1,6 +1,5 @@
-|       Name           | Affiliation |
-| ----------------     | ------- |
-
+|       Name           | Affiliation                           |
+| ----------------     | ------------------------------------- |
 |Joost van Pinxten     |Canon Production Printing (Netherlands)|
 |Roelof Hamberg        |Canon Production Printing (Netherlands)|
 |Serhat Culfa          | Ford (Turkey)                         |
