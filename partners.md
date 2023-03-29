@@ -1,7 +1,7 @@
 ---
 ---
 
-# Partners
+*** Partners ***
 
 | ![Swedish Flag](../assets/img/flag_sweden.png){:class="inline-image"} [Sweden](#Sweden) | ![Dutch Flag](../assets/img/flag_netherlands.png){:class="inline-image"} [Netherlands](#Netherlands) | ![Austrian Flag](../assets/img/flag_austria.png){:class="inline-image"} [Austria](#Austria) | ![Turkish Flag](../assets/img/flag_turkey.png){:class="inline-image"} [Turkey](#Turkey) |
 
