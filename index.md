@@ -4,7 +4,7 @@
 <img src="assets/img/group_photo.jpeg">
 </p>
 
-**ZBlended modeling** means to allow engineers to freely choose and switch between several different notations for the same domain-specific concepts captured in a DSML. The necessary synchronization techniques are exploited to also support collaborative working on models and DSML evolution.
+**Blended modeling** means to allow engineers to freely choose and switch between several different notations for the same domain-specific concepts captured in a DSML. The necessary synchronization techniques are exploited to also support collaborative working on models and DSML evolution.
 
 Traditionally, DSML tools focus on one specific notation (such as text, diagrams, tables or forms). This limits human communication, especially across engineering disciplines. A notation that is well-understood by one engineering discipline may not be understood by engineers from another discipline. Moreover, engineers (from the same or different disciplines) may have different notation preferences; not supporting multiple notations negatively affects engineers’ throughput.
 
