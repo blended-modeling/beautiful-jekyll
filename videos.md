@@ -1,14 +1,15 @@
 
 # Blended Modeling 
 
-## RTist in code
+ ## RTist in code
 
 {% include youtube.html id="4-LVBF_vZB4" %}
-
 
 ## Demo on RTist by HCL
 
 {% include youtube.html id="KzqVqcveDbs" %} 
+
+<p>&nbsp;</p>
 
 ## Textual to grahical mapping model
 
