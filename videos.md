@@ -9,8 +9,6 @@
 
 {% include youtube.html id="KzqVqcveDbs" %} 
 
-<p>&nbsp;</p>
-
 ## Textual to grahical mapping model
 
 {% include youtube.html id="BpMVZMvLMEk" %}
@@ -27,6 +25,7 @@
 
 {% include youtube.html id="sDdeOT-9sfA" %}
 
+<p>&nbsp;</p>
 
 # Collaborative Modeling (xText-based)
 
@@ -49,6 +48,8 @@
 
 {% include youtube.html id="WThMq42b3lg" %} 
 
+<p>&nbsp;</p>
+
 # DClare 
 
 ## Dclare Statemachine 
@@ -62,6 +63,8 @@
 ## Demo on Dclare by MVG 
  
 {% include youtube.html id="v=rKGqjAGj_GI" %} 
+
+<p>&nbsp;</p>
 
 # Cross-platform Real-time collaboration
 
