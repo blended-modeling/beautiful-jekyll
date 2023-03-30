@@ -1,5 +1,5 @@
 
- ## Blended Modeling 
+ # Blended Modeling 
 
  ## RTist in code
 
