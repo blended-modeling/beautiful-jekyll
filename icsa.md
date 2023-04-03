@@ -33,7 +33,7 @@ Below we provide all the video content and the slides we used during the tutoria
 
 
 <div class="responsive-wrap">
-  <iframe width="560" height="390" src="https://drive.google.com/file/d/16RLWhi2SApenDhHRcZNNtoygTTbx0IbH/view?usp=share_link" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="390" src="https://drive.google.com/file/d/16RLWhi2SApenDhHRcZNNtoygTTbx0IbH/view?usp=share_link/pub?embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
