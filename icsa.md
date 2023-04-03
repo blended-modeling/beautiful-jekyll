@@ -34,7 +34,7 @@ Below we provide all the video content and the slides we used during the tutoria
 
 <div class="responsive-wrap">
   
-  <iframe src="assets/img/ICSA.pdf" width="100%" height="500px">
+  <iframe src="/assets/img/ICSA.pdf" width="100%" height="500px">
     </iframe>
 </div>
 
