@@ -13,12 +13,27 @@ Below we provide all the video content and the slides we used during the tutoria
 [Slides](https://drive.google.com/file/d/16RLWhi2SApenDhHRcZNNtoygTTbx0IbH/view?usp=share_link)
 
 <style>
-.responsive-wrap iframe{ aspect-ratio: 16 / 9;
-	height: 100%;
-	width: 100%;} 
+.responsive-wrap {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 </style>
+Footer
+
 <div class="responsive-wrap">
-  <iframe width="560" height="650" src="https://docs.google.com/document/d/e/2PACX-1vQ_yxuYASMblhDOpbXt_cmHKHFeglIGRSvedsTGqJE-h41XBcWm0bPosuD870jIz06sar51n4v8oOsr/pub?embedded=true"></iframe>
+  <iframe width="560" height="650" src="https://docs.google.com/document/d/e/2PACX-1vQ_yxuYASMblhDOpbXt_cmHKHFeglIGRSvedsTGqJE-h41XBcWm0bPosuD870jIz06sar51n4v8oOsr/pub?embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
