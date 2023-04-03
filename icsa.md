@@ -12,6 +12,14 @@ Below we provide all the video content and the slides we used during the tutoria
 
 [Slides](https://drive.google.com/file/d/16RLWhi2SApenDhHRcZNNtoygTTbx0IbH/view?usp=share_link)
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+  <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ_yxuYASMblhDOpbXt_cmHKHFeglIGRSvedsTGqJE-h41XBcWm0bPosuD870jIz06sar51n4v8oOsr/pub?embedded=true"></iframe>
+</div>
+
+
 Textual to grahical mapping model
 
 {% include youtube.html id="BpMVZMvLMEk" %}
