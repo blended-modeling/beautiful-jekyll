@@ -1,6 +1,6 @@
 ##  Blended Modelling for Software Architectures
 
-On March 13' 2023 we gave a tutorial at the 20th International Conference on Software Architecture (ICSA - https://icsa-conferences.org/2023) titled "Blended Modeling for Software Architectures". The tutorial gives a holistic overview of the main scientific contributions of the researchers of the Malardalen University and Vrije Universiteit Amsterdam in the context of the BUMBLE project.
+On March 13' 2023 we gave a tutorial at the 20th International Conference on Software Architecture ([ICSA](https://icsa-conferences.org/2023)) titled "Blended Modeling for Software Architectures". The tutorial gives a holistic overview of the main scientific contributions of the researchers of the Malardalen University and Vrije Universiteit Amsterdam in the context of the BUMBLE project.
 
 In this tutorial, we demonstrated two major activities in modelling and designing software architectures:
 
