@@ -18,7 +18,7 @@ Below we provide all the video content and the slides we used during the tutoria
 	width: 100%;} 
 </style>
 <div class="responsive-wrap">
-  <iframe width="560" height="315" src="https://docs.google.com/document/d/e/2PACX-1vQ_yxuYASMblhDOpbXt_cmHKHFeglIGRSvedsTGqJE-h41XBcWm0bPosuD870jIz06sar51n4v8oOsr/pub?embedded=true"></iframe>
+  <iframe width="560" height="650" src="https://docs.google.com/document/d/e/2PACX-1vQ_yxuYASMblhDOpbXt_cmHKHFeglIGRSvedsTGqJE-h41XBcWm0bPosuD870jIz06sar51n4v8oOsr/pub?embedded=true"></iframe>
 </div>
 
 
