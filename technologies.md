@@ -17,5 +17,5 @@ The following repositories are currently accessible:
 
 * [bumblestatemachine](https://github.com/blended-modeling/bumblestatemachine) A simple Ecore metamodel representing state machines.  
 * [nl.vu.cs.bumble.emfcollaborationplugin](https://github.com/blended-modeling/nl.vu.cs.bumble.emfcollaborationplugin) An EMF plugin which maintains bidirectional communication with other collaborating party during real-time collaboration session.  
-* [MPS-Collaboration-Plugin](https://github.com/blended-modeling/MPS-Collaboration-Plugin/tree/development)An MPS plugin which maintains bidirectional communication with other collaborating party during real-time collaboration session.    
+* [MPS-Collaboration-Plugin](https://github.com/blended-modeling/MPS-Collaboration-Plugin/tree/development) An MPS plugin which maintains bidirectional communication with other collaborating party during real-time collaboration session.    
 * [parsafix](https://github.com/blended-modeling/parsafix) Parsafix enables real-time collaboration among engineers working on models conforming to the same DSL, but in different language workbenches.
