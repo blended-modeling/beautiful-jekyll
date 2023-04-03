@@ -33,7 +33,9 @@ Below we provide all the video content and the slides we used during the tutoria
 
 
 <div class="responsive-wrap">
-  <iframe width="560" height="390" src="https://drive.google.com/file/d/16RLWhi2SApenDhHRcZNNtoygTTbx0IbH/view?usp=share_link/pub?embedded=true" frameborder="0" allowfullscreen></iframe>
+  
+  <iframe src="assets/img/ICSA%202023.pdf" width="100%" height="500px">
+    </iframe>
 </div>
 
 
