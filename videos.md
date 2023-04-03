@@ -1,5 +1,8 @@
+---
 
- # Blended Modeling 
+---
+
+ # Demos on Blended Modeling 
 
  ## RTist in code
 
