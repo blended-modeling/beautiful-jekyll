@@ -32,7 +32,7 @@ Cross-platform real-time collaboration between Eclipse EMF and Jetbrains MPS
 
 {% include youtube.html id="ZwwCuVC-4TI" %}
 
-Team:
+## Team:
 
 [Malvina Latifaj](http://www.es.mdu.se/staff/4313-Malvina_Latifaj)
 
