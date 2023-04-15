@@ -77,7 +77,7 @@ Cross-platform real-time collaboration between Eclipse EMF and Jetbrains MPS
 | <img src="assets/img/malvina.png"> | ![]/assets/img/waseem.png |
 
 
-<table>
+<table style="width:100%">
   <tr>
     <td> <img src="assets/img/malvina.png"  </td>
 
