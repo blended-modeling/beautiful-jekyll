@@ -8,8 +8,9 @@
 | ----------------     | ------------------------------------- |
 |Joost van Pinxten     |Canon Production Printing (Netherlands)|
 |Roelof Hamberg        |Canon Production Printing (Netherlands)|
-|Serhat Culfa          | Ford (Turkey)                         |
-|Jörg Holtmann         | Gothenburg University (Sweden)        |
+|Serhat Culfa          |Ford (Turkey)                          |
+|Jörg Holtmann         |University of Gothenburg (Sweden)      |
+|Jan Philipp Steghöfer | University of Gothenburg (Sweden)     |
 | Martin Axelsson      | HCL Technologies (Sweden)             |
 | Mattias Mohlin       | HCL Technologies (Sweden)             |
 |Geylani Kardas        | Hermes Iletisim (Turkey)              |
