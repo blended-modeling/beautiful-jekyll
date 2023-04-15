@@ -71,6 +71,9 @@ Cross-platform real-time collaboration between Eclipse EMF and Jetbrains MPS
 
 [Ivano Malavolta](https://www.ivanomalavolta.com/)
 
+
+|[Malvina Latifaj](http://www.es.mdu.se/staff/4313-Malvina_Latifaj) | [Muhammad Waseem Anwar](http://www.es.mdu.se/staff/4697-Muhammad_Waseem_Anwar) |
+:-----------------------------------------: | :-----------------------:
 | ![]/assets/img/malvina.png | ![]/assets/img/waseem.png |
 
 
