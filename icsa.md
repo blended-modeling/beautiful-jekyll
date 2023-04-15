@@ -79,18 +79,23 @@ Cross-platform real-time collaboration between Eclipse EMF and Jetbrains MPS
 
 <table style="padding:10px">
   <tr>
-    <td> <img src="assets/img/malvina.png"  </td>
+    <td> <img src="assets/img/malvina.png">  </td>
 
-    <td><img src="assets/img/waseem.png" </td>
+    <td><img src="assets/img/waseem.png"> </td>
    
-    <td><img src="assets/img/federicco.png" </td>
+    <td><img src="assets/img/federicco.png"> </td>
 
-    <td><img src="assets/img/kousar.png" </td>
+    <td><img src="assets/img/kousar.png"> </td>
        
-    <td><img src="assets/img/ivano.png"  </td>   
+    <td><img src="assets/img/ivano.png">  </td>   
   
   </tr>
 </table>
 
-
+{% stripnewlines %}
+| Malvina Latifaj  | Muhammad Waseem Anwar {% newline %}
+|--------|------- {% newline %}
+| content | content {% newline %}
+| content | content {% newline %}
+{% endstripnewlines %}
 
