@@ -37,11 +37,11 @@ team:
     desc: Assistant Professor
     website: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
-  - name: Kousar Aslam
-    img: /img/people/kousar.webp
+  - name: Vincenzo Stoico
+    img: /img/people/vincenzo.jpg
     desc: Postdoc Researcher
-    website: https://nl.linkedin.com/in/kousar-aslam-61a39216b
-    url: https://nl.linkedin.com/in/kousar-aslam-61a39216b
+    website: https://www.linkedin.com/in/chalkn/
+    url: https://www.linkedin.com/in/chalkn/
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
     desc: Industrial Lecturer
@@ -125,9 +125,9 @@ team:
 - [Dr. Grace A. Lewis](http://www.sei.cmu.edu/staff/glewis) - Graduated PhD student
 
 # Former Members
+- [Kousar Aslam](https://nl.linkedin.com/in/kousar-aslam-61a39216b)
 - [Tanjina Islam](https://nl.linkedin.com/in/tanjinaislam)
 - [Nikolaos Chalkiadakis](https://www.linkedin.com/in/chalkn/)
-- [Vincenzo Stoico](https://twitter.com/vinzstoico)
 - [Maël Madon](https://www.irit.fr/~Mael.Madon/)
 - [Robin van der Wiel](https://www.linkedin.com/in/robin-van-der-wiel-1349b2102/)
 - [Dr. Istvan David](https://istvandavid.com)
