@@ -70,8 +70,8 @@ team:
   - name: Lauren Olson
     img: /img/people/lauren.jpg
     desc: PhD Student
-    website: https://github.com/laols574
-    url: https://github.com/laols574
+    website: https://laols574.github.io
+    github: https://github.com/laols574
   - name: Markus Funke
     img: /img/people/markus.jpeg
     desc: PhD Student
@@ -97,9 +97,10 @@ team:
     url: https://www.linkedin.com/in/joran-leest-204b40165
     github: https://github.com/JoranLeest
   - name: Tom Humbert
-    img: /img/people/tom.jpeg
+    img: /img/people/tom.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/tom-humbert-b6b1b718b
+    github: https://github.com/tomhumbert
   - name: Giovanni Fernando
     img: /img/people/giovanni.jpg
     desc: Scientific Assistant
