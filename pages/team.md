@@ -96,6 +96,10 @@ team:
     website: https://www.linkedin.com/in/joran-leest-204b40165
     url: https://www.linkedin.com/in/joran-leest-204b40165
     github: https://github.com/JoranLeest
+  - name: Tom Humbert
+    img: /img/people/tom.jpeg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/tom-humbert-b6b1b718b
   - name: Giovanni Fernando
     img: /img/people/giovanni.jpg
     desc: Scientific Assistant
@@ -108,6 +112,7 @@ team:
     img: /img/people/radu.jpeg
     desc: Scientific Assistant
     website: https://www.linkedin.com/in/radu-apsan-a78296213/
+
 
 ---
 {% include list-squares.html items=page.team %}
