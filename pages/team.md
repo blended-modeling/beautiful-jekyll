@@ -96,6 +96,10 @@ team:
     website: https://www.linkedin.com/in/joran-leest-204b40165
     url: https://www.linkedin.com/in/joran-leest-204b40165
     github: https://github.com/JoranLeest
+  - name: Anna Fischer
+    img: /img/people/anna.jpg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/ricarda-anna-lena-fischer-b90661105
   - name: Tom Humbert
     img: /img/people/tom.jpg
     desc: PhD Student
