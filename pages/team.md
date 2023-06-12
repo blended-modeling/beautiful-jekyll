@@ -106,7 +106,7 @@ team:
     website: https://www.linkedin.com/in/tom-humbert-b6b1b718b
     github: https://github.com/tomhumbert
   - name: Keerthiga Rajenthiram
-    img: /img/people/keerthiga.jpg
+    img: /img/people/keerthiga.png
     desc: PhD Student
     website: https://www.linkedin.com/in/keerthiga-rajenthiram
   - name: Giovanni Fernando
