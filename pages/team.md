@@ -88,7 +88,7 @@ team:
     img: /img/people/iffat.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/iffat-fatima
-    url: hhttps://www.linkedin.com/in/iffat-fatima
+    url: https://www.linkedin.com/in/iffat-fatima
     github: https://github.com/iffatfatima
   - name: Joran Leest
     img: /img/people/joran.jpg
@@ -100,6 +100,13 @@ team:
     img: /img/people/anna.jpg
     desc: PhD Student
     website: https://www.linkedin.com/in/ricarda-anna-lena-fischer-b90661105
+  - name: Faezeh Amou Najafabadi
+    img: /img/people/faeze.jpg
+    desc: PhD Student
+    website: https://www.linkedin.com/in/faeze-amoo/
+    url: https://www.linkedin.com/in/faeze-amoo/
+    github: https://github.com/FaezehAmou2020
+    twitter: https://twitter.com/FaezehAmou
   - name: Tom Humbert
     img: /img/people/tom.jpg
     desc: PhD Student
