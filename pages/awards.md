@@ -11,15 +11,36 @@ title: Awards
 **Venue:** <br><br>
 ![Venue Short Name](https://s2group.cs.vu.nl/img/awards/award_image.jpg "Venue Short Name Award")<br><br>
 -->
+## ❖ Distinguished Reviewer Award
+<p style="margin-top:-16px;"></p>  
+**Recipient:** _Ivano Malavolta_<br>
+**Venue:** 20th IEEE International Conference on Software Architecture (ICSA 2023)<br><br>
+![ICSA23Reviewer](/files/posts/ivano_icsa_2023_award.jpeg)<br><br>
+
+## ❖ Most Influential Paper Award
+<p style="margin-top:-16px;"></p>  
+**Recipient:** _Tomas Bures, Ilias Gerostathopoulos, Petr Hnetynka, Jaroslav Keznikl, Michal Kit and Frantisek Plasil_<br>
+**Venue:** 20th IEEE International Conference on Software Architecture (ICSA 2023)<br>
+**Awarded for the Paper:** _"[DEECO: An Ensemble-Based ComponentSystem](https://iliasger.github.io/pubs/bures-etal-CBSE13.pdf)"_<br><br>
+![ICSA23Reviewer](/files/posts/ilias_impact_paper.jpeg)<br><br>
+
+## ❖ IEEE TCSE New Directions Award
+<p style="margin-top:-16px;"></p>  
+**Recipient:** _Patricia Lago_<br>
+**Venue:** 45th International Conference on Software Engineering (ICSE 2023)<br>
+**Awarded for:** _"Her pioneering work in sustainable software"_<br><br>
+<!-- where new dimensions of software engineering are considered in software engineering process, with enormous impact on society -->
+![LagoTCSE23](/files/posts/lago_newdirectionsaward_icse23.jpeg "TCSE New Directions Award")<br><br>
+
 ## ❖ Best Presentation Award
 <p style="margin-top:-16px;"></p>  
-**Recipients:** _Elvin Alberts_<br>
+**Recipient:** _Elvin Alberts_<br>
 **Venue:** Context-aware, Autonomous and Smart Architecture Workshop@ECSA<br>
 **Awarded for the Paper:** _"MockSAS: Facilitating the Evaluation of Bandit Algorithms in Self-Adaptive Systems"_<br><br>
 
 ## ❖ Best Reviewer Award
 <p style="margin-top:-16px;"></p>  
-**Recipients:** _Roberto Verdecchia_<br>
+**Recipient:** _Roberto Verdecchia_<br>
 **Venue:** European Conference on Software Architecture<br><br>
 
 
@@ -37,7 +58,7 @@ title: Awards
 
 ## ❖ Best Reviewer Award
 <p style="margin-top:-16px;"></p>  
-**Recipients:** _Patricia Lago_<br>
+**Recipient:** _Patricia Lago_<br>
 **Venue:** IEEE International Conference on Software Architecture 2021 (ICSA)<br><br>
 ![ICSA21](https://s2group.cs.vu.nl/img/awards/patricia-best-reviewer-award-icsa-2021.jpeg "ICSA 2021 Award")<br><br>
 
@@ -53,8 +74,8 @@ title: Awards
 <p style="margin-top:-16px;"></p>  
 **Recipients:** Michael Peters, Gian Luca Scoccia, _Ivano Malavolta_<br>
 **Venue:** 21st IEEE International Working Conference on Source Code Analysis and Manipulation (IEEE SCAM 2021)<br>
-**Awarded for the Paper:** _"How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps?"_<br><br>
-![IEEE_SCAM_2021](http://www.ivanomalavolta.com/files/papers/SCAM_2021.pdf "IEEE SCAM 2021 Award")<br><br>
+**Awarded for the Paper:** _"[How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps?](http://www.ivanomalavolta.com/files/papers/SCAM_2021.pdf)"_<br><br>
+<!-- ![IEEE_SCAM_2021](http://www.ivanomalavolta.com/files/papers/SCAM_2021.pdf "IEEE SCAM 2021 Award")<br><br> -->
 
 ## ❖ Facebook Testing and Verification Research Award
 <p style="margin-top:-16px;"></p>  
