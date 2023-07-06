@@ -44,7 +44,7 @@ team:
     url: https://www.linkedin.com/in/chalkn/
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
-    desc: Industrial Lecturer
+    desc: Research Fellow - Digital Architecture
     website: httpss://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
     url: httpss://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
   - name: Dr. Lara Ziosi
