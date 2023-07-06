@@ -26,7 +26,7 @@ navbar-links:
     - Theses: "pages/theses"
     - Alumni: "pages/alumni" 
   Our research:
-    - Publications: "pages/publications" 
+    - Publications: "https://research.vu.nl/en/organisations/software-and-sustainability-s2/publications/" 
     - Projects: "pages/projects"
     - Green Lab: "pages/greenlab" 
     - Talks: "pages/talks"
