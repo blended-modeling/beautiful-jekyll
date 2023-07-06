@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ivano Malavolta (VU Amsterdam) receives the Distinguished Reviewer Award at ICSA 2023"
+title: "Ivano Malavolta receives the Distinguished Reviewer Award at ICSA 2023"
 tags: [awards]
 comments: true
 ---

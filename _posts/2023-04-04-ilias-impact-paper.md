@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Most Influential Paper Award for Ilias Gerostathopoulos (VU Amsterdam) at ICSA 2023"
+title: "Most Influential Paper Award for Ilias Gerostathopoulos at ICSA 2023"
 tags: [awards]
 comments: true
 ---
