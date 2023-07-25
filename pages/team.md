@@ -52,6 +52,10 @@ team:
     desc: Industrial Lecturer
     website: https://nl.linkedin.com/in/laraziosi
     url: https://nl.linkedin.com/in/laraziosi
+  - name: Zubaria Inayat
+    img: /img/people/zubaria.jpg
+    desc: Junior Lecturer
+    website: https://www.linkedin.com/in/zubaria-inayat-a45030131/
   - name: Robert Deckers
     img: /img/people/robert.jpeg
     desc: PhD Student
