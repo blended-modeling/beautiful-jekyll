@@ -40,8 +40,9 @@ team:
   - name: Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Postdoc Researcher
-    website: https://www.linkedin.com/in/chalkn/
-    url: https://www.linkedin.com/in/chalkn/
+    url: https://twitter.com/vinzstoico
+    twitter: https://twitter.com/vinzstoico
+    github: https://github.com/vnzstc
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
     desc: Research Fellow - Digital Architecture
