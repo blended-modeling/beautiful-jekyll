@@ -14,7 +14,7 @@ team:
     img: /img/people/antony.jpeg
     desc: Adjunct Associate Professor
     website: https://au.linkedin.com/in/antony-tang-8a501612
-    url: hhttps://au.linkedin.com/in/antony-tang-8a501612
+    url: https://au.linkedin.com/in/antony-tang-8a501612
   - name: Dr. Ivano Malavolta
     img: /img/people/ivano.jpeg
     desc: Associate Professor
@@ -53,8 +53,8 @@ team:
   - name: Dr. Remco de Boer
     img: /img/people/remco.jpeg
     desc: Research Fellow - Digital Architecture
-    website: httpss://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
-    url: httpss://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
+    website: https://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
+    url: https://www.archixl.nl/archixl/organisatie/wie-zijn-wij/remco
   - name: Dr. Lara Ziosi
     img: /img/people/lara.jpeg
     desc: Industrial Lecturer
