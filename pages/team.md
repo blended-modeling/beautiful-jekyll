@@ -37,6 +37,13 @@ team:
     desc: Assistant Professor
     website: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
     url: https://scholar.google.com/citations?user=Lk4HKPQAAAAJ&hl=en
+  - name: Dr. Justus Bogner
+    img: /img/people/justus.jpg
+    desc: Assistant Professor
+    website: https://xjreb.github.io
+    url: https://xjreb.github.io
+    github: https://github.com/xJREB
+    twitter: https://twitter.com/JREB1990
   - name: Vincenzo Stoico
     img: /img/people/vincenzo.jpg
     desc: Postdoc Researcher
